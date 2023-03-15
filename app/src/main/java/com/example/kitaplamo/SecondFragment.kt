@@ -27,14 +27,19 @@ class SecondFragment : Fragment() {
 
         _binding = FragmentSecondBinding.inflate(inflater, container, false)
 
-        _binding!!.textviewSecond.text="fdf"//requireArguments().getInt("lamoId").toString()
+//        _binding!!.textviewSecond.text="fdf"
+        val view = inflater.inflate(R.layout.fragment_second , container, false)
+
 
         return binding.root
 
     }
 
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?,) {
         super.onViewCreated(view, savedInstanceState)
+        val textView = view.findViewById<TextView>(R.id.textview_second)
+        val lamoId=requireArguments().getInt("lamoId").toString()
+        textView.setText("\n\\n\\n\\n\\nn\n\\n\n\n\n\n\\n\\n\\n\n\\n\\n\\n\\n\\n\n\\n\no even its $lamoId")
 
     }
 

@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.example.kitaplamo.databinding.FragmentFirstBinding
-import android.arch.lifecycle.ViewModelProviders
+import androidx.lifecycle.ViewModelProviders
 import com.example.kitaplamo.SecondFragment
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
@@ -35,11 +35,8 @@ class FirstFragment : Fragment() {
 
 
         binding.okinyi.setOnClickListener {
-//            MainActivity.lamoItemBundle.putString()
-            val args:Bundle?=null;
-            args?.putInt("lamoId",3)
-            SecondFragment().setArguments(args)
-            findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment //, Bundle().apply{ putInt("lamoId",23); }
+
+            findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment , Bundle().apply{ putInt("lamoId",23)}
             )
         }
 
