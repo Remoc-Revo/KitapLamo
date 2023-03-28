@@ -19,7 +19,9 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.KitapLamo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.KitapLamo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
+        <item name="android:textColorPrimary">@color/purple_500</item>
+    </style>
 
     <style name="Theme.KitapLamo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

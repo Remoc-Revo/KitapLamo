@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/white"
-            android:text="Lamo Mar Okinyi"
+            android:text="1.    Lamo mar Okinyi"
             android:textAlignment="textStart"
             android:textAllCaps="false"
             android:textColor="@color/black" />
@@ -27,7 +27,47 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/white"
-            android:text="Lamo Mar Odhiambo"
+            android:text="2.    Lamo mar Odhiambo"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/odhiambo_moniang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="3.    Lamo Mar Odhiambo Moniiang'"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/batiso"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="4.    Lamo mar Batiso"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/batiso_mantie_kiawa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="5.    Lamo mar Batiso Mantie Kiawa"
+            android:textAlignment="textStart"
+            android:textAllCaps="false"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/batiso_ma_apoya"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:text="6.    Batiso Ma Apoya"
             android:textAlignment="textStart"
             android:textAllCaps="false"
             android:textColor="@color/black" />
@@ -42,15 +82,7 @@
             android:textAllCaps="false"
             android:textColor="@color/black" />
 
-        <Button
-            android:id="@+id/batiso"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="Lamo Mar Batiso"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+
 
     </LinearLayout>
 

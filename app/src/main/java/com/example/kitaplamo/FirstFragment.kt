@@ -36,7 +36,7 @@ class FirstFragment : Fragment() {
 
         binding.okinyi.setOnClickListener {
 
-            findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment , Bundle().apply{ putInt("lamoId",23)}
+            findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment , Bundle().apply{ putInt("lamoId",0)}
             )
         }
 
