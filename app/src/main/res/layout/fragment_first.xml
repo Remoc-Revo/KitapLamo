@@ -6,85 +6,361 @@
     android:layout_height="match_parent"
     tools:context=".FirstFragment">
 
-    <LinearLayout
-        app:layout_constraintTop_toTopOf="parent"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
-
-        <Button
-            android:id="@+id/okinyi"
+    <ScrollView
+        android:layout_width = "match_parent"
+        android:layout_height = "match_parent"
+        android:fillViewport = "true"
+        app:layout_constraintBottom_toBottomOf = "parent"
+        app:layout_constraintTop_toTopOf = "parent"
+        tools:layout_editor_absoluteX = "1dp"
+        tools:layout_editor_absoluteY = "1dp"
+        tools:ignore="MissingConstraints">
+        <LinearLayout
+            app:layout_constraintTop_toTopOf="parent"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="1.    Lamo mar Okinyi"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+            android:orientation="vertical">
 
-        <Button
-            android:id="@+id/odhiambo"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="2.    Lamo mar Odhiambo"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+            <Button
+                android:id="@+id/okinyi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="1.    Lamo mar Okinyi"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
-        <Button
-            android:id="@+id/odhiambo_moniang"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="3.    Lamo Mar Odhiambo Moniiang'"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+            <Button
+                android:id="@+id/odhiambo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="2.    Lamo mar Odhiambo"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
-        <Button
-            android:id="@+id/batiso"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="4.    Lamo mar Batiso"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+            <Button
+                android:id="@+id/odhiambo_moniang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="3.    Lamo Mar Odhiambo Moniang'"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
-        <Button
-            android:id="@+id/batiso_mantie_kiawa"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="5.    Lamo mar Batiso Mantie Kiawa"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+            <Button
+                android:id="@+id/batiso"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="4.    Lamo mar Batiso"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
-        <Button
-            android:id="@+id/batiso_ma_apoya"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="6.    Batiso Ma Apoya"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+            <Button
+                android:id="@+id/batiso_mantie_kiawa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="5.    Lamo mar Batiso Mantie Kiawa"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
-        <Button
-            android:id="@+id/sao"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="@color/white"
-            android:text="Lamo Mar Sao"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textColor="@color/black" />
+            <Button
+                android:id="@+id/batiso_ma_apoya"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="6.    Batiso Ma Apoya"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
+            <Button
+                android:id="@+id/katkaism_manyien"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="7. Katkaism Manyien"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
+            <Button
+                android:id="@+id/rwako_ji_e_sawo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="8. Lamo mar Rwako ji e Sawo"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
 
-    </LinearLayout>
+            <Button
+                android:id="@+id/yiewo_lwedo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="9. Lamo mar Yieyo Lwedo kod Ote Dhi Tiyo gi Timo nend Yesu"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/pogo_sawo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="10. Lamo mar pogo Sawo Maler mar Ruoth"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/kend_maler"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="11. Lamo mar Kend Maler"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/guedho_kend"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="12. Guedho Kend"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/nuoyo_kuongruok_mar_kend"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="13. Nuoyo kuong'ruok mar kend"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/juma_ka_juma"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="14. Lamo Moket ni Juma ka Juma"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/mise_mar_kanisa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="15. Lamo mar Keto Mise mar Kanisa"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/walo_kanisa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="16. Lamo mar Walo Kanisa"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/duoko_kanisa_e_tije_mamoko"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="17. Lamo ma Itimo ni Kanisa mane Osewal to koro Iduoko e Tije Mamoko"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/yiko"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="18. Lamo mar Yiko Ng'at Motho"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/yik_machielo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="19. Lamo mar Yik Machielo"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/yiko_ngat_modere"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="20. Lamo mar Yiko Ng'at Modere"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/rwako_jopuonj_kanisa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="21. Rwako Jopuonj Kanisa"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/pwodho_gik_lemo_mogak"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="22. Lamo mar Pwodho Gik Lemo Mogak"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/rwako_jokristo_moa_kanise_mamoko"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="23. Rwako jo-Kristo moa e Kanise mamoko"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/rwako_jokristo_mane_oa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="24. Rwako jo-kristo mane oa to koro Duogo e Kanisa mar Anglikan"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/lokruok_a_e_richo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="25. Lamo mar lokruok a e Richo"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/limo_jotuo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="26. Lamo mar Limo Jotuo"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/chang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="27. Lamo mar Chang"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/ndalo_moyiedhi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="28. Lemo mag Ndalo Moyiedhi"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/mamoko"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="29. Lamo Mamoko"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/erokamano"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="30. Lemo moyiedhi mag goyo erokamano"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/erokamano_bang_gimoro_motimore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="31. Goyo Erokamano ni Nyasaye: Lamo bang' gimoro motimore ni Ja-Kristo mobwogo ngimane"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/erokamano_bang_keyo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="32. Goyo Erokamano bang' Keyo"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+
+            <Button
+                android:id="@+id/erokamano_bang_nyuol"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="33. Goyo Erokamano bang' Nyuol"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+            <Button
+                android:id="@+id/goyo_erokamano"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:text="34. Lamo mar Goyo Erokamano"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
 
 
 
