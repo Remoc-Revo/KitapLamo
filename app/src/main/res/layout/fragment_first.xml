@@ -86,7 +86,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="7. Katkaism Manyien"
+                android:text="7.    Katkaism Manyien"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -96,7 +96,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="8. Lamo mar Rwako ji e Sawo"
+                android:text="8.    Lamo mar Rwako ji e Sawo"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -106,7 +106,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="9. Lamo mar Yieyo Lwedo kod Ote Dhi Tiyo gi Timo nend Yesu"
+                android:text="9.    Lamo mar Yieyo Lwedo kod Ote Dhi Tiyo gi Timo nend Yesu"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -116,7 +116,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="10. Lamo mar pogo Sawo Maler mar Ruoth"
+                android:text="10.   Lamo mar pogo Sawo Maler mar Ruoth"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -126,7 +126,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="11. Lamo mar Kend Maler"
+                android:text="11.   Lamo mar Kend Maler"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -136,7 +136,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="12. Guedho Kend"
+                android:text="12.   Guedho Kend"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -146,7 +146,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="13. Nuoyo kuong'ruok mar kend"
+                android:text="13.   Nuoyo kuong'ruok mar kend"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -156,7 +156,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="14. Lamo Moket ni Juma ka Juma"
+                android:text="14.   Lamo Moket ni Juma ka Juma"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -166,7 +166,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="15. Lamo mar Keto Mise mar Kanisa"
+                android:text="15.   Lamo mar Keto Mise mar Kanisa"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -176,7 +176,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="16. Lamo mar Walo Kanisa"
+                android:text="16.   Lamo mar Walo Kanisa"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -186,7 +186,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="17. Lamo ma Itimo ni Kanisa mane Osewal to koro Iduoko e Tije Mamoko"
+                android:text="17.   Lamo ma Itimo ni Kanisa mane Osewal to koro Iduoko e Tije Mamoko"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -196,7 +196,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="18. Lamo mar Yiko Ng'at Motho"
+                android:text="18.   Lamo mar Yiko Ng'at Motho"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -206,7 +206,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="19. Lamo mar Yik Machielo"
+                android:text="19.   Lamo mar Yik Machielo"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -216,7 +216,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="20. Lamo mar Yiko Ng'at Modere"
+                android:text="20.   Lamo mar Yiko Ng'at Modere"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -226,7 +226,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="21. Rwako Jopuonj Kanisa"
+                android:text="21.   Rwako Jopuonj Kanisa"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -236,7 +236,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="22. Lamo mar Pwodho Gik Lemo Mogak"
+                android:text="22.   Lamo mar Pwodho Gik Lemo Mogak"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -246,7 +246,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="23. Rwako jo-Kristo moa e Kanise mamoko"
+                android:text="23.   Rwako jo-Kristo moa e Kanise mamoko"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -256,7 +256,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="24. Rwako jo-kristo mane oa to koro Duogo e Kanisa mar Anglikan"
+                android:text="24.   Rwako jo-kristo mane oa to koro Duogo e Kanisa mar Anglikan"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -266,7 +266,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="25. Lamo mar lokruok a e Richo"
+                android:text="25.   Lamo mar lokruok a e Richo"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -276,7 +276,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="26. Lamo mar Limo Jotuo"
+                android:text="26.   Lamo mar Limo Jotuo"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -286,7 +286,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="27. Lamo mar Chang"
+                android:text="27.   Lamo mar Chang"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -296,7 +296,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="28. Lemo mag Ndalo Moyiedhi"
+                android:text="28.   Lemo mag Ndalo Moyiedhi"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -306,7 +306,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="29. Lamo Mamoko"
+                android:text="29.   Lamo Mamoko"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -316,7 +316,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="30. Lemo moyiedhi mag goyo erokamano"
+                android:text="30.   Lemo moyiedhi mag goyo erokamano"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -326,7 +326,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="31. Goyo Erokamano ni Nyasaye: Lamo bang' gimoro motimore ni Ja-Kristo mobwogo ngimane"
+                android:text="31.   Goyo Erokamano ni Nyasaye: Lamo bang' gimoro motimore ni Ja-Kristo mobwogo ngimane"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -336,7 +336,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="32. Goyo Erokamano bang' Keyo"
+                android:text="32.   Goyo Erokamano bang' Keyo"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -346,7 +346,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="33. Goyo Erokamano bang' Nyuol"
+                android:text="33.   Goyo Erokamano bang' Nyuol"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />
@@ -355,7 +355,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/white"
-                android:text="34. Lamo mar Goyo Erokamano"
+                android:text="34.   Lamo mar Goyo Erokamano"
                 android:textAlignment="textStart"
                 android:textAllCaps="false"
                 android:textColor="@color/black" />

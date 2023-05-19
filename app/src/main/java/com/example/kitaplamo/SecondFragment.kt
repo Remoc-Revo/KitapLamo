@@ -41,11 +41,13 @@ class SecondFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?,) {
         super.onViewCreated(view, savedInstanceState)
 
+        val tr="Jkqw: <b> saderx zax ongesr wer</b>."
+
+
         val Lamo=arrayOf(
             arrayOf("Lamo mar Okinyi",
                         """
                             <pre>
-                            <h2>LAMO MAR OKINYI </h2 >
                             <h3>WECHE MONEGO IPAR </h3>                            
                             *Ka weche mondiki gi nyukta matindo malero 
                             tiend gima ng'at motelo ni lemo onego tim, 
@@ -62,7 +64,7 @@ class SecondFragment : Fragment() {
                             
                             *Wende kaka mag Habakuk, Zakaria to gi 
                             mamoko inyalo wero kata somo ka ji lawo
-                            somogo, ka jatelo wacho kare mokwongo to
+                            somogo, ka <i>Jatelo</i> wacho kare mokwongo to
                             ji duoko kare mar ariyo,kamano nyaka giko.
                             
                             *Nitie yore ariyo mar hulo ni ji ni Nyasaye
@@ -80,6 +82,7 @@ class SecondFragment : Fragment() {
                             weche ariyo kuom weche mogol e Muma,
                             mondik mwalo ka.
                             
+                            <hr>
                             To Ka ng'ato matimbene mono oweyo
                             timo richo, mi otimo timbe makare kendo
                             malong' o, to oreso ngimane.
@@ -135,7 +138,7 @@ class SecondFragment : Fragment() {
                             Kik upar ni asebiro ni mondo aketh chik Musa
                             kata ni mondo aketh weche jonabi, to asebiro
                             mana ni mondo achopgi. Mathayo 5:17.
-
+        
                             Mano kaka un johawi, un joma odhier,nikech
                             gueth mar Loch Nyasaye en maru.
                             Un johawi, un joma kech kayo ndalogi, nikech
@@ -168,15 +171,15 @@ class SecondFragment : Fragment() {
                             mondo parou odok manyien. Jo-Rumi
                             12:2.
 
-
-                            CHENRO MAR LEMO
-                            Ka ichako lemo to ji duto chung'. Jatelo golo
+                            <hr>
+                            <h4>CHENRO MAR LEMO</h4>
+                            <i>Ka ichako lemo to ji duto chung'. <i>Jatelo</i> golo
                             ka, ji siko kochung' eka orwako ji kowacho
-                            niya:
+                            niya:</i>
                             Ruoth obed kodu;
-                            Ji duto: In bende obed kodi.
+                            <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
-                            1. Jatelo: Jo Nyasaye, wachokore kanyakla, ka
+                            1. <i>Jatelo</i>: Jo Nyasaye, wachokore kanyakla, ka
                             Roho Maler oluongowa mondo wabi
                             wawinj wach Nyasaye, kendo wapak
                             nyinge maler, kod wach ngwonone
@@ -186,15 +189,15 @@ class SecondFragment : Fragment() {
                             kuom chandruok manie piny, mondo
                             wamoruru kuom hera kod kue mar
                             Nyasaye moseluongowaeni.
-                            Jatelo: Wan jocham gikeni mag Wuoro,
-                            Ji duto: Jocham gikeni kaachiel gi Wuowi
+                            <i>Jatelo</i>: Wan jocham gikeni mag Wuoro,
+                            <i>Ji duto:</i> <b>Jocham gikeni kaachiel gi Wuowi</b>
 
-                            Jatelo: Wabedo manyien kuom Roho Maler;
-                            Ji duto: Chutho kuome wan e achiel.
+                            <i>Jatelo</i>: Wabedo manyien kuom Roho Maler;
+                            <i>Ji duto:</i> <b> Chutho kuome wan e achiel</b>.
 
-                            2. Bang'e Jatelo somo achiel kata ariyo kuom
+                            2. Bang'e <i>Jatelo</i> somo achiel kata ariyo kuom
                             weche mogol e muma
-                            Jatelo: Ka wawacho ni waonge richo, to
+                            <i>Jatelo</i>: Ka wawacho ni waonge richo, to
                             wawuondore kendwa, kendo adiera
                             onge e chunywa. To ka wahulo
                             richowa, to Nyasaye weyonwagi, kendo
@@ -207,8 +210,8 @@ class SecondFragment : Fragment() {
                             motur.
 
                             3. Ji duto goyo chonggi piny ka gi hulo
-                            richogikama:
-                            Wuonwa Mochwere, Nyasach kwerewa,
+                            richogi kama:
+                            <b>Wuonwa Mochwere, Nyasach kwerewa,
                             kuom tekoni maduong gik moko duto
                             tetni,
                             to kuom Wuodi Yesu Kristo wasudo e
@@ -222,46 +225,46 @@ class SecondFragment : Fragment() {
                             ni iseweyonwa richowa kendo imichunywa
                             oyud yueyo kuom duong' mar Wuodi
                             Yesu Kristo mane otho kendo ochier
-                            mondo wayud ngima. Amina.
+                            mondo wayud ngima.Amina</b>.
 
                             4. Padri chung' kendo hulo ni ji ni Nyasaye
                             Oweyonigi richogi.
-                            Padri: Nyasaye ma Wuon Ruodhwa Yesu
+                            <i>Padri</i>: Nyasaye ma Wuon Ruodhwa Yesu
                             Kristo mor kendo rwako ng'at
                             molokore oweyo richone.
                             Joma otho bedo mangima, jomolal
                             iyudo. Berne kod ng'wonone noluwu
                             ndalo duto mag ngimau, kendo unudagi
                             e od Ruoth Nyasaye ndalo duto
-                            nyaka chieng'. Amina.
+                            nyaka chieng'.<b>Amina</b>.
 
-                            5. Ka padri onge, to jatelo wacho lamo
+                            5. Ka padri onge, to <i>Jatelo</i> wacho lamo
                             man mwaloni
-                            Jatelo: A Ruoth mang'won, wenwa
+                            <i>Jatelo</i>: A Ruoth mang'won, wenwa
                             richowa, wan mawayie kuomi, kendo
                             miwa kue mari.
                             Kamano, ka richowa osegol, mi
                             wayudo kue e chunywa, to wabed gi
                             thuolo mar tiyoni maber;
-                            kuom Yesu Kristo Ruodhwa. Amina.
+                            kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
-                            6. Jatelo: Mano kaka joma odak e Hekalu
+                            6. <i>Jatelo</i>: Mano kaka joma odak e Hekalu
                             mari gin johawi!
-                            Ji duto: Pile gipaki gi wer.
+                            <i>Ji duto:</i> <b> Pile gipaki gi wer</b>.
 
-                            Jatelo: Pakuru Ruoth.
-                            Ji duto: Nying' Ruoth opaki.
+                            <i>Jatelo</i>: Pakuru Ruoth.
+                            <i>Ji duto:</i><b> Nying' Ruoth opaki.</b>
 
-                            Jiduto chung'
-                            Jatelo: Duong' obed ni Wuoro ma gik
+                            Ji duto chung'
+                            <i>Jatelo</i>: Duong' obed ni Wuoro ma gik
                             moko
                             duto nochakore kuome,
-                            Ji duto: Duong' obed ni Wuowi ma nodoko
+                            <i>Ji duto:</i><b> Duong' obed ni Wuowi ma nodoko
                             Wuod Dhano, Duong' obed ni Roho
                             Maler mamiyowa teko mar doko
                             manyien,
                             Ruoth e Nyasachwa nyaka chieng'
-                            Alleluya!
+                          Alleluya!</b>
 
                             7. Kochakore Mudira miparo e Nyuol Yesu
                             nyaka Mudira mar Fwenyruok, kod chieng'
@@ -269,24 +272,23 @@ class SecondFragment : Fragment() {
                             Biro mar Roho Maler, weche ma ondiki mwalo
                             kagi ema inyalokonyruokgo kar weche man
                             malo ma imiyogo Nyasaye duong'.
-                            Jatelo: Wuod Nyasaye man malo chutho.
-                            Ji duto: Ma Nyako Mariam onyuolonwa
-                            tinende.
+                            <i>Jatelo</i>: Wuod Nyasaye man malo chutho.
+                            <i>Ji duto:</i> <b> Ma Nyako Mariam onyuolonwa
+                            tinende</b>.
 
-                            Jatelo: Ruodh kue ma onge kar dak e piny
+                            <i>Jatelo</i>: Ruodh kue ma onge kar dak e piny
                             Ka;
-                            Ji duto: Onegi kendo oyiki e liend Joseph
-                            ja Arimathea.
+                            <i>Ji duto:</i> <b> Onegi kendo oyiki e liend Joseph
+                            ja Arimathea</b>.
 
-                            Jatelo: Ruoth ma oloyo tho kendo
+                            <i>Jatelo</i>: Ruoth ma oloyo tho kendo
                             okelonwa ngima,
-                            Ji duto: Osemiyowa geno ma nyaka
-                            chieng.
+                            <i>Ji duto:</i> <b> Osemiyowa geno ma nyaka
+                            chieng</b>.
 
                             8. Ji wero Zaburi 100 kata 95 kata wend
                             Habakuk.
-
-                            ZABURI 100:4
+                            <b>ZABURI 100:4
                             1. Anadonji e dhorangeyene kagoyo
                             erokamano ei chunya,
                             anadonji e laru mar ode gi pak.
@@ -339,7 +341,7 @@ class SecondFragment : Fragment() {
                             Wuowi, kendo ni Roho Maler,
                             kaka nobet mokwongo, kendo pod obet
                             kawuono,
-                            kendo kaka biro bet nyaka chieng'. Amina.
+                            kendo kaka biro bet nyaka chieng'.Amina</b>.
 
                             Bang' Zaburi to iwero Duong' obed ni
                             Wuoro
@@ -347,7 +349,7 @@ class SecondFragment : Fragment() {
 
                             KATA
                             WEND HABAKUK (HABAKUK 3:17-18)
-                            Kata obedo ni ng'owo ok thiew,
+                            <b>Kata obedo ni ng'owo ok thiew,
                             kendo mzabibu gi zeituni ok nyagi
                             Bende puothe ok chieg cham,
                             Kendo rombe gi dhok onge e dala,
@@ -358,7 +360,7 @@ class SecondFragment : Fragment() {
                             Wuowi, kendo ni Roho Maler,
                             kaka nobet mokwongo, kendo pod obet
                             kawuono,
-                            kendo kaka biro bet nyaka chieng'. Amina.
+                            kendo kaka biro bet nyaka chieng'.Amina</b>.
 
                             9. ZABURI MOKETI NI NDALO KA NDALO
                             lnyalo somo kata wero. Ka isome gi ji ariyo
@@ -367,10 +369,10 @@ class SecondFragment : Fragment() {
                             chop giko
                             ka gilawore e somo kamano. Bang' mano to
                             Ji duto wacho niya:
-                            Duong' obed ni Wuoro, kendo ni Wuowi,
+                            <b>Duong' obed ni Wuoro, kendo ni Wuowi,
                             kendo ni Roho Maler, kaka nobet
                             mokwongo, kendo pod obet kawuono,
-                            kendo kaka biro bet nyaka chieng'. Amina.
+                            kendo kaka biro bet nyaka chieng'.Amina</b>.
 
                             10. Somo mokwongo, mogol e muma machon:
                             Jasomo mondo owach niya: somo
@@ -379,14 +381,14 @@ class SecondFragment : Fragment() {
                             Sula....  Chakre kae ...
                             To ka somo orumo to mondo jasomo
                             owach niya:Ma e Wach Nyasaye.
-                            Ji duto: Nyasaye erokamano
+                            <i>Ji duto:</i><b> Nyasaye erokamano </b>
 
                             WEND JAWAR (MESIA), WEND ZAKARIA
                             (KATA) WEND PAULO.
                             Chakaruok 12:3; Rapar mar
                             Cik 18:15-16; 2 Samuel 7:12-13; Isaya
                             53:4; Daniel 7:13-22)
-                            1. Yesu, Nyakwar Ibrahim guedho ogendini
+                            <b>1. Yesu, Nyakwar Ibrahim guedho ogendini
                             duto.
                             2. Yesu Janabi machalo gi Musa miyo
                             joma isando thuolo:
@@ -400,11 +402,11 @@ class SecondFragment : Fragment() {
                             Wuowi, kendo ni Roho Maler, kaka nobet
                             mokwongo, kendo pod obet kawuono,
                             kendo kaka biro bet nyaka
-                            chieng'. Amina
+                            chieng'.Amina</b>
 
                             KATA 
                             WEND ZAKARIA (Benedictus LUKA 1:68-79)
-                            1. Wapakuru Ruoth ma Nyasach Israel,
+                            <b>1. Wapakuru Ruoth ma Nyasach Israel,
                             nikech ne obiro konyo joge, mi owarogi.
                             2. Osekelonwa Jawar maratego, moa e
                             dhood Daudi jatichne mana kaka
@@ -432,11 +434,11 @@ class SecondFragment : Fragment() {
                             Duong' obed ni Wuoro, kendo ni Wuowi,
                             kendo ni Roho Maler, kaka nobet
                             mokwongo, pod obet kawuono, kendo e
-                            kaka biro bet nyaka chieng'. Amina.
+                            kaka biro bet nyaka chieng'.Amina</b>.
 
                             KATA
                             WEND PAULO (JO-KOLOSAI 1:15-18)
-                            1.Kristo e kido mineno mar Nyasaye ma
+                            <b>1.Kristo e kido mineno mar Nyasaye ma
                             ok ne. En gi duong' mar Wuowi makayo,
                             kendo en gi loch kuom chuech duto,
                             2.Nikech kuome ema ne Nyasaye
@@ -453,12 +455,12 @@ class SecondFragment : Fragment() {
                             Kanyakla mar jo-Kristo e ringre. Kristo
                             ema ne ochako kanyakla mar jo-Kristo,
                             kendo en ema ne okwongo chier oa kuom
-                            Joma otho, mi obedo jatelo kuom gik
+                            Joma otho, mi obedo <i>Jatelo</i> kuom gik
                             moko duto.
                             Duong' obed ni Wuoro, kendo ni Wuowi,
                             kendo ni Roho Maler, kaka nobet
                             mokwongo, pod obet kawuono, kendo e
-                            kaka biro bet nyaka chieng'. Amina.
+                            kaka biro bet nyaka chieng'.Amina</b>.
 
                             12. Somo mar ariyo, mogol e Muma
                             Manyien:
@@ -467,13 +469,13 @@ class SecondFragment : Fragment() {
                             Ogol e kitap. . Sula....
                             chakre Kare ...E giko somo, jasomo wacho niya:
                             Ma e wach Nyasaye.
-                            Ji duto: Nyasaye erokamano.
+                            <i>Ji duto:</i> <b> Nyasaye erokamano</b>.
                             Bang' somo to iwero kata iwacho achiel
                             kuom wende mondik mwalokagi.
 
                             13.WEND YESU KRISTO (Luka 6:27, Mathayo
                             25:35, Luka 7:22-23, 10:21)
-                            1. Heruru wasiku,
+                            <b>1. Heruru wasiku,
                             kendo timuru maber ni joma mon kodu,
                             2. Guedhuru joma kuong'ou,
                             Lamuru Nyasaye ni joma yanyou.
@@ -495,12 +497,12 @@ class SecondFragment : Fragment() {
                             Duong' obed ni Roho Maler, ma miyo
                             Wuowi doko mamor,
                             Kawuono kendo ndalo duto yaka
-                            chieng'. Amina,
+                            chieng'.Amina</b>,
 
                             KATA
                             WEND KANISA (Te Deum)
                             (Kare 14-18 inyalo weyo mak ower)
-                            1. Wapaki A Nyasaye, kendo wayie ni in e
+                            <b>1. Wapaki A Nyasaye, kendo wayie ni in e
                             Ruoth; piny duto lami, A yaye, Wuoro ma
                             nyaka chieng'.
                             2. Malaika duto kok kapaki, kendo gik
@@ -547,12 +549,12 @@ class SecondFragment : Fragment() {
                             duto aketo kuomi.
                             18.A Ruoth, ageno kuom herani kik iwe
                             ane
-                            wich kuot nyaka chieng'.
-
+                            wich kuot nyaka chieng'.</b>
+                            
                             KATA
                             WEND FWENYRUOK (Fweny 19:6-8
                             4:11; 5:9-10; 15:3-4; 5:13)
-                            1. Opak Nyasaye! Ruoth Nyasachwa
+                            <b>1. Opak Nyasaye! Ruoth Nyasachwa
                             Manyalo Gik Moko Duto osekawo
                             lochne. Wabeduru mamor ahinya, kendo
                             wamiyeuru duong'. Halleluya.
@@ -573,17 +575,18 @@ class SecondFragment : Fragment() {
                             iler.
                             6. Pak gi luor gi duong' kod loch gi gueth
                             obed ni Jal mobet e kom duong' kendo
-                            obed ni Nyarombo nyaka chieng'. Amina.
+                            obed ni Nyarombo nyaka chieng'.Amina</b>.
+                            
                             13. MILOME
                             14. WER MIRWAKOGO JAYALO
                             15. PUONJO WACH NYASAYE
                             16. AYIE MAR JOOTE
-                            Ji duto chung' kendo Jatelo wacho niya
-                            Jatelo: Wachung' kaachicl gi jo-Kristo e
+                            Ji duto chung' kendo <i>Jatelo</i> wacho niya
+                            <i>Jatelo</i>: Wachung' kaachicl gi jo-Kristo e
                             tienge duto, kendo manie piny duto
                             mondo wajiw yie marwa kaka ondiki
                             e Ayie mar Joote.
-                            Ayie kuom Nyasaye, Wuonwa
+                            <b>Ayie kuom Nyasaye, Wuonwa
                             Manyalo Gik Moko Duto, Jachuech polo gi
                             piny. Kendo ayie
                             kuom Yesu Kristo, Wuode ma Miderma,
@@ -604,22 +607,21 @@ class SecondFragment : Fragment() {
                             Nyasaye manie piny ngima, gi
                             riwruokmar joma oyie duto. Ayie ni Nyasaye weyo
                             ni ji richogi, kendo ayie ni nitie chier mar
-                            ringruok, gi ngima ma ok rum. Amina
+                            ringruok, gi ngima ma ok rum.Amina</b>
 
-                            17. Jatelo:Ruoth obed kodu
-                            Ji duto: In bende obed kodi.
-                            Jatelo: Walam.
+                            17. <i>Jatelo</i>:Ruoth obed kodu
+                            <i>Ji duto:</i> <b> In bende obed kodi</b>.
+                            <i>Jatelo</i>: Walam.
 
                             I8. Ji duto goyo chonggi piny, eka giwacho
                             kata giwero wendni
-                            Ji duto: kwauru, eka nomiu, kendo
+                            <i>Ji duto:</i> <b>kwauru, eka nomiu, kendo
                             dwaruru eka unuyudi, bende dwong'uru
-                            eka noyawnu. Allelu, alleluya.
+                            eka noyawnu. Allelu, alleluya.</b>
 
-                            19.Jatelo: Kaka Jawarwa nopuonjowa,
-                            koro
-                            wanyalo lamo gi chir niya:
-                            Ji duto:Wuonwa manie polo, nyingi
+                            19.<i>Jatelo</i>: Kaka Jawarwa nopuonjowa,
+                            koro wanyalo lamo gi chir niya:
+                            <i>Ji duto:</i><b>Wuonwa manie polo, nyingi
                             mondo omi luor, lochni obi, kendo dwaroni
                             mondo otimree piny kaka
                             timore e polo, imiwa chiembwa
@@ -629,13 +631,13 @@ class SecondFragment : Fragment() {
                             Kik iwe wadonj e tem, to reswa e
                             richo. Nikech loch gi teko kod
                             duong' gin magi nyaka chieng'
-                            Amina.
+                           Amina</b>.
 
                             KATA LAMO MAR RUOTH KA IWERO
                             Jower nyalo telo ni ji ka giwero kare
                             mokwongo to ji duto Kare mar ariyoo
                             kamano nyaka giko
-                            Wuonwa manie polo.
+                            <b>Wuonwa manie polo.
                             Nyingi obed maler,
                             Piny Ruodhi mondo obi dwaroni otimre,
                             Nyingi obed maler, Nyingi obed maler.
@@ -655,40 +657,39 @@ class SecondFragment : Fragment() {
                             Nyingi obed maler,
                             gin magi nyaka chieng',
                             Nyingi obed maler, nyingi obed maler.
-                            Amina Amina nyingi obed maler,
-                            Amina Amina Amina nyingi obed maler.
+                           Amina Amina nyingi obed maler,
+                           Amina Amina Amina nyingi obed maler.</b>
 
-                            20. Jatelo:A Ruoth, ibednwa mang'won,
-                            Ji duto Kendo imiwa warruokni.
+                            20. <i>Jatelo</i>:A Ruoth, ibednwa mang'won,
+                            Ji duto :Kendo imiwa warruokni.
+                            <i>Jatelo</i>: A Ruoth, telni Jatend pinywa,
+                            <i>Ji duto:</i> <b> Kimiye bedo jabura mariek kendo
+                            makare</b>.
 
-                            Jatelo: A Ruoth, telni Jatend pinywa,
-                            Ji duto: Kimiye bedo jabura mariek kendo
-                            makare.
+                            <i>Jatelo</i>: Mi jotichni otini gi adiera,
+                            <i>Ji duto:</i> <b> Kendo ogandani miyiero otini
+                            gimor</b>.
 
-                            Jatelo: Mi jotichni otini gi adiera,
-                            Ji duto: Kendo ogandani miyiero otini
-                            gimor.
+                            <i>Jatelo</i>: Ei hoho mar tipo mar tho,
+                            <i>Ji duto:</i> <b> Ludhi gi odungani hoyowa</b>.
 
-                            Jatelo: Ei hoho mar tipo mar tho,
-                            Ji duto: Ludhi gi odungani hoyowa.
+                            <i>Jatelo</i>: Kaka yien mopidhi e bath aora,
+                            <i>Ji duto:</i> <b> Mi wanyag olemo moa kuom
+                            Roho mari</b>.
 
-                            Jatelo: Kaka yien mopidhi e bath aora,
-                            Ji duto: Mi wanyag olemo moa kuom
-                            Roho mari.
-
-                            Jatelo: Orwa wadhi kaka kado ma twono
+                            <i>Jatelo</i>: Orwa wadhi kaka kado ma twono
                             piny,
-                            Ji duto: Kendo kaka ler marieny e piny.
+                            <i>Ji duto:</i> <b> Kendo kaka ler marieny e piny</b>.
 
-                            Jatelo: Piny mondo opong' gi duong' ni
+                            <i>Jatelo</i>: Piny mondo opong' gi duong' ni
                             maler,
-                            Ji duto: Mana kaka pi opong'o nam.
+                            <i>Ji duto:</i> <b>Mana kaka pi opong'o nam.</b>
 
                             21. LAMO MOKETI NI JUMA KA JUMA.
                             22. LAMO MAR KUE
                             Inyalo lamo achiel kuom lamo ariyo man-kagi
 
-                            A Nyasaye Manyalo Gik Moko Duto kendo
+                            <b>A Nyasaye Manyalo Gik Moko Duto kendo
                             mochwere, Wuon Ruodhwa Yesu Kristo,
                             ma Ruodh Kue, ka waringo iri to wayudo
                             resruok, ka wageno kendo wahore kuomi
@@ -697,10 +698,10 @@ class SecondFragment : Fragment() {
                             Goloko weche mapek kendo machando
                             chunywa, mondo ngimawa onyis ber mar
                             kue mari kuom Yesu kristo Ruodhwa.
-                            Amina.
+                            Amina</b>.
 
                             KATA
-                            A Nyasaye, in e wuon kue, kendo in ema
+                            <b>A Nyasaye, in e wuon kue, kendo in ema
                             ihero winjruok. Ng'ech ma wang'eyigo
                             ema kelonwa ngima ma nyaka chieng',
                             kendo ka watiyoni to wabedo joma ni
@@ -708,12 +709,12 @@ class SecondFragment : Fragment() {
                             masiche duto ma wasikwa kelo, mondo
                             wabed maonge luoro kata matin,
                             kawageno mana kuom rit miritowago,
-                            kuom Yesu Kristo Ruodhwa. Amina.
+                            kuom Yesu Kristo Ruodhwa. Amina</b>.
 
                             23. LAMO MAR NG' WONO
                             Inyalo lamo achiel kuom lamo man mwalogi
-
-                            A Nyasaye Manyalo Gik Moko Duto,
+                            
+                            <b>A Nyasaye Manyalo Gik Moko Duto,
                             isebedo Jaritwa ei otieno duto kendo ibed
                             jaritwa tinendeni, ka wawuotho e ler, to
                             wabed joneno mag yoreni makare, ka
@@ -722,7 +723,7 @@ class SecondFragment : Fragment() {
                             Ipuonjwa luwo Wuodi Yesu Kristo kendo
                             itelnwa kiterowa e ngima ma nyaka
                             chieng', kuom Yesu Kristo Ruodhwa.
-                            Amina.
+                           Amina</b>.
 
                             KATA
                             A Ruoth, Wuonwa manie polo, in e
@@ -732,15 +733,15 @@ class SecondFragment : Fragment() {
 
                             *****23-24 ******
 
-                            30. Jatelo:A Ruoth Nyasaye, in ema ichiwo gik
+                            30. <i>Jatelo</i>:A Ruoth Nyasaye, in ema ichiwo gik
                             moko duto.
 
-                            Ji duto: Kendo wadwokoni mana gik misemi-
-                            yowa.
+                            <i>Ji duto:</i> <b>Kendo wadwokoni mana gik misemi-
+                            yowa.</b>
 
                             31.GUETH KATA LAMO MOGIK
 
-                            Padri: Nyasaye ma Wuon Ruodhwa Yesu
+                            <i>Padri</i>: Nyasaye ma Wuon Ruodhwa Yesu
                             Kristo, opong’u kod mor gi kue ka
                             uyie kuome, mondo kuom teko mar
                             Roho Maler, ubed gi geno chutho:
@@ -749,36 +750,37 @@ class SecondFragment : Fragment() {
                             Roho Maler, obed kodu kendo osik
                             kodu ndalo duto nyaka chieng’.
 
-                            Ji duto; Amina,
+                            Ji duto;<b>Amina</b>,
 
-                            Jatelo: Waduto wariwre e Ng’wono.
+                            <i>Jatelo</i>: Waduto wariwre e Ng’wono.
 
-                            Ji duto: Ng’wono mar Ruodhwa Yesu
+                            <i>Ji duto:</i> <b>Ng’wono mar Ruodhwa Yesu
                             Kristo, gi hera mar Nyasaye, kod
                             achiel mawan-go kuom Roho
                             Maler, obed kodwa duto nyaka
-                            chieng’. Amina.
+                            chieng’. Amina</b>.
 
                             32.WER MOGIK
                             Lemo Moko
                             33.LAMO MIKWAYOGO NI PINY AFRIKA
-                            A Nyasaye, guedh piny Afrika,
+                            <b>A Nyasaye, guedh piny Afrika,
                             Irit joge, irit jotende, kendo imiye kue;
                             Nikech wakwayi e nying Yesu Kristo
-                            Ruodhwa. Amina.
+                            Ruodhwa. Amina</b>.
                                
                               
                             34.LAMO MIKWAYOGO NI ACHIEL MAR JO
                             -KRISTO (Januari 18-25)
-                            A Ruoth Nyasaye, mi Kanisani obed
+                            <b>A Ruoth Nyasaye, mi Kanisani obed
                             manyien ka ichako koda:
                             Ires pinywa, kendo ichang adhondewa,
                             bende imi wabedie achiel ka ikonyori
                             kodwa e tich miseluongowae; kuom Yesu
-                            Kristo Ruodhwa. Amina.
+                            Kristo Ruodhwa. Amina</b>.
+                            
                             35. LAMO MIKWA YOGO NYASAYE MONDO
                             OOR KOTH
-                            A Nyasaye Manyalo Gik Moko Duto, in
+                            <b>A Nyasaye Manyalo Gik Moko Duto, in
                             ema ichiwo ngima kod teko, in ema
                             ichweyo polo kendo ikelo koth, jarit ji duto,
                             kod cham, yien gi le duto: Ka kuedhewa
@@ -788,23 +790,22 @@ class SecondFragment : Fragment() {
                             kendo ineg riyo moloyowa, imed guedho
                             kwedhewa kendo imiwa keyo maber e
                             lowo momew; kuom Yesu Kristo, ma en
-                            pi mar ngima. Amina.
+                            pi mar ngima. Amina</b>.
+                            
                             36. LAMO MIKWAYOGO MONDO WACH
                             NYASAYE OLANDRE E PINY
-                            A Nyasaye Wuonwa, miwae gombo mar
+                            <b>A Nyasaye Wuonwa, miwae gombo mar
                             Wachni Maber kod chir mar lando ni ji
                             mamoko wach ng’wononi. Wakwayi
                             mondo Roho Maler oket bura ni chuny
                             jomolal kendo oduokgi ir Jawar, ma
-                            enYesu Kristo Ruodhwa. Amina.
-
-                               
+                            enYesu Kristo Ruodhwa. Amina</b>.
 
                                 
                             37. LAMO MIKWAYOGO NI JOMA ODAK E
                             MIER MADONGO (TAON) 
 
-                            A Nyasaye ma Jachwech, Wuonwa manie
+                            <b>A Nyasaye ma Jachwech, Wuonwa manie
                             Polo, Wuodi nodoko japa bao e dala Nazareth:
                             Wakwayi mondo ikony jogo duto matiyo
                             kuonde milosoe gik moko kod kuonde ma
@@ -819,7 +820,7 @@ class SecondFragment : Fragment() {
                             do walok ngimagi mondo okel ni nyingi
                             maler duong’ mana kaka Wuodi Yesu
                             Kristo mane onge kama oketoe wiye, noch-
-                            ier moloyonwa tho. Amina.
+                            ier moloyonwa tho. Amina</b>.
 
                             38.LEMO MOKO MA PADRI GUEDHOGO JI
                             Padri kende ema wacho lamogi:
@@ -831,7 +832,7 @@ class SecondFragment : Fragment() {
                             Kendo hap Nyasaye Manyalo gik Moko
                             Duto, Wuoro, Wuowi, kod Roho Maler obed
                             kodu kendo osik kodu ndalo duto nyaka
-                            chieng’. Amina.
+                            chieng’.<b>Amina</b>.
 
 
                             Ruoth oguedhi kendo oriti,
@@ -841,7 +842,7 @@ class SecondFragment : Fragment() {
                             Kendo hap Nyasaye Manyalo Gik Moko
                             Duto, Wuoro, Wuowi kod Roho Maler, obed
                             kodu kendo osik kodu ndalo duto nyaka
-                            chieng’. Amina.
+                            chieng’.<b>Amina</b>.
                             KATA
                             Koro duong’ obed ni Nyasaye, manyalo ti-
                             monwa gik moko duto moloyo kaka
@@ -853,7 +854,7 @@ class SecondFragment : Fragment() {
                             Kendo hap Nyasaye Manyalo Gik Moko
                             Duto, Wuoro, Wuowi kod Roho Maler, obed
                             kodu kendo osik kodu ndalo duto nyaka
-                            chieng’. Amina.
+                            chieng’.<b>Amina</b>.
                             KATA
                             Kue mar Nyasaye modhiero rieko duto ng’eyo,
                             mondo orit chunyu gi parou, kung'eyo Nyasaye
@@ -865,7 +866,7 @@ class SecondFragment : Fragment() {
                             Kendo hap Nyasaye Manyalo Gik Moko
                             Duto, Wuoro, Wuowi kod
                             Roho Maler, obed kodu kendo osik kodu
-                            nyaka chieng’, Amina.
+                            nyaka chieng’,<b>Amina</b>.
                             Gueth man mwalokagi Padri wacho kochung'
                             oko mar Kanisa, orieyo bade kochomo puodho
                             Kata kund dhok kata lek kama jamni kwayoe
@@ -882,7 +883,7 @@ class SecondFragment : Fragment() {
                             Kendo hap Nyasaye Manyalo Gik Moko
                             Duto, Wuoro, Wuowi kod Roho maler, obed
                             kodu kendo osik kodu ndalo duto nyaka
-                            chieng’. Amina.
+                            chieng’.<b>Amina</b>.
                             39. Ka Padri onge to ng’at motelo ni lemo
                             mondo owachi kaka ondiki piny kani:
                             Ruodhwa Yesu Kristo owuon, gi Nyasaye
@@ -897,7 +898,7 @@ class SecondFragment : Fragment() {
                             gi hera mar Nyasaye, kod achiel ma wan
                             go kuom Roho Maler, obed kodwa duto
                             nyaka chieng’.
-                            Amina.
+                           <b>Amina</b>.
 
                             (2 Jo-Thesalonika 2:16-17).
 
@@ -906,33 +907,32 @@ class SecondFragment : Fragment() {
                         """.trimIndent()
             ),
             arrayOf(
-                "Lamo Mar Odhiambo",
+                "LAMO MAR ODHIAMBO",
                 """
                     <pre>
-                    LAMO MAR ODHIAMBO
-
+                    
                     1. WER.
 
                     Bang’ wer to ng‘ama otelo ni lemo ruako ji
                     kowacho niya:
 
-                    Jatelo: Ruoth mondo obed kodu
+                    <i>Jatelo</i>: Ruoth mondo obed kodu
 
-                    Ji duto: In bende obed kodi.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
-                    Jatelo: Koro wachopo esa ma chieng' dhi pod-
+                    <i>Jatelo</i>: Koro wachopo esa ma chieng' dhi pod-
                     ho, meny moluorowa rieny, Wapako
                     Wuoro, Wuowi kod Roho Maler.
 
-                    Jatelo: Duong’ obed ni Wuoro ma gik moko
+                    <i>Jatelo</i>: Duong’ obed ni Wuoro ma gik moko
                     duto nochakore kuome;
 
-                    Ji duto: Duong’ obed ni Wuowi ma nodoko
+                    <i>Ji duto:</i> Duong’ obed ni Wuowi ma nodoko
                     Wuod Dhano, Duong’ obed ni
                     Roho Maler ma miyowa teko mar
                     doko manyien, Ruoth e
                     Nyasachwa nyaka chieng’!
-                    Alleluya!
+                  <b>Alleluya</b>!
 
                     2. Achiel kata ariyo kuom weche mogol e Mu-
                     ma man mwalo ka inyalo somo. Weche Mogol
@@ -961,7 +961,7 @@ class SecondFragment : Fragment() {
                     Yie wadhi kodi ka, nimar sa koro oniang'
                     Kendo piny chiegni yuso. (Luka 24:29)
 
-                    3.Jatelo: Ka wawacho ni waonge ticho, to
+                    3.<i>Jatelo</i>: Ka wawacho ni waonge ticho, to
                     wawuondore kendwa, kendo adiera
                     onge e chunywa. To ka wahulo
                     richowa, to oweyonwagi, kendo
@@ -971,7 +971,7 @@ class SecondFragment : Fragment() {
                     Emomiyo akwayou uduto ni mondo
                     wahul richowa ni Nyasaye Wuonwa
 
-                    Ji duto: Wuonwa Mochwere, Nyasach kwerewa, 
+                    <i>Ji duto:</i> Wuonwa Mochwere, Nyasach kwerewa, 
                     kuom tekoni maduong' gik moko 
                     duto tetni, to kuom Wuodi 
                     Yesu Kristo wasudo e nyim
@@ -985,12 +985,12 @@ class SecondFragment : Fragment() {
                     ywa oyud yueyo kuom Duong’ mar
                     Wuodi Yesu Kristo, manotho ken-
                     do ochier oa kuom joma otho mon-
-                    do wayud ngima. Amina.
+                    do wayud ngima.<b>Amina</b>.
 
                     Padri chung’ kendo hulo ni ji ni Nyasaye
                     oweyonigi richogi
 
-                    4. Padri:
+                    4. <i>Padri</i>:
 
                     Nyasaye ma Wuon Ruodhwa Yesu
                     Kristo mor ka ng’ato olokore oweyo
@@ -998,24 +998,24 @@ class SecondFragment : Fragment() {
                     otho ichiero, joma olal iyudo. Berne
                     kod ng’wonone noluwu ndalo duto mag
                     ngimau, kendo unudagi e Hekalu mar
-                    Ruoth Nyasaye nyaka chieng’. Amina.
+                    Ruoth Nyasaye nyaka chieng’.<b>Amina</b>.
 
                     Ka Padri onge to ng‘ama otelo ni lemo wacho
                     kama:
-                    Jatelo;
+                    <i>Jatelo</i>;
 
                     A Ruodh ng’wono, wenwa richowa,
                     wan mwayie kuomi, kendo miwa kue
                     mari, kamano ka richowa osegol mi
                     wayudo kue e chunywa, to wabed gi
                     thuolo mar tiyoni maber; kuom Yesu
-                    Kristo Ruodhwa, Amina.
+                    Kristo Ruodhwa,<b>Amina</b>.
 
-                    Jatelo: Mano kaka joma odak e Hekalu mari
+                    <i>Jatelo</i>: Mano kaka joma odak e Hekalu mari
                     gin johawi!
-                    Ji duto: Pile gipaki gi wer.
-                    Jatelo:  Pakuru Ruoth:
-                    Ji duto: Nying' Ruoth opaki.
+                    <i>Ji duto:</i> <b> Pile gipaki gi wer</b>.
+                    <i>Jatelo</i>:  Pakuru Ruoth:
+                    <i>Ji duto:</i> Nying' Ruoth opaki.
                     5. ZABURI 134
                     Inyalo wero kata wacho
 
@@ -1033,7 +1033,7 @@ class SecondFragment : Fragment() {
                     Duong’ obed ni Wuoro, kendo ni Wuowi,
                     kendo ni Roho Maler; kaka nobet
                     mokwongo, pod obet kawuono, kendo
-                    kaka biro bet nyaka chieng’. Amina.
+                    kaka biro bet nyaka chieng’.<b>Amina</b>.
 
                     Ji duto bet piny.
                     7. Somo mokwongo mogol e Muma Machon
@@ -1043,7 +1043,7 @@ class SecondFragment : Fragment() {
                     E giko somo to jasomo wacho niya:
                     Ma e Wach Nyasaye
 
-                    Ji duto:  Nyasaye erokamano.
+                    <i>Ji duto:</i> <b>  Nyasaye erokamano</b>.
 
 
                     8. WEND MARIAM KATA WEND GUETH
@@ -1077,7 +1077,7 @@ class SecondFragment : Fragment() {
                     Duong’ obed ni Wuoro, Wuowi, kod
                     Roho Maler; Kaka nobet mokwongo, pod
                     obet kawuono, kendo kaka biro bet nyaka
-                    chieng’. Amina.
+                    chieng’.<b>Amina</b>.
 
                     KATA
                     WEND GUETH (Mathayo 5:3-10)
@@ -1106,7 +1106,7 @@ class SecondFragment : Fragment() {
                     Duong’ obed ni Wuoro, Wuowi, kod
                     Roho Maler, kaka nobet mokwongo, ken-
                     do pod obet kawuono, kendo kaka biro
-                    bet nyaka chieng’. Amina.
+                    bet nyaka chieng’.<b>Amina</b>.
 
                     Ji duto bet piny.
 
@@ -1116,7 +1116,7 @@ class SecondFragment : Fragment() {
                     Egiko somo to jasomo wacho ni:
 
                     Ma e Wach Nyasaye.
-                    Ji duto: Nyasaye erokamano.
+                    <i>Ji duto:</i> <b> Nyasaye erokamano</b>.
 
                     10. WEND SIMEON (Nunc. Dinittis. Luka 2:29-32)
 
@@ -1135,7 +1135,7 @@ class SecondFragment : Fragment() {
                     Duong' obed ni Wuoro, Wuowi, kod ni
                     Roho Maler, kaka nobet mokwongo, pod
                     obet kawuono, kendo kaka biro bet nyaka
-                    chieng’. Amina.
+                    chieng’.<b>Amina</b>.
 
                     KATA
 
@@ -1163,7 +1163,7 @@ class SecondFragment : Fragment() {
                     Duong' obed ni Wuoro, Wuowi, kod Roho
                     Maler, kaka nobet mokwongo, pod obet
                     kawuon, kendo kaka biro bet nyaka
-                    chieng’. Amina.
+                    chieng’.<b>Amina</b>.
 
                     KATA
 
@@ -1198,7 +1198,7 @@ class SecondFragment : Fragment() {
                     Duong’ obed ni Wuoro, Wuowi, kod Roho
                     Maler, kaka nobet mokwongo, kendo pod
                     obet kawuono, kendo kaka biro bet nyaka
-                    chieng’. Amina.
+                    chieng’.<b>Amina</b>.
 
                     11.MILOME
 
@@ -1208,12 +1208,12 @@ class SecondFragment : Fragment() {
 
                     14.AYIE MAR JOOTE
 
-                    Jatelo: Wachung’ kachiel gi jo-Kristo e
+                    <i>Jatelo</i>: Wachung’ kachiel gi jo-Kristo e
                     tienge duto kendo e piny duto mondo
                     wajiw yie marwa kaka ondiki e Ayie
                     mar Joote
 
-                    Ji duto: Ayie kuom Nyasaye,
+                    <i>Ji duto:</i> Ayie kuom Nyasaye,
                     Wuonwa Manyalo Gik Moko Duto,
                     Jachuech Polo gi piny.
                     Kendo ayie kuom Yesu Kristo,
@@ -1238,26 +1238,26 @@ class SecondFragment : Fragment() {
                     Ayie ni Nyasaye weyo ni ji richogi,
                     kendo ayie ni nitie chier mar
                     ringruok, gi ngima ma ok rum.
-                    Amina.
+                   <b>Amina</b>.
 
-                    15. Jatelo: Ruoth obed kodu,
-                    Ji duto:In bende obed kodi.
+                    15. <i>Jatelo</i>: Ruoth obed kodu,
+                    <i>Ji duto:</i> <b>In bende obed kodi</b>.
 
-                    16. Jatelo: Walam
+                    16. <i>Jatelo</i>: Walam
                     (Ji goyo chonggi piny kata gibet ka gidembore)
-                    Jatelo: Kwauru eka nomiu,
-                    Ji duto: Dwaruru eka unuyudi.
-                    Jatelo: Dwong'uru eka noyawnu.
-                    Ji duto: Allelu, Alleluya.
+                    <i>Jatelo</i>: Kwauru eka nomiu,
+                    <i>Ji duto:</i> <b> Dwaruru eka unuyudi</b>.
+                    <i>Jatelo</i>: Dwong'uru eka noyawnu.
+                    <i>Ji duto:</i> Allelu,<i>Alleluya</i>.
                      
 
                     17.LAMO MAR RUOTH
 
-                    Jatelo: Kaka Jawarwa Yesu Kristo nopuon-
+                    <i>Jatelo</i>: Kaka Jawarwa Yesu Kristo nopuon-
                     jowa, koro wan gi chir mar wacho
                     niya:
 
-                    Ji duto: Wuonwa manie polo,
+                    <i>Ji duto:</i> Wuonwa manie polo,
                     nyingi mondo omi luor, lochni obi,
                     kendo dwaroni mondo otimre
                     e piny kaka timore e polo
@@ -1267,7 +1267,7 @@ class SecondFragment : Fragment() {
                     Kik iwe wadonj e tem, to reswa
                     ericho.
                     Nikech Loch gi teko kod duong’
-                    gin magi nyaka chieng’. Amina.
+                    gin magi nyaka chieng’.<b>Amina</b>.
 
                     LAMO MAR RUOTH KIWERO:
 
@@ -1290,31 +1290,31 @@ class SecondFragment : Fragment() {
                     Nyingi obed maler,
                     gin magi nyaka chieng’,
                     Nyingi obed maler, Nyingi obed maler.
-                    Amina Amina Nyingi obed maler
-                    Amina Amina Amina Amina Nyingi obed
+                   <b>Amina</b><b>Amina</b> Nyingi obed maler
+                   <b>Amina</b><b>Amina</b><b>Amina</b><b>Amina</b> Nyingi obed
                     maler
-                    18. Jatelo: A Ruoth, ibednwa mang'won
-                    Ji duto:Kendo imiwa warruokni.
+                    18. <i>Jatelo</i>: A Ruoth, ibednwa mang'won
+                    <i>Ji duto:</i> <b>Kendo imiwa warruokni</b>.
 
-                    Jatelo: A Ruoth, tel ni jatend pinywa;
-                    Ji duto:Kimiye bedo jabura mariek kendo
-                    makare.
+                    <i>Jatelo</i>: A Ruoth, tel ni jatend pinywa;
+                    <i>Ji duto:</i> <b>Kimiye bedo jabura mariek kendo
+                    makare</b>.
 
-                    Jatelo: Mi jotichni otini gi adiera;
-                    Jiduto: Kendo ogandani miyiero otini gi mor.
+                    <i>Jatelo</i>: Mi jotichni otini gi adiera;
+                    <i>Ji duto:</i><b> Kendo ogandani miyiero otini gi mor</b>.
 
-                    Jatelo: Ei hoho mar tipo mar tho;
-                    Ji duto: Ludhi gi odungani hoyowa.
+                    <i>Jatelo</i>: Ei hoho mar tipo mar tho;
+                    <i>Ji duto:</i> <b> Ludhi gi odungani hoyowa</b>.
 
-                    Jatelo Orwa wadhi kaka kado matuono piny:
-                    Ji duto: Kendo kaka ler marieny e piny.
+                    <i>Jatelo</i> Orwa wadhi kaka kado matuono piny:
+                    <i>Ji duto:</i> <b> Kendo kaka ler marieny e piny</b>.
 
-                    Jatelo: Kaka yien mopidhi e bath aora:
-                    Ji duto: Mi wanyag olemo moa kuom Roho Mari 
+                    <i>Jatelo</i>: Kaka yien mopidhi e bath aora:
+                    <i>Ji duto:</i> Mi wanyag olemo moa kuom Roho Mari 
 
-                    Jatelo: Piny mondo opong’ gi duong’ni 
+                    <i>Jatelo</i>: Piny mondo opong’ gi duong’ni 
                     maler
-                    Ji duto:Mana kaka pi opong’o nam.
+                    <i>Ji duto:</i>Mana kaka pi opong’o nam.
 
                     19.LAMO MOKETI NI JUMA KA JUMA.
                     20.LAMO MAR KUE
@@ -1324,7 +1324,7 @@ class SecondFragment : Fragment() {
                     do, telnwa ka wachiew mondo ka wachiew
                     to wabed jorit kaachiel gi Kristo kendo ka
                     wanindo to wayud kue: kuom Wuodi ma
-                    Ruodh kue. Amina,
+                    Ruodh kue.<b>Amina</b>,
 
                     KATA
 
@@ -1335,7 +1335,7 @@ class SecondFragment : Fragment() {
                     mondo chunywa omak chikeni, kendo kik
                     wabed gi kibaji kuom luoro ma wasikwa
                     kelo,e seche ma wayueyo mos; kuom Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     21.LAMO MA WAKWAYOGO NYASAYE MON-
                     DO ORITWA.
@@ -1343,7 +1343,7 @@ class SecondFragment : Fragment() {
                     molworowa, kendo iritwa gi ng’wononi
                     maduong’ kuom masiche duto mag
                     otienoni; nikech hera mar Wuodi Yesu
-                    Kristo Ruodhwa. Amina
+                    Kristo Ruodhwa.<b>Amina</b>
                      
                     KATA
 
@@ -1355,7 +1355,7 @@ class SecondFragment : Fragment() {
                     otienoni ka wageno chiew kuom Kristo to
                     wamor kuom duong’ni maler; kuom en
                     mangima kendo molocho kod in gi Roho
-                    Maler, Nyasaye achiel nyaka chieng’. Amina.
+                    Maler, Nyasaye achiel nyaka chieng’.<b>Amina</b>.
 
                     22. Wende mag pak, wende chuny, kata wer mor
                     mogol e Kitap Wende Luo inyalo wero e
@@ -1369,10 +1369,10 @@ class SecondFragment : Fragment() {
                     Bang’ chiwo ng‘ama otelo ni lemo mondo
                     owach niya
 
-                    Jatelo: A Ruoth Nyasaye, in ema ichiwo gik
+                    <i>Jatelo</i>: A Ruoth Nyasaye, in ema ichiwo gik
                     moko duto.
 
-                    Ji duto: Kendo wadwokoni mana gik misemiyowa.
+                    <i>Ji duto:</i> <b> Kendo wadwokoni mana gik misemiyowa</b>.
 
                     24.GUETH KATA LEMO MOGIK
 
@@ -1382,7 +1382,7 @@ class SecondFragment : Fragment() {
                     ng‘wono kata lemo moko kaka ondiki e mi-
                     gawo mar 39. sa lamo mar Okinyi.
 
-                    Padri: Ruoth oguedhu kendo oritu,
+                    <i>Padri</i>: Ruoth oguedhu kendo oritu,
                     Ruoth mondo orienynu kendo ong’wonnu,
                     Ruoth mondo orangu maber kendo
                     okelnu kue.
@@ -1392,13 +1392,13 @@ class SecondFragment : Fragment() {
                     Roho Maler; obed kodu kendo osik
                     kodu ndalo duto nyaka chieng'.
 
-                    Ji duto:Amina,
-                    25. Ka Padri onge to jatelo kod ji mondo
+                    <i>Ji duto:</i><i>Amina</i>,
+                    25. Ka Padri onge to <i>Jatelo</i> kod ji mondo
                     wacho ng'uono
                     Ng’wono mar Ruodhwa Yesu Kristo, gi
                     hera mar Nyasaye, kod achiel ma wan-go
                     kuom Roho Maler, obed kodwa duto
-                    nyaka chieng’. Amina. (2 Jo-Korintho
+                    nyaka chieng’.<b>Amina</b>. (2 Jo-Korintho
                     13:13).
 
                     KATA
@@ -1412,7 +1412,7 @@ class SecondFragment : Fragment() {
                     mabeyo. Kendo ng’wono mar Ruodhwa
                     Yesu Kristo, gi hera mar Nyasaye, kod
                     achiel ma wan-go kuom Roho Maler,
-                    obed kodwa duto nyaka chieng'. Amina.
+                    obed kodwa duto nyaka chieng'.<b>Amina</b>.
                     (2 Jo-Thesalonika 2:16-17).
 
                     26. WER MOGIK
@@ -1421,11 +1421,10 @@ class SecondFragment : Fragment() {
                 """.trimIndent()
             ),
             arrayOf(
-                "Lamo mar Odhiambo Moniang'",
+                "LAMO MAR ODHIAMBO MONIANG’'",
                 """
                     <pre>
-                    LAMO MAR ODHIAMBO
-                    MONIANG’
+              
                     (Lamo mogik mar ndalo)
 
                     WECHE MONEGO IPAR
@@ -1444,28 +1443,28 @@ class SecondFragment : Fragment() {
                     konyore gi lamo mar gueth mayudore e
                     lamo mar okinyi.
 
-                    Jatelo maok padri to nyalo konyore gi
+                    <i>Jatelo</i> maok padri to nyalo konyore gi
                     weche mag Ng’wono.
 
                     E giko mar lemoni, ji ke ka giling' thi
 
-                    CHENRO MAR LEMO.
+                    <h4>CHENRO MAR LEMO</h4>.
 
                     1. WER
-                    2. Jatelo: Ruoth obed kodu;
-                    Ji duto: In bende obed kodi
+                    2. <i>Jatelo</i>: Ruoth obed kodu;
+                    <i>Ji duto:</i> In bende obed kodi
 
-                    Jatelo: A Ruoth bi irwa gotienoni;
-                    Ji duto: Bi irwa gi meny.
+                    <i>Jatelo</i>: A Ruoth bi irwa gotienoni;
+                    <i>Ji duto:</i> <b> Bi irwa gi meny</b>.
 
-                    Jatelo: A Ruoth wuo kodwa gotienoni,
-                    Ji duto: Wachnwa adiera mari.
+                    <i>Jatelo</i>: A Ruoth wuo kodwa gotienoni,
+                    <i>Ji duto:</i> <b> Wachnwa adiera mari</b>.
 
-                    Jatelo: A Ruoth bed kodwa otienoni;
-                    Ji duto: Bed kodwa gi hera.
+                    <i>Jatelo</i>: A Ruoth bed kodwa otienoni;
+                    <i>Ji duto:</i> <b> Bed kodwa gi hera</b>.
 
-                    Jatelo: In e pondowa;
-                    Ji duto: Igeng'wa e chandruok kendo iluor-
+                    <i>Jatelo</i>: In e pondowa;
+                    <i>Ji duto:</i> Igeng'wa e chandruok kendo iluor-
                     wa gi wende mag resruok.
 
 
@@ -1473,24 +1472,24 @@ class SecondFragment : Fragment() {
                     Hulo richo man kani (kata manielamo mar
                     okinyi kata mar odhiambo) inyalo konyruok-
                     go, ji chung' kata bet ka gi dembore.
-                    Jatelo:Ng’at matemo pando richone ok nyal
+                    <i>Jatelo</i>:Ng’at matemo pando richone ok nyal
                     dhi maber;
 
-                    Ji duto:To ng’at mahulo richone kendo
+                    <i>Ji duto:</i>To ng’at mahulo richone kendo
                     weyo ema Nyasaye kecho.
                     (Ngeche 28:13).
 
-                    Jatelo: Wahulo richowa e nyimi a Ruoth;
-                    Ji duto: Wahulo gi duto.
+                    <i>Jatelo</i>: Wahulo richowa e nyimi a Ruoth;
+                    <i>Ji duto:</i> <b> Wahulo gi duto</b>.
 
-                    Jatelo: Richo mar timo gik ma ok owinjore
+                    <i>Jatelo</i>: Richo mar timo gik ma ok owinjore
                     watim kod richo mar weyo timo gik
                     ma owinjore watim;
-                    Ji duto: Wahulo gi duto.
+                    <i>Ji duto:</i> <b> Wahulo gi duto</b>.
 
-                    Jatelo: Luokwa kendo iwenwa richowa a
+                    <i>Jatelo</i>: Luokwa kendo iwenwa richowa a
                     jawar moherowa; 
-                    Ji duto: Luokwa kendo iwenwa.
+                    <i>Ji duto:</i> <b> Luokwa kendo iwenwa</b>.
 
                     Ji nyalo wero wendni ka lamogo Nyasaye;
                     “Yesu in Misangona"’ (wer 183 kare 3) kata
@@ -1543,7 +1542,7 @@ class SecondFragment : Fragment() {
                     Maler.
                     Kaka nobet mokwongo kendo pod obet
                     kawuono,
-                    Kendo kaka biro bet nyaka chieng’. Amina.
+                    Kendo kaka biro bet nyaka chieng’.<b>Amina</b>.
 
                     ZABURI 91:1-11
 
@@ -1594,7 +1593,7 @@ class SecondFragment : Fragment() {
                     Maler,
                     Kaka nobet mokwongo kendo pod obet
                     kawuono,
-                    Kendo kaka biro bet nyaka chieng’. Amina,
+                    Kendo kaka biro bet nyaka chieng’.<b>Amina</b>,
 
                     6. Moko kuom somo mogol e Muma kata moko
                     ma owinjore inyalo somo gi ji mopogore opo-
@@ -1644,7 +1643,7 @@ class SecondFragment : Fragment() {
                     9. LEMO MAG KWAYO (Chakore gi lamo mar
                     Ruoth)
 
-                    Jatelo: Kaka Jawarwa Yesu Kristo nopuon-
+                    <i>Jatelo</i>: Kaka Jawarwa Yesu Kristo nopuon-
                     jowa koro wan-gi chir mar wacho
                     kama;
 
@@ -1655,10 +1654,10 @@ class SecondFragment : Fragment() {
                     richowa kaka waweyo ni joma timonwa
                     marach, kik iwe wadonjie tem, to reswa e
                     richo nikech loch gi teko kod duong’ gin
-                    magi nyaka chieng’. Amina.
+                    magi nyaka chieng’.<b>Amina</b>.
 
                     Lemo ni chandruok kata goyo erokamano
-                    kuom gik ma Nyaxaye timo ei Kanisa kata ni
+                    kuom gik ma Nyasaye timo ei Kanisa kata ni
                     ogandawa, inyalo lamo bang’ lamo mar Ruoth.
 
                     LAMO MIKWAYOGO NYASAYE
@@ -1667,7 +1666,7 @@ class SecondFragment : Fragment() {
                     uorowa, kendo iritwa gi ng’wononi madu-
                     ong’ kuom masiche duto mag otienoni; ni-
                     kech hera mar Wuodi ma Miderma, Jawarwa
-                    Yesu Kristo Ruodhwa, Amina.
+                    Yesu Kristo Ruodhwa,<b>Amina</b>.
 
 
                     KATA
@@ -1675,7 +1674,7 @@ class SecondFragment : Fragment() {
                     Kendo igeng'wa mondo gimoro marach kik
                     timrenwa,
                     kendo malaika magi mondo oritwa ka wanindo,
-                    Nyaka ler mar okinyi rieny. Amina
+                    Nyaka ler mar okinyi rieny.<b>Amina</b>
 
                     Inyalo wacho kata wero wendni (701 e Golden
                     Bells)
@@ -1684,7 +1683,7 @@ class SecondFragment : Fragment() {
                     Ritwa ei otieno mokueni;
                     kik iwe jawasigu keth kue mimiyowa;
                     Yesu, bed jaritwa;
-                    Geno kuomi kelonwa kue. Amina.
+                    Geno kuomi kelonwa kue.<b>Amina</b>.
 
 
                     10. LEMO MA IGWEDHOGO NINDO
@@ -1698,7 +1697,7 @@ class SecondFragment : Fragment() {
                     Mi wayud mor ka wanindo gotienoni mondo
                     wagoni erokamano gokinyi ka wachiewo,
                     kendo waikre timo tije manie nyimwa. Kuom
-                    Yesu Kristo Ruodhwa wakwayi. Amina.
+                    Yesu Kristo Ruodhwa wakwayi.<b>Amina</b>.
 
 
                     11. LEMO MAR AGUSTINO MALER
@@ -1710,20 +1709,20 @@ class SecondFragment : Fragment() {
                     itelnwa,
                     Igeng’wa kuom gik madihinywa, kendo e
                     kuyowa duto imiwa kueni; kuom Yesu Kris-
-                    to Ruodhwa,Amina
+                    to Ruodhwa,<i>Amina</i>
 
                     12. GUETH MOGIK
-                    Padri: Ruoth mondo oguedhu kendo oritu;
+                    <i>Padri</i>: Ruoth mondo oguedhu kendo oritu;
                     Ruoth mondo orienynu kendo
                     ong’wonnu, Ruoth mondo orangu
                     maber, kendo okelnu kue; Kendo
                     gueth mar Nyasaye Manyalo Gik
                     Moko Duto, Wuoro, Wuowi kod
                     Roho Maler obed kodu ndalo duto.
-                    Amina.
+                   <b>Amina</b>.
 
                     Ka padri onge
-                    Jatelo: To koro Ruodhwa Yesu Kristo, gi
+                    <i>Jatelo</i>: To koro Ruodhwa Yesu Kristo, gi
                     Nyasaye Wuonwa mane oherowa gi
                     hera maduong’ kendo osejiwowa gi
                     jip mochwere, kendo mosemiyowa
@@ -1734,13 +1733,13 @@ class SecondFragment : Fragment() {
                     Kristo, gi hera mar Nyasaye, kod
                     achiel ma wan-go kuom Roho Maler,
                     obed kodwa duto nyaka chieng
-                    Amina,
+                   <b>Amina</b>,
 
                     KATA
                     Ng'wono mar Ruodhwa Yesu kristo,
                     gi hera mar Nyasaye kod achiel ma
                     wango kuom Roho Maler obed
-                    kodwa duto nyaka chieng’. Amina,
+                    kodwa duto nyaka chieng’.<b>Amina</b>,
 
                     13. Ji ke koling’ thi
                     
@@ -1792,11 +1791,11 @@ class SecondFragment : Fragment() {
                     ng'ato naka bed gi jochung' arlyo:
                     madichwo gi madhako.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
 
                     1. WER
-                    Padri: Ruoth obed kodu;
-                    Ji duto: In bende obed kodi.
+                    <i>Padri</i>: Ruoth obed kodu;
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
                     Ji duto bedo mak mana jonyuol kod jo-
                     chung’ mag joma ibiro batisi.
@@ -1805,15 +1804,15 @@ class SecondFragment : Fragment() {
                     mayom ma idwaro batisi niya:
                     Bende nyithindogi osebatisi gi pi e nying
                     Wuoro, Wuowi kod Roho Maler? 
-                    Dwoko:Podi.
+                    <i>Dwoko:</i><b>Podi</b>.
 
                     Padri penjo joma dongo monego batisi niya.
                     Osebatisu gi pi e nying Wuoro, Wuowi kod
                     Roho Maler?
-                    Dwoko: Podi.
+                    <i>Dwoko:</i><b> Podi</b>.
 
                     3. Joma idwaro batisi bet piny
-                    Padri: Kamano Johana Jabatiso cotucho e
+                    <i>Padri</i>: Kamano Johana Jabatiso cotucho e
                     thim, Kalando wach ni mondo ji oyud
                     batiso kaka ranyisi ni giloko chunygi,
                     mondo Nyasaye owenigi richogi. Ji
@@ -1835,7 +1834,7 @@ class SecondFragment : Fragment() {
 
                     Ji nyalo ling’ kuom kinde matin.
 
-                    4 Ji duto: Nyasaye Manyalo Gik Moko
+                    4 <i>Ji duto:</i> Nyasaye Manyalo Gik Moko
                     Duto, kendo Jachwech Gik Mo-
                     ko Duto, ichweyowa gi sironyo e
                     kiti iwuon: To waseketho kitino
@@ -1844,10 +1843,10 @@ class SecondFragment : Fragment() {
                     Bang’ somo inyili to ja somo wacho niya
                     Ma e Injili mar Kristo.
 
-                    Ji duto: Alleluya, Wapak Kristo ma Ja-
+                    <i>Ji duto:</i><i>Alleluya</i>, Wapak Kristo ma Ja-
                     warwa.
                     Japuonj: Akelo jogi mondo obatisi
-                    Padri: Bende isepuonjo gi minonogi min-
+                    <i>Padri</i>: Bende isepuonjo gi minonogi min-
                     wang’o ni gin joma owinjore batisi?
                     wachwanyo jowadwa, Wasetimo
                     gik ma ok owinjore watim,
@@ -1862,9 +1861,9 @@ class SecondFragment : Fragment() {
                     jomaler kendo makare,
                     kitelonwa gi Roho Maler
                     Majahoch. Wakwayo ma kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
-                    Padri:  Nyasaye Manyalo Gik Moko Duto,
+                    <i>Padri</i>:  Nyasaye Manyalo Gik Moko Duto,
                     kendo ma herane mosiko duong'
                     kendo bor kaka polo oyombo piny,
                     ogol richou duto, mabor kodu ma-
@@ -1874,7 +1873,7 @@ class SecondFragment : Fragment() {
                     ngimano manyaka chieng’; Kuom
                     Yesu Kristo Ruodhwa,
 
-                    Jiduto: Amina,
+                    <i>Ji duto:</i><b>Amina</b>,
                     5. LAMO MAR NDALO
                     6. SOMO WACH NYASAYE
                     Inyalo somo somo adek ma owuok e Muma
@@ -1886,14 +1885,14 @@ class SecondFragment : Fragment() {
                     To ka somo orumo to mondo jasomo owach
                     niya:
                     Ma ewach Nyasaye
-                    Ji duto: Nyasaye erokamano,
+                    <i>Ji duto:</i> Nyasaye erokamano,
                     Somo mogol e barupe yudore e kitap
                     .......sula.........chakre
                     Kare..........
 
                     E giko somo, jasomo wacho niya:
                     Ma ewach Nyasaye.
-                    Ji duto: Nyasaye erokamano.
+                    <i>Ji duto:</i> <b> Nyasaye erokamano</b>.
 
                     7. Somo mar Injili
                     Inyalo som achiel kuom somo mogol e Injili
@@ -1911,7 +1910,7 @@ class SecondFragment : Fragment() {
                     11. JIWO JOMA IBIRO BATISI
                     Padri jiwo joma ibiro batisi kowacho
                     wechégi:
-                    Padri: Owetewa gi nyiminewa mwahero
+                    <i>Padri</i>: Owetewa gi nyiminewa mwahero
                     kuom Ruoth, ei Injili mar Johana
                     Maler, Yesu wachonwa ni,"ka ng'ato
                     ok onywol gi pi kendo gi Roho, to ok
@@ -1950,7 +1949,7 @@ class SecondFragment : Fragment() {
                     marwa kendo walam nijowadwa
                     nyithindwagi.
 
-                    12. Ji duto: Wuonwa Manyalo Gik Moko
+                    12. <i>Ji duto:</i> Wuonwa Manyalo Gik Moko
                     Duto wagoyoni erokamano kuom
                     luongowa mondo wang’eyi, Kendo
                     waket genowa kuomi, Kendo wayie
@@ -1965,7 +1964,7 @@ class SecondFragment : Fragment() {
                     cheng' ka gi bedo e achiel mar
                     kanyakla mar jogi; kuom Yesu
                     Kristo chakruok mar warruokwa.
-                    ‘Amina.
+                    ‘<i>Amina</i>.
 
                     13.KELO JOMA IDWARO BATISI E NYIM PADRI.
 
@@ -1978,7 +1977,7 @@ class SecondFragment : Fragment() {
 
                     Eka Padri rango jonyuol kod jochung’ eka
                     openjo japuonj kama:
-                    Padri:  Isepuonjo kendo iiko jonywol kod
+                    <i>Padri</i>:  Isepuonjo kendo iiko jonywol kod
                     jochung' malong’o mi gi ng’ eyo tiend
                     weche ma gidwaro singore kar
                     nyithindogi?
@@ -1989,7 +1988,7 @@ class SecondFragment : Fragment() {
                     ema nite to Padri dhi nyime gi migawo mar
                     15.
 
-                    14. Padri:Muma wachonwa ni kane jarit jela
+                    14. <i>Padri</i>:Muma wachonwa ni kane jarit jela
                     ose yie kuom Ruoth Yesu, “ne obatise
                     kaachiel gi joode duto.”Kanisawa ba-
                     tiso nyithindo matindo ma ok nyal
@@ -2002,26 +2001,26 @@ class SecondFragment : Fragment() {
                     Bende iikori singori kar nyathini/
                     nyithindogi ma idwaro batisini?
 
-                    Dwoko: Aikora
+                    <i>Dwoko:</i><b> Aikora
 
-                    Padri: Bende inipuonj nyathini/nyithindogi
+                    </b><i>Padri</i>: Bende inipuonj nyathini/nyithindogi
                     yie mar jo-Kristo gi wachni kod timni?
-                    Dwoko: Anatim kamano.
+                    <i>Dwoko:</i><b> Anatim kamano</b>.
 
-                    Padri: Bende inikony kendo jiwo nyathini/
+                    <i>Padri</i>: Bende inikony kendo jiwo nyathini/
                     nyithindogi e ngima mar dakne kaka
                     ja-Kristo?
-                    Dwoko: Anatim kamano,
+                    <i>Dwoko:</i><b> Anatim kamano,
 
-                    Padri: Bende inilem ni nyathini/nyithindogi
+                    </b><i>Padri</i>: Bende inilem ni nyathini/nyithindogi
                     kinde ka kinde kendo kele e lemo
                     mar mudira?
-                    Dwoko: Anatim kamano.
+                    <i>Dwoko:</i><b> Anatim kamano</b>.
 
-                    Padri: Ka nyathini/nyithindogi osepuonji
+                    <i>Padri</i>: Ka nyathini/nyithindogi osepuonji
                     maber initere ir bishop mondo oket
                     lwedo kuome/kuomgi?
-                    Dwoko: Anatim kamano.
+                    <i>Dwoko:</i><b> Anatim kamano</b>.
 
                     E kindeni joma dongo ma idwaro batisi inyalo
                     mi thuolo mar timo neno machiek mar ngima-
@@ -2031,40 +2030,40 @@ class SecondFragment : Fragment() {
                     Padri wacho ni joma idwaro batisi, jonyuol gi
                     jochung’ niya.
 
-                    Padri: Usebiro ka mondo obatisu. Nyaka
+                    <i>Padri</i>: Usebiro ka mondo obatisu. Nyaka
                     udwok penjogi gi adiera e nyim
                     Nyasaye kendo e nyim joma ochokore
                     ka;
                     Bende ilokori iyie kuom Kristo?
-                    Dwoko: Alokora ayie kuom Kristo.
+                    <i>Dwoko:</i><b> Alokora ayie kuom Kristo</b>.
 
-                    Padri: Bende ilokori iweyo richoni duto?
-                    Dwoko: Alokora aweyo richona duto.
+                    <i>Padri</i>: Bende ilokori iweyo richoni duto?
+                    <i>Dwoko:</i><b> Alokora aweyo richona duto</b>.
 
-                    Padri: Bende idagi satan gi tichne duto,
+                    <i>Padri</i>: Bende idagi satan gi tichne duto,
                     kaachiel gi timbe oyuma mag pinyni?
-                    Dwoko: Adagi gi duto,
+                    <i>Dwoko:</i><b> Adagi gi duto,
 
-                    Padri:Bende idagi gombo maricho duto
+                    </b><i>Padri</i>:Bende idagi gombo maricho duto
                     mag ringruok, kod lamo gik maket?
-                    Dwoko: Adagi gi duto.
+                    <i>Dwoko:</i><b> Adagi gi duto</b>.
 
-                    Padri: Bende iyie kendo igeno kuom Ny-
+                    <i>Padri</i>: Bende iyie kendo igeno kuom Ny-
                     asaye Wuoro manochueyo piny?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
 
-                    Padri: Bende iyie kendo igeno kuom
+                    <i>Padri</i>: Bende iyie kendo igeno kuom
                     Wuode Yesu Kristo ma nobiro reso
                     dhano?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
 
-                    Padri:  Bende iyie kendo igeno kuom Roho
+                    <i>Padri</i>:  Bende iyie kendo igeno kuom Roho
                     Maler machiwo ngima ni jo Nyasaye?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
 
                     16. AYIE MAR JOOTE
-                    Ji duto chung’ kendo Jatelo nowach niya:
-                    Jatelo: Wachung’ kaachiel gi jo-Kristo e
+                    Ji duto chung’ kendo <i>Jatelo</i> nowach niya:
+                    <i>Jatelo</i>: Wachung’ kaachiel gi jo-Kristo e
                     tienge duto, kendo manie piny duto
                     mondo wajiw yie marwa kaka ondiki
                     e Ayie mar Joote.
@@ -2092,77 +2091,77 @@ class SecondFragment : Fragment() {
                     Ayie ni Nyasaye weyo ni ji richogi,
                     Kendo ayie ni nitie chier mar
                     Ningruok, gi ngima ma ok rum.
-                    Amina.
+                   <b>Amina</b>.
 
-                    Padri: Kristo oseloyo Satan koda ka teko
+                    <i>Padri</i>: Kristo oseloyo Satan koda ka teko
                     mar chuny maricho duto;
-                    Ji duto: Alleluya.
+                    <i>Ji duto:</i><i>Alleluya</i>.
 
                     18.CHAKO NYING'
                     Jonywol gi jochung’ kelo joma idwaro batisi
                     ir Padri.
-                    Padri: Chakuru jali nying'
+                    <i>Padri</i>: Chakuru jali nying'
                     Ihulo nying’ ne padre
 
                     17.GUEDHO PI
                     Padri gi joma idwaro batisi dhi kar batiso,
                     kendo ji duto chung'.
-                    Padri: Gouru ni Ruoth Nyasaye erokamano
+                    <i>Padri</i>: Gouru ni Ruoth Nyasaye erokamano
                     nikech ober.
-                    Ji duto: Kendo herane mosiko ochwere.
+                    <i>Ji duto:</i> <b> Kendo herane mosiko ochwere</b>.
 
-                    Padri: Wagone erokamano kuom gueth mar pi.
-                    Ji duto: Wagoni erokamano Ruoth Nyasaye.
+                    <i>Padri</i>: Wagone erokamano kuom gueth mar pi.
+                    <i>Ji duto:</i> <b> Wagoni erokamano Ruoth Nyasaye</b>.
 
-                    Padri: Kuom reso Noa g joode e ataro mar pi;
+                    <i>Padri</i>: Kuom reso Noa g joode e ataro mar pi;
                     Ji dito: Wagoni erokamano Ruoth Nyasaye.
 
-                    Padri: Kuom ng’ado gi nyithind Israel Nam
+                    <i>Padri</i>: Kuom ng’ado gi nyithind Israel Nam
                     makwar, kigologi e od twech e piny
                     Misri kiterogi e piny mane isingo ni
                     kweregi;
-                    Ji duto: Wagoni erokamano Ruoth Nyasaye.
+                    <i>Ji duto:</i> <b> Wagoni erokamano Ruoth Nyasaye</b>.
 
-                    Padri: Kuom Wuodi Yesu Kristo mane
+                    <i>Padri</i>: Kuom Wuodi Yesu Kristo mane
                     obatisi e aora Jordan;
-                    Ji duto: Wagoni erokamano Ruoth Nyasaye.
+                    <i>Ji duto:</i> <b> Wagoni erokamano Ruoth Nyasaye</b>.
 
-                    Padri: Winj lamowa ka wamako chik
+                    <i>Padri</i>: Winj lamowa ka wamako chik
                     wuodi mondo wadhi wabatis ji e ny-
                     ing Wuoro, Wuowi kod Roho Maler;
-                    Ji duto: Winjwa A Ruoth Nyasaye.
+                    <i>Ji duto:</i> <b> Winjwa A Ruoth Nyasaye</b>.
 
-                    Padri: Puodh pigni mondo obatisgo jotichnigi;
-                    Ji duto: Puodhe A Ruoth Nyasaye.
+                    <i>Padri</i>: Puodh pigni mondo obatisgo jotichnigi;
+                    <i>Ji duto:</i> <b> Puodhe A Ruoth Nyasaye</b>.
 
-                    Padri: Guedh jogo mibiro batisi
-                    Ji duto: Gwedhgi A Ruoth Nyasaye.
+                    <i>Padri</i>: Guedh jogo mibiro batisi
+                    <i>Ji duto:</i> <b> Gwedhgi A Ruoth Nyasaye</b>.
 
-                    Padri: Mondo ilwokgi kuom richogi duto;
-                    Ji duto: Mondo gibed maler A Ruoth
-                    Nyasaye.
+                    <i>Padri</i>: Mondo ilwokgi kuom richogi duto;
+                    <i>Ji duto:</i> <b> Mondo gibed maler A Ruoth
+                    Nyasaye</b>.
 
-                    Padri: Mondo giriwre gi Kristo e thone
+                    <i>Padri</i>: Mondo giriwre gi Kristo e thone
                     kendo e chierne;
-                    Ji duto: Mondo giriwre kode A Ruoth
-                    Nyasaye.
+                    <i>Ji duto:</i> <b> Mondo giriwre kode A Ruoth
+                    Nyasaye</b>.
 
-                    Padri: Mondo onywolgi nywol manyien gi
+                    <i>Padri</i>: Mondo onywolgi nywol manyien gi
                     Roho e ngima manyaka chieng';
-                    Ji duto: Mondo onywolgi nywol manyien A
-                    Ruoth Nyasaye.
+                    <i>Ji duto:</i> <b> Mondo onywolgi nywol manyien A
+                    Ruoth Nyasaye</b>.
 
-                    Padri: Mondo giriwre e achiel mar Ringre
+                    <i>Padri</i>: Mondo giriwre e achiel mar Ringre
                     Kristo;
-                    Ji duto: Mondo giriwre kode A Ruoth
-                    Nyasaye.
+                    <i>Ji duto:</i> <b> Mondo giriwre kode A Ruoth
+                    Nyasaye</b>.
 
                     19.BATISO
                     Padri nyumo kata oolo pi e wi ng’ato ka
                     ng’ato kowacho niya:-
                     In N......... abatisi e nying Wuoro,
                     Wuowi kod Roho Maler.
-                    Jiduto: Amina.
+                    <i>Ji duto:</i><b>Amina</b>.
 
                     20. RANYISI MAR MUSALABA
                     Padri keto ranyisi mar Musalaba e pat wi
@@ -2170,7 +2169,7 @@ class SecondFragment : Fragment() {
                     Nikech koro isekadho ia e tho kidonjo e ngima
                     manyien kuom Kristo, aketo kuomi ranyisi
                     mar Musalaba.
-                    Ji duto: Amina.
+                    <i>Ji duto:</i><b>Amina</b>.
                     Ka ji duto osebatisi inyalo wer kata goyo
                     sigalagala
 
@@ -2196,31 +2195,31 @@ class SecondFragment : Fragment() {
                     kod satan e bwo bandech Kristo, ki/
                     kubedo ja/jolwenj Kristo, kendo ja/
                     jotichne mar adier nyaka chieng’ thoni/u.
-                    Amina.
+                   <b>Amina</b>.
 
                     23. Joma dongo mosebatisi chung’
-                    Padri: Waduto nobatiswa kuom Roho achiel;
-                    Ji duto: E ringruok achiel.
+                    <i>Padri</i>: Waduto nobatiswa kuom Roho achiel;
+                    <i>Ji duto:</i> <b> E ringruok achiel</b>.
                     Padi: Kata wang’eny to wan ringruok achiel;
-                    Ji duto: Nikech wachamo makati achiel.
-                    Padri: Koro warwakuru owetewa gi
+                    <i>Ji duto:</i> <b> Nikech wachamo makati achiel</b>.
+                    <i>Padri</i>: Koro warwakuru owetewa gi
                     nyiminewa kaka joma oriwore
                     kodwa e Sawo Maler mar Ruoth.
                     Josawo: Warwakou mondo ucham kodwa
                     sawo ma ringre Kristo. Gin johawi
                     jogo moluongi e nyasi mar Kisera
-                    mar Nyarombo Nyasaye. Alleluya!
+                    mar Nyarombo Nyasaye.<i>Alleluya</i>!
 
-                    24. Padri: Kue mar Nyasaye mondo obed kodu
+                    24. <i>Padri</i>: Kue mar Nyasaye mondo obed kodu
                     ndalo duto;
                     
                     25, WER MAR GOLO CHIWO
                     26. Bang chiwo ng'ama otelo ni lemo mondo
                     owach kama:
-                    Jatelo: A Ruoth Nyasaye, in ema ichiwo
+                    <i>Jatelo</i>: A Ruoth Nyasaye, in ema ichiwo
                     gik moko duto.
-                    Ji duto: Kendo waduokoni mana gik ma
-                    isemiyowa.
+                    <i>Ji duto:</i> <b> Kendo waduokoni mana gik ma
+                    isemiyowa</b>.
 
                     27.Ka lemoni orumo gika, to Padri guedho
                     jo-Kristo kawacho kama:
@@ -2229,7 +2228,7 @@ class SecondFragment : Fragment() {
                     chuny mar lokruok a e richo pile kendo otel-
                     nu uwuothi e ler, kuom Yesu Kristo ma en
                     Ler mar piny, kendo man gi loch kuom Sa-
-                    tan. Amina.
+                    tan.<b>Amina</b>.
 
                     28. Ka sawo nitie to Padri mondo odhi yime e
                     migawo mar 15 e lamo mar pogo Sawo
@@ -2251,9 +2250,9 @@ class SecondFragment : Fragment() {
                     mar lemo mar batiso mapile, mak mana sa
                     batiso hie (migawo mar 19 eka Padri
                     wacho kama):
-                    Padri: N.........kapok ne obatisi
+                    <i>Padri</i>: N.........kapok ne obatisi
                     adier, koro abatisi e nying' Wuoro,
-                    Wuowi kod Roho Maler. Amina.
+                    Wuowi kod Roho Maler.<b>Amina</b>.
                     Bang'e Padri dhi nyime gi lemo mar batiso
                     yaka giko.
                     
@@ -2277,7 +2276,7 @@ class SecondFragment : Fragment() {
                     E kinde ma ja-Kristono batise to owacho
                     kama: N...........Abatisi e
                     nying' Wuoro, Wuowi kod Roho Maler.
-                    Ji duto: Amina.
+                    <i>Ji duto:</i><b>Amina</b>.
 
                     *Bang' batiso makama nyaka nyis Padri
                     mapiyo kaka nyalore.
@@ -2295,7 +2294,7 @@ class SecondFragment : Fragment() {
 
                     *Ka nitie 
                     kiawa e batsono, to Padri mondo
-                    oti kod chenro mar lemo mar batiso man
+                    oti kod <h4>CHENRO MAR LEMO</h4> mar batiso man
                     tie kiawa.
 
                     *Ka oyudi ni ne ok obatise adier, to Padri
@@ -2385,7 +2384,7 @@ class SecondFragment : Fragment() {
                     piny ngima, gi riwruok mar joma oyie
                     duto. Ayie ni Nyasaye weyo niji richogi
                     kendo ayie ni nitie chier mar ringruok, gi
-                    ngima ma ok rum. Amina.
+                    ngima ma ok rum.<b>Amina</b>.
 
                     8. Ango ma ipuonjori kuom ayiego?
                     Kuom Ayiego apuonjora yie kuom Ny-
@@ -2423,7 +2422,7 @@ class SecondFragment : Fragment() {
                     Duong' obed ni Wuoro, Wuowi kod Roho
                     Maler, kaka nobet mokwongo, pod obet
                     kawuono, kendo kaka biro bet nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     III LUONG MAR KANISA
                     12. Kanisa en ang'o?
@@ -2664,7 +2663,7 @@ class SecondFragment : Fragment() {
                     waweyo ni joma timonwa marach.
                     Kik iwe wadonj e tem to reswa e richo.
                     Nikech loch gi teko kod duong'
-                    gin magi nyaka chieng'. Amina.
+                    gin magi nyaka chieng'.<b>Amina</b>.
 
                     33. Muma en ang'o?
                     Muma machon kod manyien gin ndiko
@@ -2900,7 +2899,7 @@ class SecondFragment : Fragment() {
                     wacho gino ma giyie kuome.
                     Padri nyalo penjo moko kuom jogi penjo
                     moro amora kaka oneno
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1. Lamoni chakore kod lamo mar pogo Sawo
                     Maler mar Ruoth (migawo 1-13)
                     KELO JOMA IRWAKO E NYIM PADRI
@@ -2911,7 +2910,7 @@ class SecondFragment : Fragment() {
                     mar Ruoth.
 
                      
-                    Padri:Bende jogi ose iki mondo orwakgi e
+                    <i>Padri</i>:Bende jogi ose iki mondo orwakgi e
                     Sawo Maler mar Ruoth ?
 
                     Japuonj: Ee, asepuonjogi tiend sakramit mar
@@ -2921,29 +2920,29 @@ class SecondFragment : Fragment() {
 
                     3. Padri lokore ir joma iruako.
 
-                    Padri:Bende ing’ eyo tiend batiso mari?
-                    Dwoko: Ne obatisa ei Kristo mi atho ni
+                    <i>Padri</i>:Bende ing’ eyo tiend batiso mari?
+                    <i>Dwoko:</i><b> Ne obatisa ei Kristo mi atho ni
                     richo, Osemiyo abedo maler kendo
-                    koro angima ‘nikech en. Ane
+                    koro angima </b>‘nikech en. Ane
                     achiel kode kuom Roho, kendo an
                     jakanyo mar Kanisane.
 
-                    Padri: Sawo Maler mar Ruoth tiende ang’o?
+                    <i>Padri</i>: Sawo Maler mar Ruoth tiende ang’o?
 
-                    Dwoko: Waparo kaka Kristo ne othonwa.
+                    <i>Dwoko:</i><b> Waparo kaka Kristo ne othonwa</b>.
                     Ka wachamo makati kendo
                     wamadho divai, wachamo ringre
                     kendo wamadho rembe ei chunywa
                     kuom yie ka wagoyone erokamano.
 
-                    Padri: Ang'o mar idwaro kuom jogo ma-
+                    <i>Padri</i>: Ang'o mar idwaro kuom jogo ma-
                     sudo e Sawo Maler mar Ruoth?
 
-                    Dwoko: Onego gilim chunygi ka giselokore
+                    <i>Dwoko:</i><b> Onego gilim chunygi ka giselokore
                     adier kendo giweyo richogi
                     machon ka gichiwo ngimagi ni
                     Kristo, mi gigene en kende kuom
-                    warruokgi kendo hero jowetegi.
+                    warruokgi kendo hero jowetegi</b>.
 
                     4. NYIENO SINGRUOK MAR BATISO,
 
@@ -2959,47 +2958,47 @@ class SecondFragment : Fragment() {
                     kawuono mana kaka jonyuolu gi jochung'
                     mau noduoko chieng’ batiso maru.
 
-                    Padri: Bende iseyie kuom Kristo?
-                    Dwoko: Ee, ayie kuom Kristo.
-                    Padri: Bende iselokori miweyo richoni
+                    <i>Padri</i>: Bende iseyie kuom Kristo?
+                    <i>Dwoko:</i><b> Ee, ayie kuom Kristo</b>.
+                    <i>Padri</i>: Bende iselokori miweyo richoni
                     duto?
-                    Dwoko: Ee, aseweyo richona duto.
+                    <i>Dwoko:</i><b> Ee, aseweyo richona duto</b>.
                     Padri; Bende idagi Satan, gi tichne duto
                     kod timbe maricho duto mag pinyni?
-                    Dwoko: Adagigi duto.
-                    Padri: Bende idagi gombo duto maricho
+                    <i>Dwoko:</i><b> Adagigi duto</b>.
+                    <i>Padri</i>: Bende idagi gombo duto maricho
                     mag ringruok kod kido moro amora
                     molosi mag nyiseche manono?
 
-                    Dwoko: Adagigi duto.
+                    <i>Dwoko:</i><b> Adagigi duto</b>.
 
-                    Padri:  Bende iyi kuom Nyasaye
+                    <i>Padri</i>:  Bende iyi kuom Nyasaye
                     Wuoro, mane ochueyo piny?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
 
-                    Padri: Bende iyie kendo igeno kuom Wuode
+                    <i>Padri</i>: Bende iyie kendo igeno kuom Wuode
                     Yesu Kristo mane oreso dhano?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
 
-                    Padri: Bende iyie kendo igeno kuom Roho
+                    <i>Padri</i>: Bende iyie kendo igeno kuom Roho
                     Maler machiwo ngima ni jo Myasaye?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
 
                     5. Padri lokore ir jo-Kristo kendo wacho kama:
-                    Padri: Ma e Yie mar Kanisa.
-                    Ji duto: Ee, ma e yie marwa.
-                    Padri: Wayie kendo wageno kuom Nyasaye
+                    <i>Padri</i>: Ma e Yie mar Kanisa.
+                    <i>Ji duto:</i> Ee, ma e yie marwa.
+                    <i>Padri</i>: Wayie kendo wageno kuom Nyasaye
                     achiel
-                    Ji duto: Wuore, Wuowi kod Roho Maler.
+                    <i>Ji duto:</i> Wuore, Wuowi kod Roho Maler.
 
                     6. Joma idwaro rwako e Sawo Maler mar Ru-
                     oth chung’
-                    Padri: Wan duto obatiswa e Roho achiel.
-                    Dwoko: Kata wathoth to wan ringruok
-                    achiel.
-                    Padri: Wan ma wang’eny wan ringruok
+                    <i>Padri</i>: Wan duto obatiswa e Roho achiel.
+                    <i>Dwoko:</i><b> Kata wathoth to wan ringruok
+                    achiel</b>.
+                    <i>Padri</i>: Wan ma wang’eny wan ringruok
                     achiel,
-                    Dwoko: Nikech wachamo makati achiel.
+                    <i>Dwoko:</i><b> Nikech wachamo makati achiel</b>.
 
                     7. Padri moso ng’ato ka ng’ato mirwako ka
                     owacho niya:
@@ -3007,8 +3006,8 @@ class SecondFragment : Fragment() {
                     warwaki mondo ibed ja cham Sawo Maler
                     mar Ruoth , e nying’ Wuoro, Wuowi kod
                     Roho Maler.
-                    Ji duto: Amina.
-                    Padri: Koro warwakuru owetewagi gi
+                    <i>Ji duto:</i><b>Amina</b>.
+                    <i>Padri</i>: Koro warwakuru owetewagi gi
                     nyiminewagi obed kaachiel kodwa
                     e chamo Sawo Maler. mar Ruoth.
 
@@ -3017,13 +3016,13 @@ class SecondFragment : Fragment() {
                     Warwakou mondo ucham kodwa Sawo
                     Maler mar Ruoth.Gin johawi jogo
                     maoluongi e kisera mar Nyarombo.
-                    Alleluyah!
+                  <b>Alleluya</b>h!
 
                     Jonyuol kod jo chung’ mag joma orwaki mo
                     sogi kagirwakogi, to josawo mamoko biro moso
                     joma orwakgi e kinde mos mar kue.
 
-                    9. Padri:
+                    9. <i>Padri</i>:
                     Nyasaye Manyalo Gik Moko
                     Duto, mondo ogeng'nu teko
                     duto mag mudho, omiu chuny
@@ -3034,7 +3033,7 @@ class SecondFragment : Fragment() {
                     remb Wuode Yesu Kristo ma
                     en kuon mar ngima
 
-                    Ji duto: Amina.
+                    <i>Ji duto:</i><b>Amina</b>.
                     10. Lamo dhi nyime e migawo mar 13 e lamo
                     mar pogo Sawa Maler mar Ruoth ka chako
                     kod mos mar kue
@@ -3067,25 +3066,25 @@ class SecondFragment : Fragment() {
 
                     1. WER
                     2. LAMO
-                    Padri: Ruoth obed kodu.
-                    Ji duto: In bende obed kodi.
-                    Padri: Ruoth Nyasaye e wuon Piny kod gik
+                    <i>Padri</i>: Ruoth obed kodu.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
+                    <i>Padri</i>: Ruoth Nyasaye e wuon Piny kod gik
                     moko duto man e iye.
-                    Ji duto: Mad polo bed mamor kendo piny
-                    obed moil.
+                    <i>Ji duto:</i> <b> Mad polo bed mamor kendo piny
+                    obed moil</b>.
 
-                    Padri:
+                    <i>Padri</i>:
                     Konyruokwa a mana kuom Ruoth.
-                    Ji duto: Mane ochueyo Polo gi piny.
+                    <i>Ji duto:</i> <b> Mane ochueyo Polo gi piny</b>.
 
-                    Padri: Ne amor kane giwachona ni :
-                    Ji duto: Wadhiuru e od Ruoth Nyasaye.
-                    Padri: Opak Ruoth.
-                    Ji duto: Nying Ruoth mondo opaki.
-                    Ji duto: Wuonwa manie polo
+                    <i>Padri</i>: Ne amor kane giwachona ni :
+                    <i>Ji duto:</i> <b> Wadhiuru e od Ruoth Nyasaye</b>.
+                    <i>Padri</i>: Opak Ruoth.
+                    <i>Ji duto:</i> <b> Nying Ruoth mondo opaki</b>.
+                    <i>Ji duto:</i> <b> Wuonwa manie polo
                     kuom teko mar Roho Maler
                     Imiyo jogi moyie
-                    ngima manyien e pi mar batiso.
+                    ngima manyien e pi mar batiso</b>.
                     Iorogi mondo gi tini e piny,
                     Telnwa kendo miwa teko kuom
                     Roho nogo,
@@ -3096,7 +3095,7 @@ class SecondFragment : Fragment() {
                     Kristo mangima kendo molocho
                     kod in gi Roho Maler, Nyasaye
                     achiel tinende kendo nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     3. WER ( kata inyalo wero koras)
                     4. CHIWO JOLWEDO
@@ -3119,7 +3118,7 @@ class SecondFragment : Fragment() {
                     jogi oyie lwedo kendo oorgi lando
                     wach Kristo e Kanisane?
 
-                    Ji duto: Wayie.
+                    <i>Ji duto:</i> <b> Wayie</b>.
 
                     5. Jolwedo Chung’ Nyim Bishop
                     Bishop: Walam ni joma ochung’ kagi mondo
@@ -3140,7 +3139,7 @@ class SecondFragment : Fragment() {
                     maler mondo wachgi kod timgi obed
                     ranyis maber mondo nyingi oyud
                     duong' e nying Jawarwa Yesu Kristo.
-                    Amina.
+                   <b>Amina</b>.
 
                     6. SOMO WACH NYASAYE
                     mo ariyo kata adek, to mogik nyaka
@@ -3157,32 +3156,32 @@ class SecondFragment : Fragment() {
                     kendo ni udagi Satan gi tichne
                     duto. Omiyo apenjou ni
                     Bishop: Iyie lokori ni Kristo?
-                    Dwoko: Alokora ni Kristo.
+                    <i>Dwoko:</i><b> Alokora ni Kristo</b>.
                     Bishop: Iyie weyo richoni duto?
-                    Dwoko: Aweyogi duto.
+                    <i>Dwoko:</i><b> Aweyogi duto</b>.
                     Bishop: Idagi gombo duto mag ringruok kod
                     timbe mag lamo nyiseche manono
-                    Dwoko: Adagigi duto.
+                    <i>Dwoko:</i><b> Adagigi duto</b>.
                     Bishop: Bende idagi Satan gi tichne duto,
                     kod teko duto maricho mag pinyni
-                    Dwoko: Adagi gi duto.
+                    <i>Dwoko:</i><b> Adagi gi duto</b>.
                     Bishop: Koro akwayo mondo iwach e nyim
                     Nyasaye kod Kanisane ni iyie
                     wach Kristo mane omiyo obatisi momiyi
                     ngima kendo idongoe kendo itiyoe.
                     Bende iyie kendo igeno Nyasaye
                     Wuoro mane ochweyo piny?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
                     Bishop: Bende iyie kendo igeno kuom
                     Wuode Yesu Kristo mane owaro ji duto?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
                     Bishop: Bende iyie kendo igeno kuom Roho
                     Maler machiwo ngima ni jo Nyasaye
                     duto?
-                    Dwoko: Ayie kendo ageno kuome.
+                    <i>Dwoko:</i><b> Ayie kendo ageno kuome</b>.
                     Bishop lokore irji kendo wacho ni:
                     Ma e yie mar Kanisa.
-                    Dwoko: Ma e yiewa.
+                    <i>Dwoko:</i><b> Ma e yiewa</b>.
                     Bishop: Wayie kendo wageno kuom Nyasaye
                     achiel, Wuoro, Wuowi kod Roho
                     Maler.
@@ -3193,68 +3192,68 @@ class SecondFragment : Fragment() {
                     10. Bishop: Mondo ji ong'e dwarou, gi yie
                     maru, apenjou ni:
                     Uyie wacho ni jowadu hera mar Kristo?
-                    Dwoko: Anatim kamano.
+                    <i>Dwoko:</i><b> Anatim kamano</b>.
                     Bishop: Ibiro lamo kendo konyo Kanisa,
                     Bishop, Padre, kod jogo duto matiyo
                     e Kanisa?
-                    Dwoko: Anatim kamano ka Nyasaye
-                    okonya.
+                    <i>Dwoko:</i><b> Anatim kamano ka Nyasaye
+                    okonya</b>.
 
                     Bishop: Ibiro somo Muma pile kendo loso
                     ngimani kaka isomo?
-                    Dwoko: Anatim kamano.
+                    <i>Dwoko:</i><b> Anatim kamano</b>.
 
                     Bishop: Bende initem romo kod jo-Kristo
                     mamoko e lalruok mondo itigi mich
                     ma Nyasaye omiyi?
-                    Dwoko: Anatem timo kamano.
+                    <i>Dwoko:</i><b> Anatem timo kamano</b>.
 
                     Bishop: Bende initem dhi lemo odira ka odira
                     kendo sudo e Sawo Maler mar Ruoth?
-                    Dwoko: Anatim kamano.
+                    <i>Dwoko:</i><b> Anatim kamano</b>.
 
                     Bishop: Bende ini dwar gik makare, adiera
                     kod kelo winjruok ni jo-Nyasaye?
-                    Dwoko: Anatim kamano ka thuolo
-                    oyudorena.
+                    <i>Dwoko:</i><b> Anatim kamano ka thuolo
+                    oyudorena</b>.
 
                     Bishop: Bende inipidh joma kech kayo, imi
                     Joma riyo oloyo pi, rwako welo,
                     miyo joma ni duk law, konyo jomal-
                     uo kod limo jomotue?
-                    Dwoko: Anatim kamano ka Nyasaye
-                    okonya.
+                    <i>Dwoko:</i><b> Anatim kamano ka Nyasaye
+                    okonya</b>.
 
                     Bishop: Bende nilam kendo konyo joma ni
                     kendgi, kiye, mond liete kod joma ok
                     nyal winj dwondgi?
-                    Dwoko: Nalamnigi kendo ana konygi.
+                    <i>Dwoko:</i><b> Nalamnigi kendo ana konygi</b>.
 
                     Bishop: Initem mondo ibed jarit chuech Ny-
                     asaye gi dak mochanore maber, kiri-
                     to aluora midakie?
-                    Dwoko: Anatem timo kamano.
+                    <i>Dwoko:</i><b> Anatem timo kamano</b>.
 
                     Bishop: Bende inibed japiny maber kendo
                     malemo ni jatende pile pile?
-                    Dwoko: Anatim kamano.
+                    <i>Dwoko:</i><b> Anatim kamano</b>.
 
                     Bishop: Bende inibed mariek, kirito kendo
                     geng'o jasigu Satan?
-                    Dwoko: Anatim kamano ka Nyasaye
-                    okonya.
+                    <i>Dwoko:</i><b> Anatim kamano ka Nyasaye
+                    okonya</b>.
 
                     11.Ka ok oti kod migawo mar 10 to bishop
                     wacho ni
                     Bishop: Mondo ji duto ong'e dwarou kod
                     pachu kuom gima udwaro timo, koro
                     singreuru ni Nyasaye:
-                    Dwoko: An makoro iora dhiyo lando wach
+                    <i>Dwoko:</i><b> An makoro iora dhiyo lando wach
                     Kristo kendo tiyo e Kanisane ayie
                     rito kendo wuotho gi chike Ny-
                     asaye kinde duto mag ngimana,
                     kendo somo Muma pile kendo la-
-                    mo kinde duto.
+                    mo kinde duto</b>.
                     Asingora lungo nying Kristo kata e
                     ber kata e rach, ayone kendo dake
                     kanyakla mar jomoyie e piny duto.
@@ -3272,12 +3271,12 @@ class SecondFragment : Fragment() {
                     Owacho ni:
                     Bishop: Ruoth wacho ni: Un e Joneno kendo
                     Jotichna ma aseyiero.
-                    Dwoko: Wan adier.
+                    <i>Dwoko:</i><b> Wan adier</b>.
 
                     Bishop: Go ni Ruoth erokamano kendo
                     luong nyinge.
-                    Dwoko: Anagone erokamano, anapake
-                    kendo analuong nyinge pile.
+                    <i>Dwoko:</i><b> Anagone erokamano, anapake
+                    kendo analuong nyinge pile</b>.
 
                     Bishop keto lwete ewi ng'ato ka ng'ato
                     kowacho ni:
@@ -3285,7 +3284,7 @@ class SecondFragment : Fragment() {
                     kuom Roho mari Maler. Miye teko e
                     tiyi kendo ting'e malo kinde duto-
                     mapod ongima.
-                    Dwoko: Amina.
+                    <i>Dwoko:</i><b>Amina</b>.
 
                     13. RWAK KATA OTE
                     Jolwedo duto chung' ka omanyore giji kendo
@@ -3306,24 +3305,24 @@ class SecondFragment : Fragment() {
                     mondo gi ho joma dwaro hoch,
                     Owinjgi to mondo giwinji,
                     ohergi to mondo giher,
-                    ma nyaka chieng'. Amina.
+                    ma nyaka chieng'.<b>Amina</b>.
 
                     15. Bishop loso giji
                     Arwakou mondo ubed jokanyo motegno,
                     kendo joote mag Kristo e Kanisa mar
                     Anglikan, e nying Wuoro, Wuowi kod Roho
-                    Maler. Amina.
+                    Maler.<b>Amina</b>.
 
                     16. Bende ubiro rwako kendo konyo joma koro
                     oseyie lwedogi kendo orogi e tich kendo
                     bedo joneno mag Kristo gi Kanisane.
-                    Ji duto: E nying Kristo warwakogi, kendo
+                    <i>Ji duto:</i> E nying Kristo warwakogi, kendo
                     wabiro konyogi.
 
                     17. MOS MAR KUE
                     Bishop: Kue mar Ruoth mondo obed kodu
                     kinde duto.
-                    Dwoko: In bende obed kodi
+                    <i>Dwoko:</i><b> In bende obed kodi</b>.
                     Bishop: Warwakuru joma oket lwedo gi
                     ranyisi mar kue (Mosruok)
 
@@ -3362,13 +3361,13 @@ class SecondFragment : Fragment() {
                     kaka onyisi e migawo mar 26.
 
                     *Lamo mar goyo erokamano (Migawo 15)
-                    en lamo achiel moriwore. Ji duto: chung'
+                    en lamo achiel moriwore. <i>Ji duto:</i> chung'
                     ka ginyiso achiel magingo e lamoni.
 
                     *Lamo moko moyiedhi mag goyo eroka-
                     mano e kinde mowal ma inyalo medo e
                     lamo mar goyo erokamano (Migawo 5)
-                    oketi e giko lamoni. Bende Jatelo pod
+                    oketi e giko lamoni. Bende <i>Jatelo</i> pod
                     nyalo wacho lamo moko ma ok ondiki,
                     kaka owinjore.
 
@@ -3380,8 +3379,8 @@ class SecondFragment : Fragment() {
                     *Thor kod somo mar mudira chieng'
                     Sawo Maler omedie e giko lamoni.
 
-                    WECHE MOTELO MONEGO JATELO TIM
-                    Ji duto: chung' kendo Jatelo somo wach
+                    WECHE MOTELO MONEGO <i>Jatelo</i> TIM
+                    <i>Ji duto:</i> chung' kendo <i>Jatelo</i> somo wach
                     achiel kuom weche mogol e Muma mondik
                     mwalo kagi.
 
@@ -3445,57 +3444,57 @@ class SecondFragment : Fragment() {
                     joma ni thuolo, kendo wan duto osemiwa
                     Roho achielno mondo wamadhi. (1 Jokorintho 12:13b)
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     Ka Padri osechopo e dhoot ji duto chung'
                     kendo olando wer ma idonjogo.
                     Padri motelo ni lemo rwako ji duto ka osomo
                     Weche mondiki mwalo ka kata weche moko
                     mowinjore:
 
-                    1. Padri: Ruoth mondo obed kodu.
-                    Ji duto: In bende obed kodi.
+                    1. <i>Padri</i>: Ruoth mondo obed kodu.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
                     Bang'e Padri somo achiel kata ariyo kuom
                     Weche mogol e Muma mayudore e katatas
                     121-122
 
-                    Padri: Ruoth Nyasaye e wuon piny ngima
+                    <i>Padri</i>: Ruoth Nyasaye e wuon piny ngima
                     kaachiel gi gik moko duto man e iye.
-                    Ji duto: Polo mondo obed mamor kendo
-                    piny obed moil.
+                    <i>Ji duto:</i> <b> Polo mondo obed mamor kendo
+                    piny obed moil</b>.
 
-                    Padri: Konyruokwa a mana kuom Ruoth
+                    <i>Padri</i>: Konyruokwa a mana kuom Ruoth
                     Nyasaye.
-                    Ji duto: Ma jachwech polo gi piny.
+                    <i>Ji duto:</i> <b> Ma jachwech polo gi piny</b>.
 
-                    Padri: Ne abedo mamor kane ji owachona
+                    <i>Padri</i>: Ne abedo mamor kane ji owachona
                     niya:
-                    Ji duto: Wadhiuru e od Ruoth Nyasaye.
+                    <i>Ji duto:</i> <b> Wadhiuru e od Ruoth Nyasaye</b>.
 
-                    Padri: Pakuru Ruoth. Nyasaye
-                    Ji duto: Nying' Ruoth Nyasaye mondo
+                    <i>Padri</i>: Pakuru Ruoth. Nyasaye
+                    <i>Ji duto:</i> Nying' Ruoth Nyasaye mondo
                     opaki.
 
                     Weche jip gi mondo owachi kaluwore kod
                     kinde mowijore.
 
                     CHIENG' NYUOL RUODHWA YESU KRISTO
-                    Padri: Ruodh kue osenyuol.
+                    <i>Padri</i>: Ruodh kue osenyuol.
                     Ji dhuto: Biuru mondo walame.
 
                     CHIENG' CHIER RUODHWA
-                    Padri: Kristo osechier.
-                    Ji duto: Osechier adier, Alleluya.
+                    <i>Padri</i>: Kristo osechier.
+                    <i>Ji duto:</i> Osechier adier,<i>Alleluya</i>.
 
                     CHIENG' BIRO ROHO MALER
-                    Padri: Roho Maler ni ka.
-                    Ji duto: En singo mar Nyasaye.
+                    <i>Padri</i>: Roho Maler ni ka.
+                    <i>Ji duto:</i> <b> En singo mar Nyasaye</b>.
 
-                    2. Padri: Walam
-                    Ji duto: goyo chonggi piny kendo wacho
+                    2. <i>Padri</i>: Walam
+                    <i>Ji duto:</i> goyo chonggi piny kendo wacho
                     achiel kuom lamo ma mwalokagı
 
-                    Ji duto: A Nyasaye Manyalo Gik Moko
+                    <i>Ji duto:</i> A Nyasaye Manyalo Gik Moko
                     Duto, igolo gik moko duto manie
                     mudho kendo ikelogi e ler, bende
                     ing'eyo weche mopondo duto manie
@@ -3503,7 +3502,7 @@ class SecondFragment : Fragment() {
                     wadok manyien kuom Roho mari
                     maler, mondo wawuoth e ler kendo
                     wami nyingi duong' kuom Yesu
-                    Kristo, ma en ler mar piny. Amina.
+                    Kristo, ma en ler mar piny.<b>Amina</b>.
 
                     KATA
 
@@ -3515,23 +3514,23 @@ class SecondFragment : Fragment() {
                     manie chunywa E teko mar Roho
                     mari Maler, mondo waheri gi
                     chunywa duto, kendo wami nyingi
-                    duong' e yo mowinjore. Amina.
+                    duong' e yo mowinjore.<b>Amina</b>.
 
                     3. CHIKE APAR
-                    Ji duto: siko kogoyo chonggi piny, kendo Pa-
+                    <i>Ji duto:</i> siko kogoyo chonggi piny, kendo Pa-
                     dri chung' lokore ir ji kendo somo Chike
                     Apar, kata kaka Muma Mayien oloko
                     chikego, kata chikego eyo machiek.
 
-                    Padri: Nyasaye nowuoyo, kawacho wechegi
+                    <i>Padri</i>: Nyasaye nowuoyo, kawacho wechegi
                     duto niya: An e Ruoth Nyasaye ma
                     Nyasachu, mane ogolou e piny Misri
                     kuma ne ubedoe wasumbini. Kik
                     ubed gi Nyasaye moro, to mak mana an.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik ulos kido moro mopa, kata gim-
+                    <i>Padri</i>: Kik ulos kido moro mopa, kata gim-
                     oro machalo gi gimoro manie polo
                     malo, kata manie piny mwalo, kata
                     manie pi, mae bwo piny. Kik ukul-
@@ -3543,17 +3542,17 @@ class SecondFragment : Fragment() {
                     mar adek gi mar ang'wen, to tienge
                     gana gi gana mohera kendo omako
                     chikna, to ahero gi hera mosiko.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     Ikonywa rito chikni.
 
-                    Padri: Kik uluong nying Ruoth Nyasaye ma
+                    <i>Padri</i>: Kik uluong nying Ruoth Nyasaye ma
                     Nyasachu kayiem nono nimar ana-
                     kum ng'ato ka ng'ato makonyore gi
                     nyinga e yo ma ok ni kare.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Paruru chieng' Sabato, kendo uwale
+                    <i>Padri</i>: Paruru chieng' Sabato, kendo uwale
                     ni Ruoth Nyasaye. Nyaka uti tijeu
                     duto kuom ndalo auchiel, to chieng'
                     mar abiriyo en chieng' yueyo mowal
@@ -3569,36 +3568,36 @@ class SecondFragment : Fragment() {
                     noyueyo. Mano emomiyo Ruoth Ny-
                     asaye noguedho chieng' Sabato,
                     mowale mondo obed maler.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Luor wuoru gi meru eka mondo idag
+                    <i>Padri</i>: Luor wuoru gi meru eka mondo idag
                     aming'a e piny ma Ruoth Nyasaye
                     ma Nyasachu biro miyou.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik ineki
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Padri</i>: Kik ineki
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri:Kik iterri.
-                    Ji duto. Amina. A Ruoth ikechwa, kendo
+                    <i>Padri</i>:Kik iterri.
+                    Ji duto.<b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik ikwal.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Padri</i>: Kik ikwal.
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik ihang ni ng'ato wach.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Padri</i>: Kik ihang ni ng'ato wach.
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik igomb od ng'ato, kata chi
+                    <i>Padri</i>: Kik igomb od ng'ato, kata chi
                     ng'ato, kata misumba ng'ato, kata
                     dher ng'ato, kata kanj ng'ato, kata
                     gimoro amora ma ng'ato nigo.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     indik chikegi duto e chunywa.
 
                     KATA
@@ -3607,7 +3606,7 @@ class SecondFragment : Fragment() {
                     mokwongo somo chike e Muma Machon to
                     machielo somo Muma Manyien.
 
-                    Padri: Ruodhwa Yesu Kristo nowacho ni-
+                    <i>Padri</i>: Ruodhwa Yesu Kristo nowacho ni-
                     ya, ka uhera to unumak chikena.
                     Gin johawi jogo mawinjo wach Ny-
                     asaye kendo mako. Koro winjuru
@@ -3618,75 +3617,75 @@ class SecondFragment : Fragment() {
                     Heruru Ruoth Nyasachu gi chunyu
                     duto, kendo gi parou duto, kendo gi
                     riekou duto, kendo gi tekou duto.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik ulos kido moro mopa.
+                    <i>Padri</i>: Kik ulos kido moro mopa.
                     Nyasaye en Roho, kendo joma lame
                     nyaka lame mana e yo ma Roho
                     dwaro kendo gi adiera.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
                     Padri Kik uluong nying Ruoth Nyasaye ma
                     Nyasachu kayiem nono. Unulame
                     kumiye duong' kod luor.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Paruru chieng' Sabato, kendo uwale
+                    <i>Padri</i>: Paruru chieng' Sabato, kendo uwale
                     ni Ruoth Nyasaye.
                     Kristo osechier oa kuom joma otho.
                     Chomuru parou kuom gik man malo,
                     to ok kuom gik mag piny.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Luor wuoru gi meru.
+                    <i>Padri</i>: Luor wuoru gi meru.
                     Ka ng'ato ok nyal rito wedene, to
                     moloyo ka ng'ato ok orito joode, to
                     en ng'ato mosekwedo yie marwa.
                     kendo orach moloyo ng'at ma ok oyie.
-                    Ji dato: Amina. A Ruoth ikechwa. kendo
+                    Ji dato:<b>Amina</b>. A Ruoth ikechwa. kendo
                     ikonywa rito chikni.
 
-                    Padri:Kik ineki.
+                    <i>Padri</i>:Kik ineki.
                     Ng'at mosin gi wadgi noter e bura.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik iterri
+                    <i>Padri</i>: Kik iterri
                     Ka ng'ato orango dhako mi ogombo,
                     to oseterore kode e chunye
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik ikwal
+                    <i>Padri</i>: Kik ikwal
                     Ng ama yande kwalo nyaka we
                     kuelo, mondo ochak tich matek ken-
                     do modimbore gi lwete owuon, oyud
                     gima dokony godo wadgi moro mo-
                     dhier
-                    Ji duto: Amina. A Ruoth ikechwa
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa
                     ikonywa rito chikni.
 
-                    Padri: Kik ihang ni ng'ato wach.
+                    <i>Padri</i>: Kik ihang ni ng'ato wach.
                     Ng'ato ka ng'ato mondo owach ni
                     wadgi mana adiera.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     ikonywa rito chikni.
 
-                    Padri: Kik igomb gimoro amora ma ng'ato nigo
+                    <i>Padri</i>: Kik igomb gimoro amora ma ng'ato nigo
                     Chiwo kelo gueth moloyo kawo. Her
                     wadu kaka iherori iwuon, nikech hera
                     chopo chik duto.
-                    Ji duto: Amina. A Ruoth ikechwa, kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa, kendo
                     indik chikegi duto e chunywa.
 
                     KATA
                     CHIKE APAR E YO MACHIEK
 
-                    Padri: Ruodhwa Yesu Kristo nowacho ni-
+                    <i>Padri</i>: Ruodhwa Yesu Kristo nowacho ni-
                     ya, Ruoth Nyasachwa e Ruoth
                     kende. Her Ruoth Nyasachi gi chun-
                     yi duto, kendo gi paroni duto, kendo
@@ -3699,43 +3698,43 @@ class SecondFragment : Fragment() {
                     chike Musa duto kod puonj mag
                     Jonabi otenore mana kuom chike
                     ariyogo.
-                    Ji duto: Amina. A Ruoth ikechwa kendo
+                    <i>Ji duto:</i><b>Amina</b>. A Ruoth ikechwa kendo
                     indik chikegi duto e chunywa.
 
                     4. MIYO NYASAYE DUONG' (GLORIA)
                     Jinyalo wer kata somo wechegi kuom
                     miyo Nyasaye duong'.
 
-                    Padri: Wachung' mondo wami Nyasaye
+                    <i>Padri</i>: Wachung' mondo wami Nyasaye
                     duong'
                     Duong' obed ni Wuoro
-                    Ji duto: Duong' obed ni Wuowi.
+                    <i>Ji duto:</i> Duong' obed ni Wuowi.
 
-                    Padri: Duong' obed ni Roho Maler
-                    Ji duto: Didek Maler ma ok pogi nyaka
+                    <i>Padri</i>: Duong' obed ni Roho Maler
+                    <i>Ji duto:</i> Didek Maler ma ok pogi nyaka
                     chieng'.
 
                     Padri. Wamiye duong' e dala.
-                    Ji duto: Wamiye duong' e Kanisa.
+                    <i>Ji duto:</i> Wamiye duong' e Kanisa.
 
-                    Padri: Wamiye duong' e Kenya.
-                    Ji duto: Wamiye duong' e Afrika.
+                    <i>Padri</i>: Wamiye duong' e Kenya.
+                    <i>Ji duto:</i> Wamiye duong' e Afrika.
 
-                    Padri: Wamiye duong' e piny.
-                    Ji duto: Wamiye duong' e polo.
+                    <i>Padri</i>: Wamiye duong' e piny.
+                    <i>Ji duto:</i> Wamiye duong' e polo.
 
-                    Padri: Duong' obed ni Wuoro.
-                    Ji duto: Duong' obed ni Wuowi.
+                    <i>Padri</i>: Duong' obed ni Wuoro.
+                    <i>Ji duto:</i> Duong' obed ni Wuowi.
 
-                    Padri: Duong' obed ni Roho Maler.
-                    Ji duto: Didek Maler ma ok pogi nyaka
+                    <i>Padri</i>: Duong' obed ni Roho Maler.
+                    <i>Ji duto:</i> Didek Maler ma ok pogi nyaka
                     chieng'.
 
-                    Padri: Alleluya.
-                    Ji duto: Amina.
+                    <i>Padri</i>:<i>Alleluya</i>.
+                    <i>Ji duto:</i><b>Amina</b>.
 
                     KATA
-                    Ji duto: Duong' obed ni Nyasaye man malo
+                    <i>Ji duto:</i> Duong' obed ni Nyasaye man malo
                     chutho, kendo kue obed
                     ni joge duto manie piny.
                     A Ruoth Nyasaye Ruodh polo,
@@ -3754,19 +3753,19 @@ class SecondFragment : Fragment() {
                     in kendi, A Kristo, kod Roho
                     Maler, ema un giduong' marom-
                     re gi duong' mar Nyasaye Wuo-
-                    ro. Amina.
+                    ro.<b>Amina</b>.
 
                     5. NDALO RIYO KECH KENDE
                     Ndalo riyo kech to iwacho wechegi
 
-                    Padri: Ruoth ikechwa.
-                    Ji duto: Ruoth ikechwa.
+                    <i>Padri</i>: Ruoth ikechwa.
+                    <i>Ji duto:</i> <b> Ruoth ikechwa</b>.
 
-                    Padri: Kristo ikechwa.
-                    Ji duto: Kristo ikechwa
+                    <i>Padri</i>: Kristo ikechwa.
+                    <i>Ji duto:</i> Kristo ikechwa
 
-                    Padri: Ruoth ikechwa.
-                    Ji duto: Ruoth ikechwa.
+                    <i>Padri</i>: Ruoth ikechwa.
+                    <i>Ji duto:</i> <b> Ruoth ikechwa</b>.
 
                     6. LAMO MAR NDALO
                     Ji siko kochung' ka Padri wacho lamo
@@ -3815,17 +3814,17 @@ class SecondFragment : Fragment() {
                     Bang'e Padri rwako Jayalo.
 
                     9. WER MAR WINJO WACH NYASAYE
-                    Ji duto: chung'
+                    <i>Ji duto:</i> chung'
 
                     WER
                     10. PUONJO WACH NYASAYE
                     11.AYIE MAR NIKEA
                     Padri kwongo wacho wechegi.
-                    Padri: Waduto wachung' mondo wariwre gi
+                    <i>Padri</i>: Waduto wachung' mondo wariwre gi
                     Jo-kristo manie piny ngima, kendo e
                     tienge duto, mondo wajiw yie marwa
                     ka wawacho waduto Ayie mar Nikea.
-                    Ji duto: Wayie kuom Nyasaye achiel
+                    <i>Ji duto:</i> Wayie kuom Nyasaye achiel
                     Wuonwa Manyalo Gik
                     Moko Duto, jachuech polo gi piny.
                     Kendo jachuech
@@ -3872,61 +3871,61 @@ class SecondFragment : Fragment() {
                     Wayie ni batiso mar golo richo en
                     achiel,
                     kendo warito chier mar joma otho,
-                    gi ngima mar piny mabiro. Amina.
+                    gi ngima mar piny mabiro.<b>Amina</b>.
 
                     12 KINDE MAR LEMO MAG KWAYO
                     Inyalo wer wende majiwo ji e kind lamo ka-
                     lamo. Padri nyalo kwayo jomoko mondo
                     olem ni weche mopogore opogore
 
-                    Padri: Walam.
+                    <i>Padri</i>: Walam.
                     Ji nyalo goyo chongegi piny kata bet gi
                     dembruok.
 
                     LEMO MAR YWAGRUOK (LITANIA)
-                    Padri: A Nyasaye, mi bishopewa gi jodong
+                    <i>Padri</i>: A Nyasaye, mi bishopewa gi jodong
                     kanisewa obedi gi rieko kendo
                     giwuo gi dwol achiel.
 
-                    Padri: Imi tim makare kendo mowinjore
+                    <i>Padri</i>: Imi tim makare kendo mowinjore
                     obed okumbawa kendo jagachwa.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
-                    Padri: Imi pinywa obed gi kue kendo jowa
+                    <i>Padri</i>: Imi pinywa obed gi kue kendo jowa
                     oyud guethni.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
-                    Padri: Imi kuedhewa gi jambwa onya ken-
+                    <i>Padri</i>: Imi kuedhewa gi jambwa onya ken-
                     do rech mondo omedre e nembewa.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
-                    Padri: Imi puothewa obed manyak mondo
+                    <i>Padri</i>: Imi puothewa obed manyak mondo
                     wabed gi keyo mathoth.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
-                    Padri: Imi kue obed e kindwagi
+                    <i>Padri</i>: Imi kue obed e kindwagi
                     jowasikwa.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
-                    Padri: Imi hera mar Wuoro omul joma
+                    <i>Padri</i>: Imi hera mar Wuoro omul joma
                     okuyo, joma neno masira mar tho gi
                     Joma chandore.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
                     Padri. Igol chandruok e yorewa duto e piny
                     motimo masirani.
-                    Ji duto: Alleluya. Ruodh ng'wono ni
+                    <i>Ji duto:</i><i>Alleluya</i>. Ruodh ng'wono ni
                     kodwa.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
-                    Padri: Imi jotend pinywa otini gi adier
+                    <i>Padri</i>: Imi jotend pinywa otini gi adier
                     maonge miganga.
-                    Ji duto: Amina. Ruoth ikechwa.
+                    <i>Ji duto:</i><b>Amina</b>. Ruoth ikechwa.
 
                     KATA
                     LAMO MAG KWAYO
 
-                    Padri: Walamuru ni Kanisa.
+                    <i>Padri</i>: Walamuru ni Kanisa.
                     Nyasaye Manyalo Gik Moko Duto.
                     wuonwa manie polo,
                     guedhi kendo ita bishopewa duto
@@ -3945,9 +3944,9 @@ class SecondFragment : Fragment() {
                     lando wach Piny Ruodhi kuonde
                     duto. Iwinj lamowa
                     gi ng'wononi, A Ruoth.
-                    Ji duto: Wahombi A Nyasaye.
+                    <i>Ji duto:</i> <b> Wahombi A Nyasaye</b>.
 
-                    Padri: Walam ni Pinywa:
+                    <i>Padri</i>: Walam ni Pinywa:
                     A Wuonwa mang'won, irit kendo ita
                     Jatend pinywa,
                     gi jotelo duto matiyo e bwoye, mon-
@@ -3958,9 +3957,9 @@ class SecondFragment : Fragment() {
                     obubni ka pi, kendo
                     tim makare omol ka aora mopong'
                     Winj lamowa gi ng'wononi A Ruoth.
-                    Ji duto: Wahombi A Nyasaye.
+                    <i>Ji duto:</i> <b> Wahombi A Nyasaye</b>.
 
-                    Padri: Walamuru ni chandruok manie piny:
+                    <i>Padri</i>: Walamuru ni chandruok manie piny:
                     Wuonwa moherowa, Wuodi ne
                     odongo modoko
                     motegno, ka en gi rieko kendo ka
@@ -3980,9 +3979,9 @@ class SecondFragment : Fragment() {
                     osiepewa gi ji mamoko duto oyud
                     warruok.
                     Winj lamowa gi ng'wononi A Ruoth.
-                    Ji duto: Wahombi A Nyasaye.
+                    <i>Ji duto:</i> <b> Wahombi A Nyasaye</b>.
 
-                    Padri: Wagouru erokamano ni Nyasaye
+                    <i>Padri</i>: Wagouru erokamano ni Nyasaye
                     kuom ngima joma
                     osetho koyie kuom Kristo:
                     Wuonwa mang'won, wagoyoni ero-
@@ -3999,13 +3998,13 @@ class SecondFragment : Fragment() {
                     kodgı kaachiel e piny
                     Ruodh polo. Yie gima oganda marini
                     kwayi, A Wuonwa.
-                    Ji duto: Kuom Yesu Kristo, Jagachwa.
+                    <i>Ji duto:</i> Kuom Yesu Kristo, Jagachwa.
 
                     13.LAMO MAG HULO RICHO
                     Ji siko kogoyo chonggi piny kata bedo gi
                     dembruok.
 
-                    Padri: Winjuru weche malong'o kendo mag
+                    <i>Padri</i>: Winjuru weche malong'o kendo mag
                     Jip ma Jakonywa
                     Kristo wacho ni joma dwaro luwe.
                     "Ka ng'ato dwaro luwa, to nyaka
@@ -4034,7 +4033,7 @@ class SecondFragment : Fragment() {
                     Koro wahuluru richowa gi chuny
                     mobolore ni Nyasaye
                     Manyalo Gik Moko Duto.
-                    Ji duto: A Nyasaye Manyalo Gik Moko
+                    <i>Ji duto:</i> A Nyasaye Manyalo Gik Moko
                     Duto, kendo Jachuech
                     gik moko duto, ichueyowa gi sironyo e
                     Kiti iwuon;
@@ -4053,12 +4052,12 @@ class SecondFragment : Fragment() {
                     kitelonwa kuom Roho Maler
                     majahoch.
                     Wakwayi ma kuom Yesu Kristo
-                    Ruodhwa. Amina
+                    Ruodhwa.<b>Amina</b>
 
                     Padri chung' korieyo bade kochomo ji eka
                     Owacho niya:
 
-                    Padri: Nyasaye Manyalo Gik Moko Duto
+                    <i>Padri</i>: Nyasaye Manyalo Gik Moko Duto
                     kendo ma herane mosiko
                     duong' kendo bor kaka polo oyombo
                     piny, ogol richou duto
@@ -4067,9 +4066,9 @@ class SecondFragment : Fragment() {
                     timo gik mabeyo ka uwuotho e yo
                     makare materou e ngimano
                     manyaka chieng'  kuom Yesu Kristo
-                    Ruodhwa. Amina.
-                    Ji duto: Erokamano Wuonwa kuom
-                    weyonwa richowa.Wabiro e
+                    Ruodhwa.<b>Amina</b>.
+                    <i>Ji duto:</i> <b> Erokamano Wuonwa kuom
+                    weyonwa richowa</b>.Wabiro e
                     mesani kaka nyithindi kawaonge
                     gi kiawa to wan gi geno, ok wa-
                     geno kaomwa wawegi to mana
@@ -4078,15 +4077,15 @@ class SecondFragment : Fragment() {
                     makare kendo wakwayo mondo
                     ringre gi remb wuodi Yesu Kristo
                     Jal Makare opong' chunywa
-                    Amina.
+                   <b>Amina</b>.
 
-                    Mos Mar Kue. Ji duto: chung'
+                    Mos Mar Kue. <i>Ji duto:</i> chung'
 
-                    Padri: Kue mar Ruoth Nyasaye obed kodu
+                    <i>Padri</i>: Kue mar Ruoth Nyasaye obed kodu
                     ndalo duto.
-                    Ji duto: In bende obed kodi.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
-                    Padri: Wamosreuru gi mos mar kue
+                    <i>Padri</i>: Wamosreuru gi mos mar kue
                     (e kindeni ji nyalo wer ka mosore)
 
                     14. WER MAR CHIWO NI TICH NYASAYE
@@ -4097,41 +4096,41 @@ class SecondFragment : Fragment() {
                     mar 15. To ka ogol chiwo to Padri wacho
                     kama, kata lemo moro ma owljore:
 
-                    Padri: A Nyasaye in ema imiyowa gik mo-
+                    <i>Padri</i>: A Nyasaye in ema imiyowa gik mo-
                     ko duto.
-                    Ji duto: Kendo wadwokoni mana gik ma
-                    isemiyowa.
+                    <i>Ji duto:</i> <b> Kendo wadwokoni mana gik ma
+                    isemiyowa</b>.
 
                     15. LAMO MAR GOYO EROKAMANO
                     Ji siko kochung'
 
-                    Padri: Kawachung' kamano to wagouru
+                    <i>Padri</i>: Kawachung' kamano to wagouru
                     erokamano kuom tho gi chier mar
                     Yesu Kristo. Bende Nyasaye Wuoro
                     ni kodwa?
-                    Ji duto: e en kodwa.
+                    <i>Ji duto:</i> <b> e en kodwa</b>.
 
-                    Padri: Bende Kristo ni edierwa?
-                    Ji duto: Ee en edierwa.
+                    <i>Padri</i>: Bende Kristo ni edierwa?
+                    <i>Ji duto:</i> <b> Ee en edierwa</b>.
 
-                    Padri: Bende Roho Maler ni ka?
-                    Ji duto: Ee entie.
+                    <i>Padri</i>: Bende Roho Maler ni ka?
+                    <i>Ji duto:</i> <b> Ee entie</b>.
 
-                    Padri: Ma kara e Nyasachwa.
-                    Ji duto: En Wuoro, Wuowi gi Roho Maler.
+                    <i>Padri</i>: Ma kara e Nyasachwa.
+                    <i>Ji duto:</i> En Wuoro, Wuowi gi Roho Maler.
 
-                    Padri: Wan joge.
-                    Ji duto: Osewarowa.
+                    <i>Padri</i>: Wan joge.
+                    <i>Ji duto:</i> <b> Osewarowa</b>.
 
-                    Padri: Ting'uru chunyu mondo ubed ma-
+                    <i>Padri</i>: Ting'uru chunyu mondo ubed ma-
                     mor.
-                    Ji duto: Wabedo mamor e nyim Ruoth.
+                    <i>Ji duto:</i> <b> Wabedo mamor e nyim Ruoth</b>.
 
-                    Padri: Wagouru erokamano ni Ruoth Ny-
+                    <i>Padri</i>: Wagouru erokamano ni Ruoth Ny-
                     asachwa.
-                    Ji duto: Owinjore wagone erokamano ken-
+                    <i>Ji duto:</i> Owinjore wagone erokamano ken-
                     do wapake.
-                    Padri: Owinjore kendo en morwa mondo
+                    <i>Padri</i>: Owinjore kendo en morwa mondo
                     wagoni erokamano
                     kendo wapaki, Wuoro maduong'
                     moloyo, Nyasaye Mangima,
@@ -4141,7 +4140,7 @@ class SecondFragment : Fragment() {
                     Kuom oganda mane bayo e
                     thim ne iyieroe jogi; kuom chan-
                     druokgi ne iyiero nigi
-                    jatelo; kuom oganda ma parogi oke
+                    <i>Jatelo</i>; kuom oganda ma parogi oke
                     ne iyiero nigi Ruoth
                     kuom ogandano mong'anyo ne ioro
                     nigi Jonabi. To e
@@ -4164,7 +4163,7 @@ class SecondFragment : Fragment() {
                     duto manie polo walando nyingi ma-
                     duong' kendo maler,
                     wapaki ka wawacho niya:
-                    Ji duto: Iler, Iler, Iler.
+                    <i>Ji duto:</i> Iler, Iler, Iler.
                     Ruoth Nyasach duong' gi teko. Polo
                     gi piny opong' gi duong'ni maler.
                     Hosanna e polo malo.
@@ -4175,7 +4174,7 @@ class SecondFragment : Fragment() {
                     kowacho wechegi (kata weche mayudore e
                     migawo 30).
 
-                    Padri: A Nyasaye Manyalo Gik Moko Duto
+                    <i>Padri</i>: A Nyasaye Manyalo Gik Moko Duto
                     kendo wuon gik
                     moko duto, wagoyoni erokamano
                     kuom chiwonwa Wuodi
@@ -4192,10 +4191,10 @@ class SecondFragment : Fragment() {
                     "Kawuru ma mondo ucham, ma e
                     ringra mochiw nikech un.
                     Timuru kamano mondo uparago".
-                    Ji duto: Amina. Ringre ne ochiwo nikech
+                    <i>Ji duto:</i><b>Amina</b>. Ringre ne ochiwo nikech
                     wan.
 
-                    Padri: Kamano bende bang' chiemo,
+                    <i>Padri</i>: Kamano bende bang' chiemo,
                     nokawo kikombe, mogoyoni eroka-
                     mano, nomiyogi kowacho niya:
                     "Un duto, madhuru ma, nikech ma e
@@ -4204,17 +4203,17 @@ class SecondFragment : Fragment() {
                     nikech ji mang'eny mondo
                     ogol richo. Timuru kamano e kinde
                     ka kinde mumadhee mondo uparago"
-                    Ji duto: Kristo osetho,
+                    <i>Ji duto:</i> Kristo osetho,
                     Kristo osechier,
                     Kristo biro duogo kendo.
 
-                    Padri: Wan owete gi nyimine kuom
+                    <i>Padri</i>: Wan owete gi nyimine kuom
                     Rembe.
-                    Ji duto: Wasetho kode kaachiel,
+                    <i>Ji duto:</i> Wasetho kode kaachiel,
                     Wabiro bedo kode kaachiel,
                     Wabiro dak kode kaachiel.
 
-                    Padri: Emomiyo Wuonwa manie polo,
+                    <i>Padri</i>: Emomiyo Wuonwa manie polo,
                     Winjwa ka watimo Sawo mar
                     Singruokni gi mor, kendo ka warito
                     duok Ruodhwa Yesu Kristo.
@@ -4226,18 +4225,18 @@ class SecondFragment : Fragment() {
                     chiwruokne kuom chiere oa e
                     tho, kendo miye duong' miwuoro ka
                     obet e badi ma korachwich e polo malo.
-                    Ji duto: Amina. Yesu e Ruoth.
+                    <i>Ji duto:</i><b>Amina</b>. Yesu e Ruoth.
 
-                    Padri: Ma e nyasi mar Lochne.
-                    Ji duto: Nyarombo mane oyang' osechako
-                    lochne. Alleluya.
+                    <i>Padri</i>: Ma e nyasi mar Lochne.
+                    <i>Ji duto:</i> Nyarombo mane oyang' osechako
+                    lochne.<i>Alleluya</i>.
 
                     17. SUDO E SAWO
                     Ji goyo chonggi piny.
-                    Padri: Kaka Jawarwa Yesu Kisto
+                    <i>Padri</i>: Kaka Jawarwa Yesu Kisto
                     nopuonjowa,
                     koro wan gi chir mar wacho niya:
-                    Ji duto: Wuonwa manie polo, nyingi mon-
+                    <i>Ji duto:</i> Wuonwa manie polo, nyingi mon-
                     do omi luor, lochni obi,
                     kendo dwaroni mondo otimore e
                     piny kaka timore e polo.
@@ -4247,27 +4246,27 @@ class SecondFragment : Fragment() {
                     kik iwe wadonj e tem,
                     to reswa e richo nikech loch, gi
                     teko kod duong' gin magi
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     18 Ka Padri a pok ong'ingo makati (e migawo
                     28) to koro ong'inge gi ka.
 
-                    Padri: Wang'ingo makatini mondo wacham
+                    <i>Padri</i>: Wang'ingo makatini mondo wacham
                     kawaparogo achiel ma wango kuom
                     Ringre Kristo.
-                    Ji duto: Kata wang'eny kamano to wan
+                    <i>Ji duto:</i> Kata wang'eny kamano to wan
                     ringruok achiel, wan duto
                     wariwore e makati achiel.
 
-                    Padri: Kikombe mar hawi ma waguedhoni,
-                    Ji duto: Ema oriwowa e Remb Kristo.
+                    <i>Padri</i>: Kikombe mar hawi ma waguedhoni,
+                    <i>Ji duto:</i> <b> Ema oriwowa e Remb Kristo</b>.
 
-                    Padri: Suduru machiegni kuom yie mondo
+                    <i>Padri</i>: Suduru machiegni kuom yie mondo
                     ukaw Sawo Malerni oteg chunyu.
-                    Ji duto: Kristo e wuon nyasi to wan wende.
+                    <i>Ji duto:</i> <b> Kristo e wuon nyasi to wan wende</b>.
 
-                    Padri: Kristo ngima nyaka chieng'.
-                    Ji duto: Wangima nikech Entie.
+                    <i>Padri</i>: Kristo ngima nyaka chieng'.
+                    <i>Ji duto:</i> <b> Wangima nikech Entie</b>.
 
                     Padri gi Jakonyne sudo e Sawo Maler mar
                     Ruoth. E kindeni jokwaya telo niji duto e
@@ -4283,7 +4282,7 @@ class SecondFragment : Fragment() {
                     Bang'e Padri ting'o makati ka jakonyne
                     oting'o divai kendo giwacho kama:
 
-                    Padri: Ringre Ruodhwa Yesu Kristo mane
+                    <i>Padri</i>: Ringre Ruodhwa Yesu Kristo mane
                     ochiw nikech in, mondo orit ringri
                     gi chunyi ni ngima ma nyaka
                     chieng'. Kaw ma mondo icham,
@@ -4301,12 +4300,12 @@ class SecondFragment : Fragment() {
                     E kinde maji sudo e Sawo Maler, Padri kod
                     jakonyne nyalo wacho wechegi ni ng'ato ka
                     ng'ato:
-                    Padri: Ringre Kristo oriti ni ngima ma
+                    <i>Padri</i>: Ringre Kristo oriti ni ngima ma
                     nyaka chieng'
                     Jakony: Remb Kristo oriti ni ngima ma nyaka
                     chieng'
 
-                    Ng'ato ma sudo e Sawo duoko ni, "Amina"
+                    Ng'ato ma sudo e Sawo duoko ni, "<i>Amina</i>"
                     eka okawo makati kata divai,
                     Ka makati gi divai moseguedhi orumo, to
                     mondo Padri oguedh moko. E kinde maji
@@ -4314,12 +4313,12 @@ class SecondFragment : Fragment() {
                     mowinjore.
 
                     19. BANG' SUDO E SAWO MALER
-                    Ji duto: nyalo bet gi dembruok ka gi lemo e
-                    chunygi.
+                    <i>Ji duto:</i> <b> nyalo bet gi dembruok ka gi lemo e
+                    chunygi</b>.
                     Bang'e ji chung' kendo iwacho achiel kuom
                     lamogi.
 
-                    Ji duto: Nyasaye Manyalo Gik Moko Duto,
+                    <i>Ji duto:</i> Nyasaye Manyalo Gik Moko Duto,
                     Wuonwa mochwere,
                     wasebet e tiendi ka wapuonjore
                     wachni kendo wasudo
@@ -4331,10 +4330,10 @@ class SecondFragment : Fragment() {
                     kuom teko mar Roho
                     mari Maler, kuom Yesu Kristo,
                     mane okuongo chier oa
-                    kuom joma otho. Amina.
+                    kuom joma otho.<b>Amina</b>.
 
                     KATA
-                    Ji duto: Nyasaye man malo chutho, wa-
+                    <i>Ji duto:</i> Nyasaye man malo chutho, wa-
                     goyoni erokamano kuom
                     rwakowa, ka ipuonjowa kendo
                     ipidhowa. Ok wawinjore
@@ -4345,10 +4344,10 @@ class SecondFragment : Fragment() {
                     Waheri kendo wachiworeni mondo
                     iorwa wadhi wati
                     tichni. Miwa guethni kawuono
-                    kendo nyaka chieng'. Amina.
+                    kendo nyaka chieng'.<b>Amina</b>.
 
                     KATA
-                    Ji duto: A Nyasach kwerewa, Nyasach
+                    <i>Ji duto:</i> A Nyasach kwerewa, Nyasach
                     ogandawa, tienge duto kadho kendo
                     lal nono e nyimi. Wagoyoni erokamano
                     nikech kuomi iritowa mang'won
@@ -4366,7 +4365,7 @@ class SecondFragment : Fragment() {
                     kuom teko mar Roho Mari Maler
                     mondo wadagi kawatiyoni kendo
                     wapaki kuom miyo nyingi duong'.
-                    Amina.
+                   <b>Amina</b>.
 
                     20. GUETH MOGIK
 
@@ -4376,31 +4375,31 @@ class SecondFragment : Fragment() {
                     bedegi kochomo musalaba man e wi altar: to
                     dwoko mogik to gi chomo lwetgi e polo malo.
 
-                    Padri: Chandruokwa duto
-                    Ji duto: Watero e musalap Kristo.
+                    <i>Padri</i>: Chandruokwa duto
+                    <i>Ji duto:</i> <b> Watero e musalap Kristo</b>.
 
-                    Padri: Gik mateknwa duto
-                    Ji duto: Watero e musalap Kristo.
+                    <i>Padri</i>: Gik mateknwa duto
+                    <i>Ji duto:</i> <b> Watero e musalap Kristo</b>.
 
-                    Padri: Tich jachien duto
+                    <i>Padri</i>: Tich jachien duto
                     duto: Watero e musalap Kristo.
 
-                    Padri: Genowa duto.
-                    Ji duto: Waketo kuom Kristo manochier.
+                    <i>Padri</i>: Genowa duto.
+                    <i>Ji duto:</i> <b> Waketo kuom Kristo manochier</b>.
 
-                    Padri: Kristo, Chieng' Makare mondo ori-
+                    <i>Padri</i>: Kristo, Chieng' Makare mondo ori-
                     enynu kendo oke mudho duto oa e
                     yoreu, kendo hap Nyasaye Manyalo
                     Gik Moko Duto, Wuoro gi Wuowi
                     kod Roho Maler, obed kodu kendo
                     osik kodu nyaka chieng'
-                    Ji duto: Amina.
+                    <i>Ji duto:</i><b>Amina</b>.
 
                     KATA
-                    Padri: Walam.
+                    <i>Padri</i>: Walam.
                     Ji goyo chonggi piny.
 
-                    Padri: Kue mar Nyasaye modhiero rieko
+                    <i>Padri</i>: Kue mar Nyasaye modhiero rieko
                     duto ng'eyo, mondo orit chunyu gi
                     parou, kung'eyo Nyasaye, kendo
                     kuhere, kaachiel gi Wuode Yesu
@@ -4408,23 +4407,23 @@ class SecondFragment : Fragment() {
                     Manyalo Gik Moko Duto, Wuoro,
                     Wuowi kod Roho Maler, obed kodu
                     kendo osik kodu nyaka chieng'.
-                    Ji duto: Amina.
+                    <i>Ji duto:</i><b>Amina</b>.
 
                     21. GONYO JI
-                    Padri: Dhiuru gi kue kendo uti ni Ruoth
+                    <i>Padri</i>: Dhiuru gi kue kendo uti ni Ruoth
                     Nyasaye kuhere.
-                    Ji duto: E nying Kristo. Amina.
+                    <i>Ji duto:</i> <b> E nying Kristo</b>.<b>Amina</b>.
 
                     KATA
-                    Padri: Dhiuru e piny, ka umor kuom teko
+                    <i>Padri</i>: Dhiuru e piny, ka umor kuom teko
                     mar Roho Maler.
-                    Ji duto: Nyasaye erokamano.
+                    <i>Ji duto:</i> <b> Nyasaye erokamano</b>.
 
                     KATA
-                    Padri: Yesu ne owacho ni; "Kaka ne Wuora
+                    <i>Padri</i>: Yesu ne owacho ni; "Kaka ne Wuora
                     oora, e kaka an bende koro aorou.
                     Dhiuru gi kue".
-                    Ji duto: Nyasaye erokamano.
+                    <i>Ji duto:</i> <b> Nyasaye erokamano</b>.
 
                     22. WER MA IWUOKGO
                     
@@ -4479,7 +4478,7 @@ class SecondFragment : Fragment() {
                     inyalo yudo e migawo kata kidieny mogik
                     mag bugni
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     Jogo mokowo wuowi donjo mokwongo
                     kotelnigi gi Padri kaaye to bang'e jogo
                     mokowo nyako. Iwero wend Nyasaye (ma gin
@@ -4487,9 +4486,9 @@ class SecondFragment : Fragment() {
                     Ji siko ka ochung'
 
                     1. Padri Ruoth obed kodu;
-                    Ji duto: In bende obed kodi
+                    <i>Ji duto:</i> <b> In bende obed kodi
 
-                    2. WER
+                    2</b>. WER
 
                     3 Padri chung' karango ji kendo jogo mod-
                     wariwo (wuowi e bat korachwich mar nyako
@@ -4545,7 +4544,7 @@ class SecondFragment : Fragment() {
                     nyime nyaka wechogo losi kaka chik dwaro.
 
                     4. Padri wacho nijoma dwaro kendore niya,
-                    Padri: N....... gi...N...... Koro
+                    <i>Padri</i>: N....... gi...N...... Koro
                     uchiegni timo singruok mar kend
                     maler. Kaka usewinjo, ma en thuolo
                     maber ma ok onego ukawe mayot,
@@ -4641,7 +4640,7 @@ class SecondFragment : Fragment() {
                     ka ranyisi ni akendi. Anamiyi
                     duong' gi ringra, kendo giga duto
                     gin magi. Enying Wuoro, Wuowi,
-                    kod Roh0 maler. Amina.
+                    kod Roh0 maler.<b>Amina</b>.
 
                     Nyako bende timo kamano ne wuowi
                     Nyako: An...N..... amiyi tereni ka-
@@ -4649,7 +4648,7 @@ class SecondFragment : Fragment() {
                     chieng'. Anaheri kendo anamiyi
                     duong' gi ringra, kendo giga
                     duto gin magi enying Wuoro,
-                    Wuowi kod Roho Maler. Amina.
+                    Wuowi kod Roho Maler.<b>Amina</b>.
 
                     10. Padri riwo lwetgi ma korachwich
                     kowacho kama:
@@ -4661,13 +4660,13 @@ class SecondFragment : Fragment() {
                     gichiwore tere kendo gimako lwetgi. Emo-
                     miyo ahulo ni koro gisedoko dichuo gi
                     dhako enying Nyasaye Wuoro, Wuowi kod
-                    Roho Maler. Amina.
+                    Roho Maler.<b>Amina</b>.
 
-                    Padri: Jogo ma Nyasaye oseriwo kaachiel,
-                    Ji duto: Kik ng'ato pog.
+                    <i>Padri</i>: Jogo ma Nyasaye oseriwo kaachiel,
+                    <i>Ji duto:</i> Kik ng'ato pog.
 
-                    Padri: Nyasaye mane ochako kend,
-                    Ji duto: Mondo oriw chunygi kaachiel
+                    <i>Padri</i>: Nyasaye mane ochako kend,
+                    <i>Ji duto:</i> Mondo oriw chunygi kaachiel
 
                     Sigalagala, pamo lwedo, kadichuo gi chiege jo
                     mosore. Inyalo wero koras moro machiek e sano.
@@ -4681,7 +4680,7 @@ class SecondFragment : Fragment() {
                     mondo girit wach maberni. Bende usingoru
                     ni ubiro jiwogi e dak margi mondo gisik
                     kagirito singruokgi ndalo duto mag ngımagi?
-                    Ji duto: Ee, wabiro timo kamano.
+                    <i>Ji duto:</i> Ee, wabiro timo kamano.
 
                     12. Joma oriw e kend nyalo lamo lemoni kata
                     lemo moro machielo mowinjore ma gichiworego
@@ -4704,49 +4703,49 @@ class SecondFragment : Fragment() {
                     kendo iumowa gi badi mochwere. A Ruoth
                     yie iguedh kendwa kendo imiwa mor mar
                     higni mang'eny nyaka wachopie nyasi mar
-                    kend mar Nyarombo. Amina.
+                    kend mar Nyarombo.<b>Amina</b>.
 
                     13. Sigalagala kod wer
 
                     14. Padri chung' e nyim joma oriwo e kend
                     maler, kendo oguedhogi kama.
-                    Padri: Ruoth mondo oguedh kend maru.
-                    Ji duto: Oguedh kend maru.
+                    <i>Padri</i>: Ruoth mondo oguedh kend maru.
+                    <i>Ji duto:</i> <b> Oguedh kend maru</b>.
 
-                    Padri: Ruoth mondo oguedhu gi nyithindo.
-                    Ji duto: Oguedhu gi nyithindo.
+                    <i>Padri</i>: Ruoth mondo oguedhu gi nyithindo.
+                    <i>Ji duto:</i> <b> Oguedhu gi nyithindo</b>.
 
-                    Padri: Ruoth mondo omiu ilo kod mor.
-                    Ji duto: Ilo kod mor.
+                    <i>Padri</i>: Ruoth mondo omiu ilo kod mor.
+                    <i>Ji duto:</i> <b> Ilo kod mor</b>.
 
-                    Padri: Ruoth mondo omi hera kod kwayo
+                    <i>Padri</i>: Ruoth mondo omi hera kod kwayo
                     weruok obed bandera e kend maru.
-                    Ji duto: Kwayo weruok kod hera.
+                    <i>Ji duto:</i> <b> Kwayo weruok kod hera</b>.
 
-                    Padri: Ruoth mondo omiu teko mar bedo
+                    <i>Padri</i>: Ruoth mondo omiu teko mar bedo
                     jo-Kristo motegno e kanisa.
-                    Ji duto: Jo-kristo motegno.
+                    <i>Ji duto:</i> Jo-kristo motegno.
 
-                    Padri: Ruoth mondo oguedh tich mar lwetu.
-                    Ji duto: Oguedh tich lwetu.
+                    <i>Padri</i>: Ruoth mondo oguedh tich mar lwetu.
+                    <i>Ji duto:</i> <b> Oguedh tich lwetu</b>.
 
-                    Padri: Ruoth mondo oguedh kwedheu kod
+                    <i>Padri</i>: Ruoth mondo oguedh kwedheu kod
                     jambu,
-                    Ji duto: kwedheu kod jambu
+                    <i>Ji duto:</i> kwedheu kod jambu
 
-                    Padri: Ruoth mondo omi puotheu onyag
+                    <i>Padri</i>: Ruoth mondo omi puotheu onyag
                     mang'eny
-                    Ji duto: Onyag mang'eny.
+                    <i>Ji duto:</i> Onyag mang'eny.
 
-                    Padri: Ruoth Yesu Kristo mondo obed
+                    <i>Padri</i>: Ruoth Yesu Kristo mondo obed
                     jaduong' mar dalau
-                    Ji duto: Mondo oguedhu ka uwuok kendo
-                    ka udonjo.
+                    <i>Ji duto:</i> <b> Mondo oguedhu ka uwuok kendo
+                    ka udonjo</b>.
 
                     *Lemoni inyalo weyo.
                     KATA
                     15. Ji ma oriw e kend goyo chonggi piny.
-                    Padri: Nyasaye Mochwere, Jachwech ken-
+                    <i>Padri</i>: Nyasaye Mochwere, Jachwech ken-
                     do jarit Ji duto, jachiw ng'wono duto
                     mag chuny kendo wuon ngima man-
                     yaka chieng', or guethni ni... N
@@ -4758,7 +4757,7 @@ class SecondFragment : Fragment() {
                     k magisetimo e kindgi giwegi,
                     mondo gidagi e hera maber kod kue
                     kaachiel kaka chikni dwaro: kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Bang'e to guethni:
                     Nyasaye mondo oguedhu kendo mondo ori-
@@ -4766,11 +4765,11 @@ class SecondFragment : Fragment() {
                     gueth duto moa e ng'wonone kod kechne,
                     mondo ubed gi ngima maber kaachiel, ken-
                     do e piny mabiro uyud ngima manyaka
-                    chieng: Kuom Yesu Kristo Ruodhwa. Amina.
+                    chieng: Kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
-                    Padri: Kaka Jawarwa Yesu Kristo nopuon-
+                    <i>Padri</i>: Kaka Jawarwa Yesu Kristo nopuon-
                     jowa, koro wan gi chir mar lamo niya
-                    Ji duto: Wuonwa manie polo
+                    <i>Ji duto:</i> Wuonwa manie polo
                     Nyingi mondo omi luor,
                     Lochni obi,
                     kendo dwaroni mondo otimre e piny,
@@ -4782,7 +4781,7 @@ class SecondFragment : Fragment() {
                     Kik iwe wadonj e tem.
                     To reswa e richo.
                     Nikech loch, gi teko, kod duong',
-                    gin magi nyaka chieng'. Amina.
+                    gin magi nyaka chieng'.<b>Amina</b>.
 
                     ZABURI
                     Achiel kuom Zaburigi inyalo wacho kata wero
@@ -4813,7 +4812,7 @@ class SecondFragment : Fragment() {
                     Kaka nobet mokwongo, kendo pod
                     obet kawuono,
                     kendo kaka biro bet nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     17. Zaburi 121
                     Ating'o wang'a karango gode.
@@ -4837,7 +4836,7 @@ class SecondFragment : Fragment() {
                     Kaka nobet mokwongo kendo pod
                     obet kawuono,
                     Kendo kaka biro bet nyaka
-                    chieng' Amina.
+                    chieng'<b>Amina</b>.
 
                     18. Zaburi 67
                     A Nyasaye, kechwa mondo
@@ -4865,7 +4864,7 @@ class SecondFragment : Fragment() {
                     kod Roho Maler.Kaka nobet mokwongo, kendo pod
                     obet kawuono,
                     Kendo kaka biro bet nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     19. SOMO WACH NYASAYE.
 
@@ -4884,10 +4883,10 @@ class SecondFragment : Fragment() {
                     23. Ji duto bet piny ka joma okendore goyo
                     chonggi piny ka Padri guedho chiwo ka
                     wacho kama:
-                    Padri:A Nyasaye in ema imiyowa gik mo-
+                    <i>Padri</i>:A Nyasaye in ema imiyowa gik mo-
                     ko duto.
-                    Ji duto: Kendo wadwokoni mana gik ma
-                    isemiyowa.
+                    <i>Ji duto:</i> <b> Kendo wadwokoni mana gik ma
+                    isemiyowa</b>.
 
                     24. Lamo mondik mwalo kaeri ni inyalo weyo
                     kaponi joma kendore dwaro mondo oweye.
@@ -4901,11 +4900,11 @@ class SecondFragment : Fragment() {
                     mondo giheri, kendo gitini, kendo giluori.
                     Kamano mondo gikel ni nyingi maler
                     duong', kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Ji duto bet kaji ariyo moriwgi goyo
                     chonggi piny
-                    Padri: Walam.
+                    <i>Padri</i>: Walam.
                     Lemo mar Gueth Mar Nyithindo
                     Wapaki Wuonwa nimar ichweyowa e kiti
                     iwuon kendo kuom michni mag ng'wono
@@ -4913,7 +4912,7 @@ class SecondFragment : Fragment() {
                     ...N.....gueth mag nyithindo kendo im-
                     igi rieko gi ng'wono mondo gipidhgi e luor
                     kod puonj mar Ruoth. Kuom pak kod luor
-                    mar Yesu Kristo Ruodhwa. Amina.
+                    mar Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     25. GUETH MOGIK
                     Nyasaye Wuoro, Nyasaye Wuowi, gi Ny-
@@ -4922,19 +4921,19 @@ class SecondFragment : Fragment() {
                     chu gi herane maduong', kendo opong'
                     chunyu gi gueth kod ng'wono, udag
                     kaachiel e pinyni, mondo uyud
-                    ngima mochwere e piny mabiro. Amina.
+                    ngima mochwere e piny mabiro.<b>Amina</b>.
 
                     26. MOS MAR KUE.
 
-                    Padri: Kue mar Nyasaye mondo obed
+                    <i>Padri</i>: Kue mar Nyasaye mondo obed
                     kodu.
-                    Ji duto: In bende obed kodi.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
                     Ji mosore ka giwero koras:
                     Padri wacho ni joma okendore kama:
                     N...... gi N....., dhuiru gi
                     kue kendo uchak dak maru kuom Kristo.
-                    Ji duto: Erokamano obed ni Nyasaye.
+                    <i>Ji duto:</i> <b> Erokamano obed ni Nyasaye</b>.
 
                     27. WER MA JI WUOKGO
                     
@@ -4986,7 +4985,7 @@ class SecondFragment : Fragment() {
                     *E lemoni, dichuo chung' e bat kor-
                     achwich mar dhako.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     E kinde donjo e kanisa inyalo wer wende mag
                     kītabu, Zaburi kata wer moro amora
                     mowinjore magiyero.
@@ -4996,8 +4995,8 @@ class SecondFragment : Fragment() {
                     nyim altar.
 
                     2. WER
-                    3. Padri: Ruoth obed kodu
-                    Ji duto: In bende obed kodi.
+                    3. <i>Padri</i>: Ruoth obed kodu
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
                     Ji siko kochung' kendo padri wacho niya:
                     Jowadwa mwahero, wasebiro waduto e sa
@@ -5053,7 +5052,7 @@ class SecondFragment : Fragment() {
                     kode kaachiel kaka Nyasaye dwaro?
                     Dichwo: Ee, ayie timo kamano.
 
-                    Padri: Bende iyie singori ni ini here, Ini
+                    <i>Padri</i>: Bende iyie singori ni ini here, Ini
                     Konye, ini miye duong', inirite kotuo
                     kata kongima kiweyo mon moko
                     duto to ibedo mana kode kende e
@@ -5067,7 +5066,7 @@ class SecondFragment : Fragment() {
                     udag kode kaachiel kaka Nyasaye dwaro?
                     Dhako: Ee, ayie tinmo kamano.
 
-                    Padri:Bende iyie singori ni ini here,
+                    <i>Padri</i>:Bende iyie singori ni ini here,
                     Ini konye, ini miye duong', inirite
                     kotuo kata kongıma kiweyo chuo
                     moko duto to ibedo mana kode
@@ -5089,7 +5088,7 @@ class SecondFragment : Fragment() {
                     tho pogwa, kaka chik maler mar Nyasaye
                     dwaro. Akuong'ora ni anatim gigo duto
                     e nying Nyasaye Wuoro, Wuowi, kod Roho
-                    maler. Amina.
+                    maler.<b>Amina</b>.
 
                     9. Dhako rango dichwo komako lwete ma-
                     korachwich ka owacho niya:
@@ -5102,7 +5101,7 @@ class SecondFragment : Fragment() {
                     chop tho pogwa, kaka chik maler mar
                     Nyasaye dwaro. Akuong'ora ni anatim gigo
                     duto enying Nyasaye Wuoro, Wuowi, kod
-                    Roho maler. Amina.
+                    Roho maler.<b>Amina</b>.
 
                     10.Giweyo lwetgi. Padri kawo tere ( kata ranyisi
                     moko moyiedhi) kendo oguedho kowacho niya:
@@ -5119,14 +5118,14 @@ class SecondFragment : Fragment() {
                     ka ranyisi ni akendi. Anamiyi
                     duong' gi ringra, kendo giga duto
                     gin magi. Enying Wuoro, Wuowi,
-                    kod Roho maler. Amina.
+                    kod Roho maler.<b>Amina</b>.
 
                     12. Nyako bende timo kamano ne chuore:
                     Dhako: An...N...... amiyi tereni kaka
                     ranyisi mar herawa kodi anamiyi
                     duong' gi ringra, kendo giga duto
                     gin magi enying Wuoro, Wuowi
-                    kod Roho Maler. Amina
+                    kod Roho Maler.<b>Amina</b>
 
                     13.Padri riwo lwetgi ma korachwich ka
                     gigoyo chonggi piny kendo kowacho niya
@@ -5139,13 +5138,13 @@ class SecondFragment : Fragment() {
                     lwetgi.
                     Emomiyo ahulo ni koro gisedoko dichuo gi
                     dhako enying Nyasaye Wuoro, Wuowi kod
-                    Roho Maler. Amina.
+                    Roho Maler.<b>Amina</b>.
 
-                    Padri: Jogo ma Nyasaye oseriwo kaachiel,
-                    Ji duto: kik ng'ato pogi.
+                    <i>Padri</i>: Jogo ma Nyasaye oseriwo kaachiel,
+                    <i>Ji duto:</i> kik ng'ato pogi.
 
-                    Padri: Nyasaye mane ochako kend,
-                    Ji duto: Mondo oriw chunygi kaachiel.
+                    <i>Padri</i>: Nyasaye mane ochako kend,
+                    <i>Ji duto:</i> <b> Mondo oriw chunygi kaachiel</b>.
 
                     14. Inyalo goyo sigalagala kata pamo lwedo,
                     ka dichvo gi chiege jo mosore. Inyalo bende
@@ -5162,28 +5161,28 @@ class SecondFragment : Fragment() {
                     wacho gi duto.
                     Jo-Kristo duto chung'. Dichwo gi chiege jo-
                     chung' karango padri eka padri wacho niya:
-                    Padri: Ruoth wagoyoni erokamano nikech
+                    <i>Padri</i>: Ruoth wagoyoni erokamano nikech
                     kendruok kod ber mar ngima mar joot.
-                    Ji duto: A Ruoth wagoyoni erokamano.
+                    <i>Ji duto:</i> <b> A Ruoth wagoyoni erokamano</b>.
 
-                    Padri: Bende wagoyoni erokamano kuom
+                    <i>Padri</i>: Bende wagoyoni erokamano kuom
                     kend mar....N..... gI N.......
-                    Ji duto: A Ruoth wagoyoni erokamano.
+                    <i>Ji duto:</i> <b> A Ruoth wagoyoni erokamano</b>.
 
-                    Padri: Kuom hulo ratiro hera manie kindgi.
-                    Ji duto: A Nyasaye wagoyoni erokamano.
+                    <i>Padri</i>: Kuom hulo ratiro hera manie kindgi.
+                    <i>Ji duto:</i> <b> A Nyasaye wagoyoni erokamano</b>.
 
-                    Padri: Guedh nyithindgi kod nyikwagi.
-                    Ji duto: A Ruoth yie iguedhgi.
+                    <i>Padri</i>: Guedh nyithindgi kod nyikwagi.
+                    <i>Ji duto:</i> <b> A Ruoth yie iguedhgi</b>.
 
-                    Padri: Imi hera kod kwayo werruok obed
+                    <i>Padri</i>: Imi hera kod kwayo werruok obed
                     bandera e dakgi.
-                    Ji duto: Kwayo werruok kod hera.
+                    <i>Ji duto:</i> <b> Kwayo werruok kod hera</b>.
 
-                    Padri: Mi gichiwre chutho ni tich kanisa.
-                    Ji duto: Gichiwre motegno chutho.
+                    <i>Padri</i>: Mi gichiwre chutho ni tich kanisa.
+                    <i>Ji duto:</i> <b> Gichiwre motegno chutho</b>.
 
-                    Padri: Nyasaye mochwere, mane ochweyo
+                    <i>Padri</i>: Nyasaye mochwere, mane ochweyo
                     Adam gi Hawa kendo ochiko dichwo
                     ni nowe wuon gi min, to no padre
                     kuom chiege kendo gini dok ringru-
@@ -5197,14 +5196,14 @@ class SecondFragment : Fragment() {
                     luor. Migi mor mar bedo jonyuol kod ting'
                     mar pidho nyithindgi ka gidongo e
                     yor luoro Nyasaye kendo miyo
-                    nyinge duong'. Amina.
+                    nyinge duong'.<b>Amina</b>.
 
                     Wechegi inyalo mana wacho kajogo mi
                     guedho kendgi dwaro.
-                    Padri: Kaka jawarwa nopunjowa koro wan
+                    <i>Padri</i>: Kaka jawarwa nopunjowa koro wan
                     gi chir mar wacho niya.
 
-                    20. Ji duto:
+                    20. <i>Ji duto:</i>
                     Wuonwa manie polo, nyingi
                     mondo omi luor, lochni obi,
                     kendo dwaroni mondo otim-
@@ -5216,7 +5215,7 @@ class SecondFragment : Fragment() {
                     iwe wadonj e tem, to reswa e
                     richo. Nikech loch gi teko
                     kod duong' gin magi nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     21. GUETH MOGIK
                     Nyasaye Wuoro, Nyasaye Wuowi, gi Ny-
@@ -5229,7 +5228,7 @@ class SecondFragment : Fragment() {
                     Kendo hap Nyasaye manyalo gik moko
                     Duto, Wuoro, wuowi, kod Roho Maler,
                     obed kodu kendo osik kodu nyaka chieng'
-                    Amina.
+                   <b>Amina</b>.
                     22. WER MAR WUOK
                     </pre>
                 """.trimIndent()
@@ -5255,17 +5254,17 @@ class SecondFragment : Fragment() {
                     time e lamo mar pogo Sawo Maler mar
                     Ruoth kata e lamo mar okinyi.
 
-                    CHENRO MAR LEMO.
+                    <h4>CHENRO MAR LEMO</h4>.
                     1. Wer
                     2. Padri teloni joma biro nuoyo kuong'ru-
                     okgi, gi luwe ka gimako lwetgi kendo jo
                     chung'gi gi nyithindgi bende luwogi. (kapo
-                    ni oguedhgi gi nyithindo). Jiduto chung'.
+                    ni oguedhgi gi nyithindo). Ji duto chung'.
 
-                    3. Padri: Ruoth obed kodu.
-                    Ji duto: In bende obed kodi.
+                    3. <i>Padri</i>: Ruoth obed kodu.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
-                    Padri: Jowadwa mwahero, wachokore
+                    <i>Padri</i>: Jowadwa mwahero, wachokore
                     mondo wariwre gi ....NN... kod
                     .NN...... emor kod goyo ni Ny-
                     asaye erokamano kuom kinde magi
@@ -5342,18 +5341,18 @@ class SecondFragment : Fragment() {
                     kuong'ruokgi mar hera ka gibedo jo ratiro
                     kuom ndalo modong' mag ngimagi.
 
-                    5. Padri: Walam
-                    Padri: Konyruokwa a mana kuom Ruoth
+                    5. <i>Padri</i>: Walam
+                    <i>Padri</i>: Konyruokwa a mana kuom Ruoth
                     Nyasaye,
-                    Ji duto: Mane ochueyo polo gi piny
+                    <i>Ji duto:</i> Mane ochueyo polo gi piny
                     (Zaburi 124:8)
 
-                    Padri: Ka ok Ruoth Nyasaye ema ogero ot
-                    Ji duto: To tich jogedo odhi kayiem nono
+                    <i>Padri</i>: Ka ok Ruoth Nyasaye ema ogero ot
+                    <i>Ji duto:</i> To tich jogedo odhi kayiem nono
                     (Zaburi 127:1) 
-                    Padri: Ng'ato ka ng'ato moluoro Ruoth
+                    <i>Padri</i>: Ng'ato ka ng'ato moluoro Ruoth
                     Nyasaye
-                    Ji duto: Kendo ma orito chikene, en ja-
+                    <i>Ji duto:</i> Kendo ma orito chikene, en ja-
                     hawi. (Zaburi 128:1)
 
                     Nyasaye manyalo Gik Moko Duto, Wuonwa
@@ -5367,29 +5366,29 @@ class SecondFragment : Fragment() {
                     michni maberie moloyo ma en betni
                     kodwa.
                     Wakwayi ma kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     6. Joma nuoyo kuong'ruokgi chung' ka oran-
                     go padri e kinde ma otelonigi e nuoyo
                     kuong'ruokgi.
-                    Padri: Bende usingoru gadiera ni ubiro rito
+                    <i>Padri</i>: Bende usingoru gadiera ni ubiro rito
                     kuong'ruoku kod Singruoku mane
                     utimo chieng' kend maru?
-                    Gi duto: Wayie timo kamano.
+                    <i>Gi duto:</i><b> Wayie timo kamano</b>.
 
-                    Padri: Bende usingoru ni ubiro dhi nyime
+                    <i>Padri</i>: Bende usingoru ni ubiro dhi nyime
                     ka uherroru ka ng'ato ka ng'ato kon-
                     yo wadgi, kendo ni e kinde moro
                     amora ubiro temo matek mondo
                     ng'ato ka ng'ato orit wadgi kendo
                     omiye mor?
-                    Gi duto: Wabiro timo kamano.
+                    <i>Gi duto:</i><b> Wabiro timo kamano</b>.
 
-                    Padri: Bende usingoru ni ubiro jiwo wach
+                    <i>Padri</i>: Bende usingoru ni ubiro jiwo wach
                     Nyasaye e dalawu kendo tego ng'ato
                     ka ng'ato kuomu mondo odagi e ngima
                     ma Nyasaye morgo ka utiyo ne Kristo.
-                    Gi duto: Wabiro timo kamano.
+                    <i>Gi duto:</i><b> Wabiro timo kamano</b>.
 
                     Ruoth Nyasaye Wuonwa manie polo mamiyo
                     chan mar joot bedo gi olemo mosiko,
@@ -5400,19 +5399,19 @@ class SecondFragment : Fragment() {
                     dala mar Kana e piny Galili. Walemo mon-
                     do ichiwnwae mich maber ma en bedoni
                     kodwa. Wakwayo ma e nying Yesu Kristo
-                    Ruodhwa. Amina.
+                    Ruodhwa.<b>Amina</b>.
 
                     7. E kindeni ka tere machon pod nitie to inyalo
                     guedho gi kendo. To ka ging'iewo manyien to
                     mondo oguedhigi.
-                    Padri: Waguedho teregi kendo mondo opar
+                    <i>Padri</i>: Waguedho teregi kendo mondo opar
                     ni ...N.... gi ....N....
                     kuong'ruok gi singruokgi mar
                     heragi mosiko kod ratiro mane
                     gitimo chieng' kendruokgi kendo ma
                     gisenuoyo kawuononi. Waguedho
                     teregi kendo e nying Wuoro, Wuowi
-                    kod Roho Maler. Amina
+                    kod Roho Maler.<b>Amina</b>
 
                     Koro gi miyore tere kata ranyisi moko
                     moyiedhi. Padri tiyo kod weche mowinjore
@@ -5421,13 +5420,13 @@ class SecondFragment : Fragment() {
                     obed ranyisi mar herana kodi
                     nyaka chop chieng' moro tho pog-
                     wa e nying' Wuoro, Wuowi kod
-                    Roho Maler. Amina
+                    Roho Maler.<b>Amina</b>
 
                     Dhako:...NN... amiyi tereni kaka rany-
                     isi mar hera kod luor manie kind-
                     wa kodi nyaka chieng' moro tho
                     pogwa. Enying' Wuoro, Wuowi
-                    kod Roho Maler. Amina.
+                    kod Roho Maler.<b>Amina</b>.
 
                     8. Dichwo gi chiege goyo chonggi kendo ma-
                     ko lwetgi. Nyithindgi bende nyalo goyo
@@ -5438,7 +5437,7 @@ class SecondFragment : Fragment() {
                     mag ng'wono kuomgi mondo e dakgi
                     kaachiel ga diera gimiyi mor gin bende
                     gidag gi mor kaachiel endalo duto mag
-                    ngimagi; kuom Yesu Kristo Ruodhwa. Amina.
+                    ngimagi; kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     9. Ka gin ginyithindo to padri nyalo somo
                     Somoni:
@@ -5450,7 +5449,7 @@ class SecondFragment : Fragment() {
                     Ok noloye ka oromo gi wasike e dhoranga
                     dala. (Zaburi 127: 3-5)
 
-                    10. Padri: Walam
+                    10. <i>Padri</i>: Walam
                     A Nyasaye Wuonwa maloso kendo rito kend,
                     wasayi mondo iol guethni kuom jotichnigi
                     ma iseyiero mondo odag kaachiel
@@ -5466,7 +5465,7 @@ class SecondFragment : Fragment() {
                     duto machiegni kodgi kamoro amora
                     ma gin tie kendo ium nyithindi duto
                     gi herani kuom Yesu kristo Ru-
-                    odhwa. Amina.
+                    odhwa.<b>Amina</b>.
 
                     11. Padri bende nyalo somo somoni mawuok e
                     muma ka dakgi oseguedh gi nyiuhindo.
@@ -5477,7 +5476,7 @@ class SecondFragment : Fragment() {
                     en jahawi.
                     Ok noloye ka oromo gi wasike edho ranga dala.
 
-                    12. Padri: Walam
+                    12. <i>Padri</i>: Walam
                     A Nyasaye maloso kendo rito kend
                     wasayi mondo ior guethni kuom jo-tichnigi ma iseyiero
                     174 Kitap Lamo Manyiendo doelhe
@@ -5495,7 +5494,7 @@ class SecondFragment : Fragment() {
                     ng'wono mari kamoro amora ma
                     gintie kendo um nyithindi duto gi
                     heranı kuom nying Yesu Kristo Ru-
-                    odhwa. Amina
+                    odhwa.<b>Amina</b>
 
                     13. Gueth
                     Nyasaye Wuoro, Nyasaye Wuowi, Nyasaye
@@ -5505,7 +5504,7 @@ class SecondFragment : Fragment() {
                     ng'wonone
                     Mondo udhi nyıme maber kudak e ratiro
                     Mi uyud gueth mar ngima mochwere.
-                    E nying Yesu Kristo Ruodhwa. Amina.
+                    E nying Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Jomorwgi dok bet e kombegi
                     14. Ji nyalo wer
@@ -5561,7 +5560,7 @@ class SecondFragment : Fragment() {
                     joma ngima gi joma otho, to mondo wachier
                     wadhi e ngima manyaka chieng' kuom en
                     mangima kendo molocho kaachiel kod in gi
-                    Roho Maler. Amina.
+                    Roho Maler.<b>Amina</b>.
 
                     Somo mogol e barua:-Jo-Rumi 13:8-14
                     Somo mogol e injili:-Mathayo 21:1-13; kata
@@ -5578,7 +5577,7 @@ class SecondFragment : Fragment() {
                     odhwa; mondo ka ofwenyore, to oyud ka ok
                     walal e richo to mana ka watiyoni ka
                     wamor kendo wapaki; kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     MUDIRA MAR ARIYO MAR BIRO KRISTO
@@ -5595,7 +5594,7 @@ class SecondFragment : Fragment() {
                     kuom teko mar wuodi Yesu Kristo, imi
                     wabed ler e piny motimo mudhoni mondo
                     watel ni ji kuom ng'eyo Yesu Kristo Ru-
-                    odhwa ma en Ler mar piny. Amina.
+                    odhwa ma en Ler mar piny.<b>Amina</b>.
 
                     Somo mogol e barua
                     2 Timotheo 3:14-4:1-8
@@ -5616,7 +5615,7 @@ class SecondFragment : Fragment() {
                     moa kuomi. Bed kodwa wan jotichni e
                     kinde mag tem kod chandruok mondo kik
                     wawach miriambo, to wasik ka wabedo ler
-                    epiny motimo mudho gi richoni. Amina.
+                    epiny motimo mudho gi richoni.<b>Amina</b>.
 
                     Kata
                     A Ruodhwa Yesu Kristo, kane ibiro
@@ -5629,7 +5628,7 @@ class SecondFragment : Fragment() {
                     wan joma iyiego, mondo wabed kodi, A
                     Ruoth, molocho kaachiel gi Wuoro, gi
                     Roho Maler, Nyasaye achiel nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua 1 Jokorintho 4:1-5
                     Somo mogol e injili: Mathayo 14:1-12; kata
@@ -5649,7 +5648,7 @@ class SecondFragment : Fragment() {
                     weche duto mabeyo moa kuomi e chunye,
                     kamano wan bende chunywa il ka warito
                     duoki kaka Ruoth kendo jang'ad bura.
-                    Konywa mondo wabed moikore. Amina.
+                    Konywa mondo wabed moikore.<b>Amina</b>.
 
                     Somo mogol e barua 2Petro 3:1-14;
                     Somo mogol e injili Luka 1:39-55; kata
@@ -5662,7 +5661,7 @@ class SecondFragment : Fragment() {
                     mar Wuodi Yesu Kristo: mi mondo ka
                     wapare gi mor kaka Jareswa to wabed gi
                     chir mar adier mar nene kobiro mondo obed
-                    Jang'adnwa bura. Amina.
+                    Jang'adnwa bura.<b>Amina</b>.
 
                     Somo mogol e barua Tito:2:11-3: 1-7
                     Somo mogol e injili Luka 1:67-79
@@ -5672,7 +5671,7 @@ class SecondFragment : Fragment() {
                     Nyasaye mochuere ma warito isepidhowa gi
                     kuon mar ngima manyaka chieng': imi
                     wabed moikore pile chung' e nyim Wuod
-                    dhano Yesu Kristo Ruodhwa. Amina.
+                    dhano Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     CHIENG' NYWOL RUODHWA
                     YESU KRISTO
@@ -5688,7 +5687,7 @@ class SecondFragment : Fragment() {
                     duong' ni e polo, kuom Yesus Kristo Wuodi
                     ma Ruodhwa, mangima kendo molocho,
                     kod in kaachiel gi Roho Maler, Nyasaye
-                    achiel, kawuono kendo ndalo duto. Amina.
+                    achiel, kawuono kendo ndalo duto.<b>Amina</b>.
 
                     Somo mogol e barua: 1Johana :4:7-21
                     Somo mogol e lnyjili Luka 2:1-14 (15-20) kata;
@@ -5701,7 +5700,7 @@ class SecondFragment : Fragment() {
                     wang'wa kuome nyaka piny yawre kendo
                     Kristo ma en Sulwe mar okinyi orienyie
                     chunywa. Duong' obedne kawuono kendo
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     LAMONI ITIMO CHIENG' NYUOL
                     RUODHWA OKINYYI
@@ -5711,7 +5710,7 @@ class SecondFragment : Fragment() {
                     michne maduong' ma ok nyal wachi ma en
                     Wuode Yesu Kristo jawarwa. Wuonwa
                     Mochuere, wamiyi duong', wapaki kendo
-                    walami e tienge dut nyaka chieng'. Amina.
+                    walami e tienge dut nyaka chieng'.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Hibrania 1:1-12
                     Somo mogol e injili Luka 2:1-7(8-20);
@@ -5724,7 +5723,7 @@ class SecondFragment : Fragment() {
                     mi odak kodwa, kendo waseneno duong'ne
                     maler. En duong' machalogi duong' mar
                     Wuowi ma miderma, mopong' gi ng'wono
-                    kod adiera. Amina.
+                    kod adiera.<b>Amina</b>.
 
                     MUDIRA MOKWONGO BANG'
                     KRISMAS
@@ -5738,7 +5737,7 @@ class SecondFragment : Fragment() {
                     gi puonjore, kendo ka gi chiko itgi ka gipen-
                     jo penjo, mondo gidongi ka gin gi rieko
                     kendo ka Nyasaye kod ji bedo mamor
-                    kodgi. Amina.
+                    kodgi.<b>Amina</b>.
 
                     Kata
                     A Nyasaye ma en lwanda mar warruokwa
@@ -5748,7 +5747,7 @@ class SecondFragment : Fragment() {
                     kechowa. Mi wakan kendo wapar ei chun-
                     ywa weche duto miwuoro mag wuodi, ma ja-
                     konywa Yesu Kristo; mana kaka Maria ne
-                    otimo, Amina.
+                    otimo,<b>Amina</b>.
 
                     Somso mogol e barua Jo-Kolosai 1:1-20
                     Somo mogol e Injili Luka 2:41-52; 2:15-21
@@ -5766,7 +5765,7 @@ class SecondFragment : Fragment() {
                     mane janabi okoro ochop kare: "Naluongo
                     wuoda mondo oa Misiri". Telnwa wabed
                     giluor makama kuom miyo Yesu Kristo Ru-
-                    odhwa duong'. Amina.
+                    odhwa duong'.<b>Amina</b>.
 
                     Somo mogol e barua 1Johana 1:1-2:1-6
                     Somo mogol e Injili Mathayo 2:13-23:Luka
@@ -5780,7 +5779,7 @@ class SecondFragment : Fragment() {
                     tim gima Wuodi dwaro mondo watim, ken-
                     do mondo wanyis piny mor ma wayudo e
                     divai manyien nikech luor ma wan-go kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Somo Isaya 49:1-13
                     Somo mar Injili Johana 2:1-11
@@ -5795,7 +5794,7 @@ class SecondFragment : Fragment() {
                     kaka ne ihulo kendo ichiko ni: "ma e
                     Wuoda mahero chunya mor kode". Kendo
                     imiwa A Ruoth, it mar winjo gi chuny ma-
-                    miyo Yesu Kristo Ruodhwa duong'. Amina.
+                    miyo Yesu Kristo Ruodhwa duong'.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Rumi 12:1-5
                     Somo mogol e Injili Luka 3:15-22; kata
@@ -5809,7 +5808,7 @@ class SecondFragment : Fragment() {
                     chandruok mar jogi ka imiyogi ngima moro-
                     mo chuth, A Ruoth, wach kodwa sani mon-
                     do wayud chang; kuom Yesu Kristo Ruo-
-                    dhwa. Amina.
+                    dhwa.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Rumi 12: 6-16
                     Somo mogol e Injili Johana 1:43-51; kata
@@ -5824,7 +5823,7 @@ class SecondFragment : Fragment() {
                     kogologie yuayo rech kendo otimogi jo yua
                     ji, wakwayi mondo imiwa chuny motegno
                     mar yie luongni kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua Jo-Rumi 12: 16-21
                     Somo mogol e Injili Luka 4:14-21; kata
@@ -5840,7 +5839,7 @@ class SecondFragment : Fragment() {
                     ma adiera. Wakwayi mondo iyaw chunywa
                     mondo wawinji gima iwachonwa gi
                     ngeche; kuom en mangima kendo molocho
-                    kodi nyaka chieng'. Amina.
+                    kodi nyaka chieng'.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Efeso 3:1-21
                     Somo mogol e Injili Mariko 1: 21-28; kata
@@ -5859,7 +5858,7 @@ class SecondFragment : Fragment() {
                     gimoro amora ma watimo kawarito chieng'
                     ma Yesu biro chiwowa e nyim kom
                     duong' ni ka oduogo kendo gi duong'ne
-                    maler. Amina.
+                    maler.<b>Amina</b>.
 
                     Somo Malaki 3:1-5
                     Somo mogol e Injili Luka 2:22-40
@@ -5879,7 +5878,7 @@ class SecondFragment : Fragment() {
                     tijwa odhi kanono. Nyiswa kendo iterwa
                     kuma keyo nitie, mapiny ochiekie to jo keyo
                     nokie. Ka imiyo nyingi duong' kuom tichwa
-                    nikech Piny Ruodhi. Amina.
+                    nikech Piny Ruodhi.<b>Amina</b>.
 
                     Somo mogol e barua jo-Kolosai 3: 12-17
                     Somo mogol e Injili Luka 5:1-11; kata
@@ -5896,7 +5895,7 @@ class SecondFragment : Fragment() {
                     kod herani. Kik igeng'nwa wang'i ka wad-
                     wari, mondo wayud ngima gi chang moa
                     kuomi, kuom weyonwa richowa kendo
-                    telonwa ka watiyo ni Piny Ruodhi. Amina.
+                    telonwa ka watiyo ni Piny Ruodhi.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Efeso 6: 10-20
                     Somo mogol e Injili Mariko 1: 40-45; kata
@@ -5914,7 +5913,7 @@ class SecondFragment : Fragment() {
                     teko kod rieko mar kwedo timbe mag oganda
                     ma ok oluwore gi dwaro mari kuom Yesu
                     Kristo mane oyiero tho mondo oduog piny
-                    ir Nyasaye. Amina.
+                    ir Nyasaye.<b>Amina</b>.
 
                     Somo mogol e barua 1 Johana 3:1-8
                     Somo mogol e Injili Mariko 2:1-12; kata Lu-
@@ -5932,7 +5931,7 @@ class SecondFragment : Fragment() {
                     druokwa duto mondo wayud kue mari mo-
                     dhiero rieko duto ng'eyo e chunywa, ka irito
                     chunywa ndalo duto; kuom Yesu Kristo Ru-
-                    odhwa. Amina.
+                    odhwa.<b>Amina</b>.
 
                     Somo mogol e barua 1 Jo-Korintho 9:24-27
                     Somo mogol e Injili Luka 12:16-31; kata Lu-
@@ -5951,7 +5950,7 @@ class SecondFragment : Fragment() {
                     ka joma oWinjore bedo e achiel kuom
                     duong' jal ma obedo e badi korachwich e
                     polo malo; ma en Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua 2 Jo-Korintho 11:19-31
                     Somo mogol e Injili Mathayo 17:9-23 (kata 1-23);
@@ -5973,7 +5972,7 @@ class SecondFragment : Fragment() {
                     wan joricho, kendo waywagre gadiera nikech
                     richowa. Kamano, A Nyasaye mang'won,
                     iwenwae richowa duto, kigologi oko chuth;
-                    kuom Ruodhwa Yesu KrIsto. Amina.
+                    kuom Ruodhwa Yesu KrIsto.<b>Amina</b>.
 
                     Somo Joel 2:12-17
                     Somo mogol e Injili Luka 15:11-32
@@ -5994,7 +5993,7 @@ class SecondFragment : Fragment() {
                     ndalo duto wagoni erokamano kuom
                     guethni mogundho, kendo pile watem
                     wuotho ka waluo ngimane maler, kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
 
                     MUDIRA MOKUONGO MAR NDALO
@@ -6010,7 +6009,7 @@ class SecondFragment : Fragment() {
                     richone kuom jalno mane otho kendo ochier
                     mondo ochierwa kuom duong' ne man malo;
                     kuom en ma ngima kendo molocho kodi,
-                    Nyasaye achiel nyaka chieng'. Amina.
+                    Nyasaye achiel nyaka chieng'.<b>Amina</b>.
 
                     Somo mogol e barua 2 Jo-Korintho 6:1-10
                     Somo mogol e Injili Luka 15:1-10; kata
@@ -6025,7 +6024,7 @@ class SecondFragment : Fragment() {
                     do wang'e nengo mar bedo jopuonjrene,
                     nikech nitie mich maduong' ni jogo mosiko
                     kuomi nyaka chieng' e nying Yesu Kristo
-                    Ruodhwa, Amina.
+                    Ruodhwa,<b>Amina</b>.
 
                     Somo mogol e barua 1 Jo-Thesalonika 4:1-8
                     Somo mogol e Injili Luka 14:27-33; kata
@@ -6041,7 +6040,7 @@ class SecondFragment : Fragment() {
                     mwanyalo pandoni. Miwa rieko mar ng'eyo
                     dwaroni, chir mar chung' kuom adiera, kendo
                     horruok gi nano nyaka giko. Kuom wuodi
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Efeso 5:1-14
                     Somo mogol e Injili Johana 2:13-22; kata
@@ -6059,7 +6058,7 @@ class SecondFragment : Fragment() {
                     mudho kendo waruak Jalno ma en lerwa
                     kendo ngimawa, mondo e giko ka ngimawa
                     orumo, to waloch kode e piny ruodhe ndalo
-                    duto nyaka chieng'. Amina.
+                    duto nyaka chieng'.<b>Amina</b>.
                     Somo mogol e barua. Jo-Galatia 4:21-31
                     (kata Jo-Hibrania 12:22-24)
                     Somo mogol e Injili Johana 3:14-21; kata
@@ -6075,7 +6074,7 @@ class SecondFragment : Fragment() {
                     ochangwa, kuom Wuodi Yesu Kristo Ru-
                     odhwa, mangima kendo molocho kod in,
                     Roho Maler, Nyasaye achiel, kawuono ken-
-                    do ndalo duto. Amina.
+                    do ndalo duto.<b>Amina</b>.
 
                     Somo Wuok 1:8-14
                     Somo mogol e Injili Luka 2:33-35; Kata Jo-
@@ -6090,7 +6089,7 @@ class SecondFragment : Fragment() {
                     mar ngima ma nyaka chieng; konywa wan
                     ma waseng'eyo berni mondo wadongi e
                     ng'wono gi joma oyie duto; kuom Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     MUDIRA MAR ABICH MAR NDALO
                     TUONO RINGRUOK
@@ -6103,7 +6102,7 @@ class SecondFragment : Fragment() {
                     gik ma monowa luwi e ngimawa, to
                     mokuongo wagen kuom gikeni mar bedo
                     jolup Kristo mar adiera: kuom Yesu Kristo
-                    Ruodhwa. Amina.
+                    Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua. Jo-Hibrania 9:11-15
                     Somo mogol e Injili Mathayo 20: 17-24; Kata
@@ -6122,7 +6121,7 @@ class SecondFragment : Fragment() {
                     ringre kaka kuon mar ngima, yie mondo
                     waluwi gadiera ka wachiwore chutho kendo
                     timo kaka ne ipuonjowa; e nying Yesu Kris-
-                    to Rodhwa. Amina.
+                    to Rodhwa.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Filipi 2:5-11
                     Somo mogol e Injili Mathayo 26:14-27, 66
@@ -6146,7 +6145,7 @@ class SecondFragment : Fragment() {
                     ochul gopwa kendo oreswa e richowa. Mi-
                     wa mondo wariwre kode e sand mare, eka
                     wachal kode. Wakwayi ma e nying Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua 1 Jo-korintho 11:17-34
                     Somoe e Injili Johana 13:31b-35
@@ -6162,7 +6161,7 @@ class SecondFragment : Fragment() {
                     okel winjruok e kindwa kodi kendo wadagi
                     e ngima ma miyo Kristo luor, en e wi kanisa
                     kendo Wuowi makayo mane ochier moa
-                    kuom joma otho. Amina.
+                    kuom joma otho.<b>Amina</b>.
 
                     Somo mogol e barua Jo-Hibrania 10:1-25;
                     kata Jo-Kolosai 1:18-23
@@ -6177,12 +6176,12 @@ class SecondFragment : Fragment() {
                     do wakadhi e rangach mar tho gi liel to
                     wachier gi mor; nikech hera mar Jal mane
                     othonwa kendo ochier nikech wan, Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     CHIENG' CHIER MAR RUODHWA
                     YESU KRISTO
                     Lamo
-                    Kristo osechier! Ochier adier, Alleluya!
+                    Kristo osechier! Ochier adier,<i>Alleluya</i>!
                     Nochodo nyororo mar tho gi liel kendo
                     nochier gi duong' koro ongima kendo
                     olocho nyaka chieng'. Kuom thone kendo
@@ -6190,7 +6189,7 @@ class SecondFragment : Fragment() {
                     nyaka chieng'. Konywa, A Ruoth, mondo
                     watho pile ni richo, to wadag kodi pile e
                     mor mar chierne. Wakwayo ma e nyingi
-                    Maler. Amina.
+                    Maler.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Hibrania 10:1-25
                     Somo mogol e injili: Johana 20:1-18; kata
@@ -6206,7 +6205,7 @@ class SecondFragment : Fragment() {
                     ng'eyo ni en kodwa, mondo oritwa komi-
                     yowa teko kuom chierne mondo watini pile
                     ka wan Joma kare kendo jo adiera; kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Petro 1:3-9; kata 
                     1 Korintho 15:53-58
@@ -6224,7 +6223,7 @@ class SecondFragment : Fragment() {
                     mar ng'eyo ni kata sand mathoth manade,
                     ok nyal loko genowa mar dak kodi e ngima
                     mochwere. Wakwayi ma ka wayie kuom
-                    nyingi moloyo nying' duto. Amina.
+                    nyingi moloyo nying' duto.<b>Amina</b>.
                     Somo mogol e barua: 1 Petro 2:19-25
                     Somo mogol e injili: Mariko 15:46: kata 16:1
                     -8; kata Luka 24:1-12; kata 24:13-35
@@ -6238,7 +6237,7 @@ class SecondFragment : Fragment() {
                     waketo dwaro mar joma moko otel ni
                     dwarowa, eka wakan mwanduwa e polo,
                     kama olwenda kata nyal ok kethie gik moko
-                    -kuom Yesu Kristo Ruodhwa. Amina
+                    -kuom Yesu Kristo Ruodhwa.<b>Amina</b>
 
                     Somo mogole barua: 1 Petro 2:11-17;kata
                     Jo-Kolosai 3:1-11
@@ -6255,7 +6254,7 @@ class SecondFragment : Fragment() {
                     ka wan gi chir kuom adiera mar injili ka piny
                     ber kata rach, kendo kuom timwa maber
                     wami joma ng'eny ong'e Jawarwa Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua: 2 Jo-Korintho 4:13, kata
                     5:1-5
@@ -6274,7 +6273,7 @@ class SecondFragment : Fragment() {
                     injili mar fwenyruokne duto. Kuom en mane
                     oloyo tho kendo koro ngima kodi e achiel
                     mar Roho Maler, Nyasaye achiel, kawuono
-                    Kendo ndalo duto nyaka chieng'. Amina.
+                    Kendo ndalo duto nyaka chieng'.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Rumi 8:28-39
                     Somo mogol e injili Luka 2:25-32 (33-38);
@@ -6291,7 +6290,7 @@ class SecondFragment : Fragment() {
                     duong' moloyo koduogo kendo, ka wan
                     bende noterwa kama entie kendo wanadag
                     kode nyaka chieng'. Walami ka wan gi yie
-                    kuom nyingi Maler. Amina.
+                    kuom nyingi Maler.<b>Amina</b>.
 
                     Somo Tich Joote 1:1-11
                     Somo mogol e injili: Luka 24:44-53
@@ -6308,9 +6307,9 @@ class SecondFragment : Fragment() {
                     gimoro.Miwa ng'wono mondo waket
                     genowa Kuomi e chandruokwa duto, kendo
                     wabed mobolore ka walocho, mondo duong',
-                    luor kod pak duto omi Yesu ma Jatelo kend
+                    luor kod pak duto omi Yesu ma <i>Jatelo</i> kend
                     Ruoth, kawuono kendo ndalo duto nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Petro 4:7-11
                     Somo mogol e injili: Johana 21:1-14, kata
@@ -6327,7 +6326,7 @@ class SecondFragment : Fragment() {
                     hi e oteni. Koro orwa Ruoth kamoro amora
                     midwaro orowae, sa asaya midwarowae, to
                     wabiro dhi ka wamor e nyingi kendo kuom
-                    teko mar Roho Maler. Amina.
+                    teko mar Roho Maler.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Efeso 4:1-13
                     Somo mogol e injili: Mariko 16:14-20, kata
@@ -6349,7 +6348,7 @@ class SecondFragment : Fragment() {
                     kawuono, eka wadwar gi chunywa duto
                     chopo ote maduong' mar Ruodhwa e
                     ndalowani, kuom duong' mar Ruodhwa
-                    Yesu Kristo man gi loch. Amina.
+                    Yesu Kristo man gi loch.<b>Amina</b>.
 
                     Somo mogol e barua: Tich-Joote 2:1-21
                     Somo mogol e injili: Johana 20:19-23 kata
@@ -6361,7 +6360,7 @@ class SecondFragment : Fragment() {
                     joneno man gi teko Yesu Kristo Ruodhwa
                     mane otho kendo ochier oa kuom joma
                     otho, koro olocho kod in gi Roho Maler,
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     (KINDE MA MAMOKO)
                     MUDIRA MAR DIDEK MALER
@@ -6373,7 +6372,7 @@ class SecondFragment : Fragment() {
                     mar chung' motegno ka wadak e yie ndalo
                     duto. Kuom ber mar Jawarwa Yesu Kristo
                     molocho kod in gi Roho Maler, ndalo duto
-                    nyaka chieng'. Amina
+                    nyaka chieng'.<b>Amina</b>
 
                     Somo mogol e barua: Jo-Efeso 4:3-14
                     Somo mogol e injili: Mariko 1:1-13
@@ -6392,7 +6391,7 @@ class SecondFragment : Fragment() {
                     ma wayudo kuom reso ngimawa; nikech
                     ingima kendo ilocho kaachiel gi Wuoro e
                     achiel mar Roho Maler, Nyasaye achiel,
-                    kawuono kendo ndalo duto. Amina.
+                    kawuono kendo ndalo duto.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Jo-Korintho 10:23-32
                     Somo mogol e injili: Johana 6:51-58
@@ -6405,7 +6404,7 @@ class SecondFragment : Fragment() {
                     kristo, mondo wadongi kaachiel ka wan
                     achiel gi Kristo, ka wachiemo kode e Piny
                     Ruodhe; kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     MUDIRA MOKWONGO BANG'
                     DIDEK MALER
@@ -6420,7 +6419,7 @@ class SecondFragment : Fragment() {
                     matuo e dierwa, imulgi gi lweti maler kendo
                     changgi kuom tuoche duto mohewogi.
                     Kuom Yesu Kristo ma Jayath maduong'.
-                    Amina
+                   <b>Amina</b>
 
                     somo mogol e barua: Tich-Joote 2:37-47
                     Jomo mogol e injili: Mariko 2:1-12, Luka
@@ -6443,7 +6442,7 @@ class SecondFragment : Fragment() {
                     modho. Kendo e kinde ma Wadwaro chang
                     ka wayie imul ngimawa, mondo wawinj ka
                     iwachonwa, "Yieni osechangi". Kuom
-                    Jayath maduong' Yesu Kristo. Amina.
+                    Jayath maduong' Yesu Kristo.<b>Amina</b>.
 
                     Somo: TichJoote 4:8-12
                     Somo mogol e injili: Mathayo 10:40-42; kata
@@ -6461,7 +6460,7 @@ class SecondFragment : Fragment() {
                     do mayom; Ee, Wuonwa kamano e kaka ne
                     olong'o ni. Mi mondo wan, kaka nyithindo
                     mayom wachiwre ni piny ruodhi ka wadak e
-                    ngima makelo ni nyingi duong'. Amina.
+                    ngima makelo ni nyingi duong'.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Galatia 3:23-4:1-7
                     Somo mogol e injili: Mathayo 11:16-19, kata
@@ -6479,7 +6478,7 @@ class SecondFragment : Fragment() {
                     kendo gi kan gi e chunygi. Mad wachni bed
                     kodhi molwar e lowo maber, mondo wan-
                     yag cham mang'eny mi wayud keyo mabup.
-                    Mana kuom nyingi maler. Amina.
+                    Mana kuom nyingi maler.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Rumi 8:18-23; kata
                     Jo-Efeso 5:1-10
@@ -6498,7 +6497,7 @@ class SecondFragment : Fragment() {
                     kristo, to mondo wabed jo adiera ka wachung'
                     motegno ka wabedo ranyisi maber nikech
                     wayie kuom Yesu Kristo Ruodhwa kendo
-                    Jawarwa. Amina.
+                    Jawarwa.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Kolosai 3:12-17
                     Somo mogol e injili: Mathayo 13:24-30, kata
@@ -6521,7 +6520,7 @@ class SecondFragment : Fragment() {
                     kech chak kawa kendo kuom en mangima
                     kendo molocho kod in gi Roho Maler,
                     Nyasaye achiel, kawuono, kendo ndalo duto
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Rumi 8:1-11
                     Somo mogol e injili: Mathayo 13:31-33,kata
@@ -6539,7 +6538,7 @@ class SecondFragment : Fragment() {
                     ng'wonone ne omiyogi dwarogi. Wakwayı
                     ni ineye chandruok mar ji duto madwari
                     kawuono, kendo imigi moromo chutho
-                    mwandu mag duong'ni mochwere. Amina.
+                    mwandu mag duong'ni mochwere.<b>Amina</b>.
 
                     somo mogol e barua: 1 Jo-Korintho 12:4-13
                     Somo mogol e injili: Mathayo 14:13-21; kata
@@ -6557,7 +6556,7 @@ class SecondFragment : Fragment() {
                     mondo wang'eyi maber kendo miwa bedo
                     Jo-kristo mawuotho e adiera, ka waikore
                     kinde duto ni duok Yesu Ruodhwa man gi
-                    loch. Amina,
+                    loch.<b>Amina</b>,
 
                     Kata
                     Ruoth, ichopo irwa kuom herani kod kechni
@@ -6565,7 +6564,7 @@ class SecondFragment : Fragment() {
                     wa, A Ruoth, mondo ireswa ka waluongo
                     nyngi e ndalowani. Mad kechni muonywa
                     kendo herani oumwa kuom luor kod duong'
-                    mar nyingi maler. Amina.
+                    mar nyingi maler.<b>Amina</b>.
 
                     Somo mogol e barua:2 Jo-Korintho 6:3-10
                     Somo mogol e injili: Mathayo 14:22-33; kata
@@ -6582,7 +6581,7 @@ class SecondFragment : Fragment() {
                     ruok. Walami mondo imiwa winjo matut
                     kendo itegwa mondo watini gi adiera ka
                     wan gi geno kuom piny ruodhi. Kuom
-                    Yesu Ruodhwa. Amina.
+                    Yesu Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Filipi 2:1-11
                     Somo mogol e injili: Johana 6:51-58: kata
@@ -6603,7 +6602,7 @@ class SecondFragment : Fragment() {
                     adiera mar ngima ma nyaka chieng', kuom
                     en mangima kendo molocho kod in gi Roho
                     Maler, Nyasaye achiel, kawuono kendo
-                    ndalo duto nyaka chieng'. Amina.
+                    ndalo duto nyaka chieng'.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Petro 2:18-25
                     Somo mogol e injili: Mathayo 16:13-20; kata
@@ -6621,7 +6620,7 @@ class SecondFragment : Fragment() {
                     karwa. Miwa ilo kod dembruok ka watiyo
                     ni jal ma onego dongi to wan wadog piny.
                     Duong' odogne, luor kod pak, kawuono
-                    kendo nyaka chieng'. Amina,
+                    kendo nyaka chieng'.<b>Amina</b>,
 
                     Somo mogol e barua: 2 Jo-Korintho 5:14; 6:1-2
                     Somo mogol e injili: Mariko 7: 1-8, 14, 15,21
@@ -6644,7 +6643,7 @@ class SecondFragment : Fragment() {
                     ma nyaka chieng', ma isemiyowa kuom Ja-
                     warwa Yesu Kristo, Mangima kendo olocho
                     kod in, e achiel mar Roho Maler, Nyasaye
-                    achiel, kawuono kendo ndalo duto. Amina.
+                    achiel, kawuono kendo ndalo duto.<b>Amina</b>.
 
                     Lamo bang' Sawo Maler mar Ruoth.
                     Nyasaye mang'won gi lala, Wuodi Yesu
@@ -6653,7 +6652,7 @@ class SecondFragment : Fragment() {
                     odok manyien gi ng'wononi moae polo,
                     kendo ritwa e nyawowa duto gi kuon madier
                     mar ngima ma en Yesu kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua: 2 Timotheo 3:15-17
                     Somo mogol e injili: Luka 4:14-30, kata
@@ -6672,7 +6671,7 @@ class SecondFragment : Fragment() {
                     Joma ochando. Ka waketo tenge gik ma
                     nyalo monowa luwi to wayie kuomi e
                     ngimawa duto. Wakwayı ma e nying Yesu.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua: Tich Joote 20:17-35
                     Somo mogol e injili: Mariko 7:24-37; kata
@@ -6692,7 +6691,7 @@ class SecondFragment : Fragment() {
                     iluokwa kuom gik ma ok odhi kare kod
                     wuondruok duto mondo waheri, Kendo
                     wami ji luor mowinjore, kuom Yesu Kristo
-                    ma ne othonwa. Amina.
+                    ma ne othonwa.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Efeso 3:14-21
                     Somo mogol e injili: Mariko 8:27-38: kata
@@ -6712,7 +6711,7 @@ class SecondFragment : Fragment() {
                     Yesu mane oweyo duong'ne e polo nikech
                     wan, kendo e gik matek duto, wang'e ni in
                     Ruoth. Kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua: Jo-Galatia 5:16-24
                     Somo mogol e injili: Mariko 9:30-37; kata
@@ -6731,7 +6730,7 @@ class SecondFragment : Fragment() {
                     wadag e adierane, bende wati kuom tekone,
                     kendo wadag e ngima machalo gi mare.
                     Kuom ber mar Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua: 1 Johana 4:15-21
                     Somo mogol e injili: Mariko 9:38-50; kata
@@ -6749,7 +6748,7 @@ class SecondFragment : Fragment() {
                     wachiwre-ni, ka waweyo wuond duto mag
                     mwandu mar pinyni to wating' msalap-wa
                     kendo waluwi mak wang'iyo chien.
-                    Wakwayi ma e nying Yesu Kristo. Amina.
+                    Wakwayi ma e nying Yesu Kristo.<b>Amina</b>.
 
                     Somo mogol e barua: Jakobo 1:16-27
                     Somo mogol e injili: Mariko 10:2-16; kata
@@ -6773,7 +6772,7 @@ class SecondFragment : Fragment() {
                     tekowa duto. Ka wamiye duong' kod luor,
                     nikech nyinge maler, en molocho kod in,
                     Nyasaye achiel, kawuono kendo ndalo duto
-                    nyaka chieng'. Amina
+                    nyaka chieng'.<b>Amina</b>
 
                     Somo mogol e barua: 1 Petro 4:7-11
                     Somo mogol e injili: Mariko 10:17-31; kata
@@ -6791,7 +6790,7 @@ class SecondFragment : Fragment() {
                     Yesu nopuonjowa-ma kobedonwa ranyisi en
                     Owuon. Konywa mondo wachal gi Yesu,
                     wati ni ji ma ok wadewo nengo mar tijno,
-                    mondo omi nyinge maler duong'. Amina.
+                    mondo omi nyinge maler duong'.<b>Amina</b>.
 
                     Somo mogol e barua: 2 Jo-Korintho 6:3-10
                     Somo mogol e injili: Mariko 10:35-45; kata
@@ -6810,7 +6809,7 @@ class SecondFragment : Fragment() {
                     Kende ema onyalo timowa wabed joma chopo
                     Chik maduong' moloyo. Omiyo konywa A
                     Ruoth, nikech duong' kod luor mar nying
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua: Jakobo 2:8-13; Jo-
                     Rumi 8:18-25
@@ -6835,7 +6834,7 @@ class SecondFragment : Fragment() {
                     Miwa chir mar wuotho e yorno, kaka Yesu
                     notimo, kuom en mangima kendo molocho
                     kod in gi Roho Maler, kawuono, kendo ndalo
-                    duto nyaka chieng". Amina.
+                    duto nyaka chieng".<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Filipi 2:12-18
                     Somo mogol e injili: Mathayo 8:23-34; kata
@@ -6854,7 +6853,7 @@ class SecondFragment : Fragment() {
                     mondo joma winjo ote mar Wach Maber ma
                     gikelo obi iri kuom yie kendo timo dwaroni
                     ka gi rwakore gi teko mamiyo gitimo
-                    honni enyingi maler. Amina.
+                    honni enyingi maler.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Johana 2:22-29
                     Somo mogol e injili: Mariko 9:38-50; kata
@@ -6871,7 +6870,7 @@ class SecondFragment : Fragment() {
                     wang'eyi, mondo ka waheri moloyo gik
                     moko duto, to wayud singo moloyo gigo
                     duto ma wagombo; kuom Yesu Kristo Ru-
-                    odhwa. Amina.
+                    odhwa.<b>Amina</b>.
 
                     Somo mogol e barua: Jo-Filipi 3:7-21; kata
                     Fweny 7:2-4, 9
@@ -6893,7 +6892,7 @@ class SecondFragment : Fragment() {
                     chutho. Kamano mondo wan bende wachop
                     e mor modhierowa ngeyo, ma iseiko ni
                     joma oheri gadiera. Wakwayi kamano e ny-
-                    ing Yesu Kristo Ruodhwa. Amina.
+                    ing Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Somo mogol e barua: Fweny 7:2-12
                     Somo mogol e injili: Mathayo 5:1-12
@@ -6905,7 +6904,7 @@ class SecondFragment : Fragment() {
                     jowuoth e piny ka mondo orwakwa kanyak-
                     la gi jo-Nyasaye duto e nyasi ma iikonwa e
                     Piny Ruodhi; kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     MUDIRA MAR ANG'WEN MOTELO
@@ -6920,7 +6919,7 @@ class SecondFragment : Fragment() {
                     molal oduog iri ka gin gi geno kod chir mar
                     siro jogo makwedowa ka kedo gi adiera mar
                     Wach Maber. Kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Somo mogol e barua: Jo-Rumi 13:8-14
                     Somo mogol e injili: Mariko 10:2-16; kata
@@ -6942,7 +6941,7 @@ class SecondFragment : Fragment() {
                     joma otho, ne omiyo joma odenyo chiemo.
                     kendo ne onyiso Jomwandu mondo opogie
                     ni joma ochando mwandugi. Duong' mon-
-                    do odogne nyaka chieng'. Amina.
+                    do odogne nyaka chieng'.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Jo-Korintho 4: 1-5
                     Somo mogol e injili: Johana 15:12-27; kata
@@ -6962,7 +6961,7 @@ class SecondFragment : Fragment() {
                     mar tim makare, Kendo kristo, Onere e ti-
                     jewa gi wechewa, kuom miyo Yesu Kristo
                     Jawarwa, Jal makare, duong' odogne nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Jo-Korintho 4:1-5; Jo
                     -Filipi 4:4-9
@@ -6981,7 +6980,7 @@ class SecondFragment : Fragment() {
                     omiyo chuech duto podho e tiend kalame;
                     En mangima kendo molocho kod in, e
                     achiel mar Roho Maler, Nyasaye achiel,
-                    kawuono kendo ndalo duto. Amina.
+                    kawuono kendo ndalo duto.<b>Amina</b>.
 
                     Somo mogol e barua: 1 Jo-Korintho 1:26-31
                     Somo mogol e injili: Johana 18:33-37; kata
@@ -6996,7 +6995,7 @@ class SecondFragment : Fragment() {
                     Chiew chunywa, A Ruoth, mondo wanyag
                     olemo mar tich maber, mondo wayud michni
                     mogundho, kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     LEMO MAG NDALO MOYIEDHI
                     WECHE MONEGO IPAR
@@ -7026,7 +7025,7 @@ class SecondFragment : Fragment() {
                     *Lamoni itimo ni od kidi kata od matafari
                     kende.
 
-                    CHENRO MAR LEMO.
+                    <h4>CHENRO MAR LEMO</h4>.
                     I. Wer 146 "To mise mar Kanisa en Yesu
                     Wuod Nyasaye 146
                     Padri kod jodong Kanisa wacho ni Bishop
@@ -7038,7 +7037,7 @@ class SecondFragment : Fragment() {
 
                     Bishop: A mor timo kamano.
                     Ruoth obed kodu.
-                    Ji duto: In bende obed kodi.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
                     Bishop nyalo wacho wechegi kata ma moko
                     ma owinore.
@@ -7069,14 +7068,14 @@ class SecondFragment : Fragment() {
                     odh Israel nosechiko. Ne giolo wer, ka gipa-
                     ko Kendo gigoyo erokamano ni Ruoth Ny-
                     asaye niya (Ezra 3:10-11)
-                    Ji duto: "En gima ber goyo ni Ruoth Ny-
+                    <i>Ji duto:</i> "En gima ber goyo ni Ruoth Ny-
                     asaye erokamano, Nimar herane
                     osiko nyaka chieng'".
 
                     Bishop: Ji duto nopako Ruoth Nyasaye gi
                     dwol maduong', nikech mise mar od
                     Ruoth Nyasaye nose keti.
-                    Ji duto: Alleluya, Amina.
+                    <i>Ji duto:</i><i>Alleluya</i>,<b>Amina</b>.
 
                     Somo mamoko: Isaya 8:13-15; Mathayo
                     21:42-44; Jo-Efeso 2:19-22; IPetro 2:4-8.
@@ -7119,7 +7118,7 @@ class SecondFragment : Fragment() {
                     Gi riwruok mar joma oyie duto.
                     Ayie ni Nyasaye weyo ni ji richogi,
                     kendo ayie ni nitie chier mar ringruok
-                    gi ngima ma ok rum. Amina.
+                    gi ngima ma ok rum.<b>Amina</b>.
 
                     11. Wer:Ekindema ji wer to Bishop kod Pate
                     dhiyo kar keto kidi mar mise kendo olamo
@@ -7133,7 +7132,7 @@ class SecondFragment : Fragment() {
                     ma huyo. Jiw chunywa mondo wachiwre mar
                     tiyoni kachiel kaka jokanyo mar Ringre Kris-
                     to. Magi duto wakwayo mana kuom duong'
-                    mar Yesu Kristo Ruodhwa. Amina.
+                    mar Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     KATA
                     12. Nyasaye Manyalo Gik Moko Duto, Wuodi
@@ -7142,7 +7141,7 @@ class SecondFragment : Fragment() {
                     Hekalu mar chuny kendo timwa wabed
                     kanyakla mar jodolo magi maler, mondo
                     watim misango maler kendo mangima ma
-                    imorgo. Amina.
+                    imorgo.<b>Amina</b>.
 
                     13. LAMO MA IKWAYOGO NYASAYE MONDO
                     ORITI JOGEDO.
@@ -7154,7 +7153,7 @@ class SecondFragment : Fragment() {
                     ma ok nyal hinyo ngima mar joma biro lemoe,
                     kendo mondo obed ranyisi mar herani, berni,
                     adiera mari kod yie kuomi in ma walamo e
-                    Roho kod adiera. Amina.
+                    Roho kod adiera.<b>Amina</b>.
 
                     14. LAM MAR CHIWO NI GEDO.
                     A Ruoth, mul chuny jogi mondo gi chiw
@@ -7170,7 +7169,7 @@ class SecondFragment : Fragment() {
                     go tich mar gero kanisani kendo obed neno
                     mar riwruok mar jo-Kristo gi kaka gi heri gi
                     ilo mar tiyoni. Walamo kendo wagoyoni
-                    erokamano e nying Yesu Kristo. Amina.
+                    erokamano e nying Yesu Kristo.<b>Amina</b>.
 
                     15. KETO KIT MISE
                     Ji duto lamo lamoni
@@ -7185,7 +7184,7 @@ class SecondFragment : Fragment() {
                     kendo molocho kodi in kachiel kod
                     Roho Maler
                     Nyasaye achiel kawuono kendo
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     16. Bishop: Magi e weche mag Ruoth Nyasaye;
                     Winjuru! Abiro keto kidi mar
@@ -7200,7 +7199,7 @@ class SecondFragment : Fragment() {
                     Waketo kidi mar mise mar Kani-
                     sani...N
                     E nying Nyasaye Wuoro, Wuowi
-                    kod Roho Maler. Amina.
+                    kod Roho Maler.<b>Amina</b>.
 
                     Weche ma ondikie e kidino isomo gi dwol ma-
                     duong'. Ji duto pamo kendo wer.
@@ -7215,7 +7214,7 @@ class SecondFragment : Fragment() {
                     ka wamiyogo nyingi maler duong';
                     kendo kuom ng'wononi wayud
                     ngima ma nyaka chieng', enying
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     18.GUETH
                     Nyasaye mane oketo kit mise mote-
@@ -7228,7 +7227,7 @@ class SecondFragment : Fragment() {
                     Moko Duto
                     Wuoro, Wuowi kod Roho Maler,
                     obed kodu kendo osik kodu nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     19.Wer mar wuok
                     </pre>
@@ -7249,10 +7248,10 @@ class SecondFragment : Fragment() {
                     ripot mar kanisano kaka owinjore.
                     *Bende kik wal kanisa kaonge Barup
                     Lowo mogere kanisano.
-                    *Jiduto riedo kawuotho koluwore gi chen-
+                    *Ji duto riedo kawuotho koluwore gi chen-
                     ro mar kanisa.
 
-                    CHENRO MAR LEMO.
+                    <h4>CHENRO MAR LEMO</h4>.
 
                     1. WER.
 
@@ -7263,7 +7262,7 @@ class SecondFragment : Fragment() {
                     gi iye. Eka bishop dhi nyime kawacho kama:
 
                     2. Bishop: Kwe mar Nyasaye mondo obed e odni
-                    Ji duto: Ni ji duto madonjoe , Alleluya
+                    <i>Ji duto:</i> Ni ji duto madonjoe ,<i>Alleluya</i>
 
                     3. LAMO MAR GUEDHO KANISA
                     Ruoth Nyasaye
@@ -7275,7 +7274,7 @@ class SecondFragment : Fragment() {
                     wang'i ka mondo orom kodi
                     Kendo mondo gi bed Hekalu Mangima
                     ma imorgo;
-                    kuom Yesu Kristo Ruodhwa. Amina.
+                    kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Bishop telo niji ka gidonjo ei Kanisa.
                     Ekindeni jokwaya telo ni ji duto e wer
@@ -7286,7 +7285,7 @@ class SecondFragment : Fragment() {
                     4. Bishop: "Kane Sandug Muma mar Ruoth
                     Nyasaye obiro e kambi, jo-Israel
                     duto nokok matek mi piny omor."
-                    Ji duto: Wapakuru Ruoth!Alleluya!
+                    <i>Ji duto:</i> Wapakuru Ruoth!Alleluya!
 
                     Wendni iwero kata isomo.
                     5. Duong' obed ni Nyasaye man malo chutho,
@@ -7306,32 +7305,32 @@ class SecondFragment : Fragment() {
                     in kendi e Ruoth,
                     in kendi, A Kristo, kod Roho Maler,
                     ema un gi duong' maromre gi duong' mar
-                    Nyasaye Wuoro. Amina.
+                    Nyasaye Wuoro.<b>Amina</b>.
 
                     KATA
                     Bishop: Duong' obed ni Wuoro;
-                    Ji duto: Duong' obed ni Wuowi.
+                    <i>Ji duto:</i> Duong' obed ni Wuowi.
 
                     Bishop: Duong' obedni Roho Maler
-                    Ji duto: Didek mipako nyaka chieng'.
+                    <i>Ji duto:</i> Didek mipako nyaka chieng'.
 
                     Bishop: Wamiye duong' e dala
-                    Ji duto: Wamiye duong' e Kanisa.
+                    <i>Ji duto:</i> Wamiye duong' e Kanisa.
 
                     Bishop: Wamiye duong' e Kenya;
-                    Ji duto: Wamiye duong' e Afrika.
+                    <i>Ji duto:</i> Wamiye duong' e Afrika.
 
                     Bishop: Wamiye duong' e piny
-                    Ji duto: Wamiye duong' e polo.
+                    <i>Ji duto:</i> Wamiye duong' e polo.
 
                     Bishop: Duong' obed ni Wuoro;
-                    Ji duto: Duong' obed ni Wuowi.
+                    <i>Ji duto:</i> Duong' obed ni Wuowi.
 
                     Bishop: duong' obed ni Roho Maler;
-                    Ji duto: Didek maler ma ok pogi nyaka chieng'.
+                    <i>Ji duto:</i> Didek maler ma ok pogi nyaka chieng'.
 
-                    Bishop: Alleluya
-                    Ji duto: Amina.
+                    Bishop:<i>Alleluya</i>
+                    <i>Ji duto:</i><b>Amina</b>.
 
                     6. GUEDHO KOD WALO KANISA
                     Bishop koro chung' e nyim Mesa Maler mar
@@ -7357,7 +7356,7 @@ class SecondFragment : Fragment() {
                     pile, kitelonwa, kibedonwa ja-ng'ad
                     bura ma kare, kiweyonwa richowa,
                     Kiyawo wang'wa kendo iguedho jogi;
-                    enying Yesus Kristo Ruodhwa. Amina.
+                    enying Yesus Kristo Ruodhwa.<b>Amina</b>.
 
                     7. WALO KAR BATISO
                     Padri telo ni Bishop kog pate mamoko ka
@@ -7378,8 +7377,8 @@ class SecondFragment : Fragment() {
 
                     Bishop: Nitie Ruoth achiel, yie achiel, kod
                     batiso achiel.
-                    Ji duto: Nyasaye achiel ma Wuon Gik
-                    Moko Duto.
+                    <i>Ji duto:</i> <b> Nyasaye achiel ma Wuon Gik
+                    Moko Duto</b>.
                     Bishop: Walam.
                     Wuonwa, wagoyoni erokamano ni
                     kuom pi mar batiso, watho ni richo
@@ -7390,7 +7389,7 @@ class SecondFragment : Fragment() {
                     bedo nyihind Nyasaye. Koro wawa-
                     lo kar Batisoni e nying Nyasaye
                     Wuoro, gi wuowi, kod Roho Maler
-                    Amina.
+                   <b>Amina</b>.
 
 
                     8. WALO KAR SOMO WACH NYASAYE:
@@ -7402,7 +7401,7 @@ class SecondFragment : Fragment() {
                     Joma kare.
 
                     Bishop: Wachni e taya manyisowa kama wanyono
-                    Ji duto: Kendo e ler ma menyonwa yo.
+                    <i>Ji duto:</i> <b> Kendo e ler ma menyonwa yo</b>.
 
                     Bishop: Walam.
                     A Ruoth, wasayi ni joma biro somo
@@ -7413,7 +7412,7 @@ class SecondFragment : Fragment() {
                     chunygi kendo ginyag olemo mar
                     Roho Maler ei ngimagi. Koro wawalo
                     kar Somoni e nying Nyasaye Wuoro,
-                    gi Wuowi kod Roho Maler. Amina.
+                    gi Wuowi kod Roho Maler.<b>Amina</b>.
 
                     9. WALO KAR PUONJO WACH NYASAYE
                     Jasomo Somo: 2 Timithoe 4:1,2
@@ -7430,7 +7429,7 @@ class SecondFragment : Fragment() {
 
                     Bishop: Wechena gi parowa mondo
                     obedni malong'o.
-                    Ji duto: Mondo obedni malong'o in e
+                    <i>Ji duto:</i> Mondo obedni malong'o in e
                     Lwandawa kendo Jawarwa.
 
                     Bishop: Walam.
@@ -7441,7 +7440,7 @@ class SecondFragment : Fragment() {
                     Wachni kende e ma mondo owinj.
                     Koro wawalo kar puonjo Wach
                     Nyasayeni, e nying Wuoro, gi
-                    Wuowi, kod Roho Maler. Amina.
+                    Wuowi, kod Roho Maler.<b>Amina</b>.
 
                     10. WALO KAR TELO NI LEMO:
                     Somo: 1 Timotheo 2:1-2
@@ -7456,7 +7455,7 @@ class SecondFragment : Fragment() {
                     bore chuth.
 
                     Bishop: A Ruoth winj lamowa.
-                    Ji duto: Kendo ywakwa mondo ochopni.
+                    <i>Ji duto:</i> <b> Kendo ywakwa mondo ochopni</b>.
 
                     Bishop: Walam
                     A Ruoth, wakwayo ni ji duto mabiro
@@ -7467,7 +7466,7 @@ class SecondFragment : Fragment() {
                     jagachwa Yesu Kristo lamonwae.
                     Koro wawalo kar Telo ni Lemoni e
                     nying Nyasaye Wuoro, gi Wuowi
-                    kod Roho Maler. Amina.
+                    kod Roho Maler.<b>Amina</b>.
 
                     11. WALO KAR GOYO CHONG PINY E
                     KINDE SAWO
@@ -7480,8 +7479,8 @@ class SecondFragment : Fragment() {
 
                     Bishop: Odiechieng' achiel ma ng'ato obe-
                     dogoe e Hekalu mari,
-                    Ji duto: Ber moloyo ndalo gana gi gana
-                    ma obedogo kamoro nono.
+                    <i>Ji duto:</i> <b> Ber moloyo ndalo gana gi gana
+                    ma obedogo kamoro nono</b>.
 
                     Bishop: Walam.
                     Walamo A Ruoth, ni ji duto mabiro
@@ -7494,7 +7493,7 @@ class SecondFragment : Fragment() {
                     kendo gidag dag ka giluoro Nyingi.
                     Koro wawalo kar Goyo Chong
                     Pinyni e nying Nyasaye Wuoro,
-                    Wuowi kod Roho Maler. Amina.
+                    Wuowi kod Roho Maler.<b>Amina</b>.
 
                     12. WALO MESA MALER MAR RUOTH
                     Somo: Zaburi 23:5
@@ -7505,7 +7504,7 @@ class SecondFragment : Fragment() {
 
                     Bishop: Kata wang' eny kamano to wan
                     ringruok achiel.
-                    Ji duto: Wachamo makati achiel.
+                    <i>Ji duto:</i> <b> Wachamo makati achiel</b>.
 
                     Bishop: Walam.
                     A Ruoth, wakwayi mondo iguedh
@@ -7514,7 +7513,7 @@ class SecondFragment : Fragment() {
                     lemo kod chiwo mag jogi. Koro wa-
                     walo Mesa Maler mar Ruothni e
                     nying Nyasaye Wuoro, gi Wuowi
-                    kod Roho Maler. Amina.
+                    kod Roho Maler.<b>Amina</b>.
 
                     13. WALO GIK SAWO MALER MAR RUOTH.
                     KOD GILEMO MAMOKO
@@ -7532,7 +7531,7 @@ class SecondFragment : Fragment() {
                     agulu mitiyogo tich mogen
 
                     Bishop: Kuom san-ni gi kikombeni.
-                    Ji duto: Wanyisogo tho mar Kristo nyaka
+                    <i>Ji duto:</i> Wanyisogo tho mar Kristo nyaka
                     chop oduog gi duong'
 
                     Bishop: Walam.
@@ -7544,7 +7543,7 @@ class SecondFragment : Fragment() {
                     lo gi Sawo Malerni kod gik moko
                     duto mag lemogi enying Nyasaye
                     Wuoro, gi Wuowi kod Roho Maler.
-                    Amina.
+                   <b>Amina</b>.
 
                     14. WALO KOMBE MAG KANISA
                     Somo: Jeremia 26:2-3a
@@ -7559,7 +7558,7 @@ class SecondFragment : Fragment() {
 
                     Bishop: Joma kech gi riyo mar dwaro tim
                     makare oloyo gin johawi.
-                    Ji duto: Nikech giniyud gima gidwaro.
+                    <i>Ji duto:</i> <b> Nikech giniyud gima gidwaro</b>.
 
                     Bishop: Walam.
                     Ruoth guedh joma biro bet e
@@ -7570,12 +7569,12 @@ class SecondFragment : Fragment() {
                     mang'eny mondo ojiw kendo otegi.
                     Koro wawalo kombegi E nying,
                     Nyasaye Wuoro, Wuowi kod Roho
-                    Maler. Amina
+                    Maler.<b>Amina</b>
 
                     15. LAMO MAR WALO GIK CHOKO CHIWO.
                     Bishop: A Ruoth gik moko duto gin magi.
-                    Ji duto: Kendo waduokoni mana gik ma
-                    imiyowa.
+                    <i>Ji duto:</i> <b> Kendo waduokoni mana gik ma
+                    imiyowa</b>.
 
                     Bishop: Walam.
                     A Ruoth ma wuon gik moko duto,
@@ -7585,7 +7584,7 @@ class SecondFragment : Fragment() {
                     gi jochiwo mang'won. Wawalo Gi
                     Choko Chiwogi enying Nyasaye
                     Wuoro, gi Wuowi kod Roho Maler.
-                    Amina.
+                   <b>Amina</b>.
 
                     16. WALO OLANG' MAR KANISA
                     Jasomo:Ndong', ndong', ndong' chieng' mud-
@@ -7605,7 +7604,7 @@ class SecondFragment : Fragment() {
                     do obi opaki kendo olami. Koro wa-
                     walo olang' ni e nying Nyasaye
                     Wuoro, gi Wuowi kod Roho maler.
-                    Amina.
+                   <b>Amina</b>.
 
                     17. WALO MSALABA
                     Jasomo: Wabiro pakore e msalaba mar Ru-
@@ -7614,7 +7613,7 @@ class SecondFragment : Fragment() {
 
                     Bishop: Kristo nobolore kendo nowinjo
                     wach nyaka tho.
-                    Ji duto: Kata mana tho mar msalaba.
+                    <i>Ji duto:</i> <b> Kata mana tho mar msalaba</b>.
 
                     Bishop: Walam.
                     A Nyasaye mang'won, kuom ng'wononi ne
@@ -7626,7 +7625,7 @@ class SecondFragment : Fragment() {
                     oywa chunywa kuome,
                     en ma otelonwa e duong' mar Piny
                     Ruodhi; kama idakie Kendo ilochoe
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     18. WALO MUMA MAR KANISA
                     Jasomo: Gik moko duto mane ondik chon
@@ -7635,8 +7634,8 @@ class SecondFragment : Fragment() {
                     mondo wayud jip mawuok e Muma.
 
                     Bishop: Wach Nyasaye chalo gi pe kod koth.
-                    Ji duto: Ma biro koa e luasi mondo ochwe
-                    e piny.
+                    <i>Ji duto:</i> <b> Ma biro koa e luasi mondo ochwe
+                    e piny</b>.
 
                     Bishop: Walam.
                     Wagoyoni erokamano wuonwa
@@ -7649,7 +7648,7 @@ class SecondFragment : Fragment() {
                     loso ngimawa kaluwore gi wachni.
                     Koro wawalo Muma ni enying Ny-
                     asaye Wuoro, gi Wuowi kod Roho
-                    Maler. Amina.
+                    Maler.<b>Amina</b>.
 
                     19. WALO GIG PAKO NYASAYE
                     Jasomo: Pakuru Ruoth Nyasaye gi tung' ku-
@@ -7658,7 +7657,7 @@ class SecondFragment : Fragment() {
                     thum kod asili kugoyone ongeng'o.
 
                     Bishop: Pakuru Nyasaye e Hekalu ne!
-                    Ji duto: Pakuru tekone e polo malo.
+                    <i>Ji duto:</i> <b> Pakuru tekone e polo malo</b>.
 
                     Lamo mar welo:
                     Bishop: A Nyasaye, ma e nyim kom
@@ -7669,12 +7668,12 @@ class SecondFragment : Fragment() {
                     mondo Ka wawer to wapak nyingi
                     kuonde duto. Koro wawalo gik pako
                     Nyasaye gi e nying Nyasaye wuoro,
-                    Wuowi kod Roho Maler. Amina.
+                    Wuowi kod Roho Maler.<b>Amina</b>.
 
                     Lamo mar Ruoth.
                     Bishop: Kaka Jawarwa nopuonjowa koro
                     wan gi chir mar lamo:
-                    Ji duto: Wuonwa manie polo,
+                    <i>Ji duto:</i> Wuonwa manie polo,
                     nyingi mondo omi luor,
                     lochni obi,
                     kendo dwaroni mondo otimre e
@@ -7685,7 +7684,7 @@ class SecondFragment : Fragment() {
                     Kik iwe wadonj e tem, to reswa e
                     richo nikech loch gi teko kod
                     duong' gin magi nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     20 LITANIA MAR GOYO EROKAMANO NI
                     KANISA
@@ -7701,40 +7700,40 @@ class SecondFragment : Fragment() {
                     manie piny ngima ma gedo mine-
                     nogi gin ranyisi mare.
 
-                    Ji duto: Yie erokamanowa A Ruoth.
+                    <i>Ji duto:</i> <b> Yie erokamanowa A Ruoth</b>.
                     Bishop: Nikech kama ji ariyo kata adek
                     ochokore e nyingi to inibedi e diergi.
 
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
                     Bishop: Kuom timowa nyithindi kuom
                     ng'wononi, kendo nyienowa
                     odiechieng' kodiechieng'.
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: Kuom ng'eyo dwaroni kod
                     ng'wono wmar time
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: Kuom chopo dwarowa kod
                     kwayowa kaka berni.
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: Kuom weyonwa richowa kendo
                     dwokowa e achiel kaka jogi moyie
                     kuomi adier.
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: Kuom guedho singruokwa kendo
                     medo hikwa gi ber mari,
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: Kuom yie mar jogo ma osetelonwa
                     kendo jip mawayudo kuom kinda margi
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: A Nyasaye, piny Ruoth en mari;
-                    Ji duto: Kendo wating'o nyingi malo e wi
-                    gik moko duto. Amina.
+                    <i>Ji duto:</i> Kendo wating'o nyingi malo e wi
+                    gik moko duto.<b>Amina</b>.
 
                     Wer mar ting'o chuny malo inyalo wer kaji
                     duto pod obet.
@@ -7779,11 +7778,11 @@ class SecondFragment : Fragment() {
                     mowinjore ma chunywa gi ringrewa dwaro,
                     mondo wapaki ndalo duto mag ngimawa.
                     Kuom Yesu Kristo Jagachwa kendo Jawarwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Bishop: Nyasaye Wuoro, Wuowi kod Roho
                     Maler, mondo owal odni.
-                    Ji duto: Mawa keto tenge kuom lami.
+                    <i>Ji duto:</i> <b> Mawa keto tenge kuom lami</b>.
 
                     WACH WALO KANISA
                     Bishop: Nikech yie mawango kuom Yesu
@@ -7791,7 +7790,7 @@ class SecondFragment : Fragment() {
                     asaye Manyalo Gik Duto. Ibro lu-
                     ongeni.. N....e nyıng Nyasaye
                     Wuoro, Wuowi kod Řoho Maler.
-                    Amina.
+                   <b>Amina</b>.
 
                     Ji duto pamo, gigoyo sigalagala kendo gimo-
                     sore. Kwaya teloni ji kagiwero wende pak
@@ -7822,7 +7821,7 @@ class SecondFragment : Fragment() {
                     Duto,
                     Wuoro, Wuowi kod Roho Maler,
                     Obed kodu kendo osik kodu ndalo duto
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
                     </pre>
                 """.trimIndent()
             ),
@@ -7849,7 +7848,7 @@ class SecondFragment : Fragment() {
                     kaka kar lemo. Ok time ni klas ma ji
                     Osebedo ka lemoe ka girito tieko gero kanisa.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
 
                     Ji bedo ei kanisa kata gi chung' kapo ni
                     kombe osegol oko.
@@ -7857,7 +7856,7 @@ class SecondFragment : Fragment() {
                     gidhi nyaka e altar.
 
                     1. Bishop: Ruoth obed kodu.
-                    Ji duto: In bende obed kodi.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
                     Ji duto chung' ka Bishop somo weche mag
                     loko Kanisa mondo otimie 1ije mamoko.
@@ -7880,39 +7879,39 @@ class SecondFragment : Fragment() {
                     berie moloyo biro miyogi mor.
 
                     3. Bishop: Ruoth obed kodu.
-                    Ji duto: In bende obed kodi.
+                    <i>Ji duto:</i> <b> In bende obed kodi</b>.
 
                     4. Bishop: Walam.
                     A Ruoth wagoyoni erokamano kuom ndalo
                     duto ma odni osetigo kaka kar lemo mar
                     jogi manie gweng'ni.
-                    Ji duto: Wagoyoni erokamano, A Ruoth.
+                    <i>Ji duto:</i> Wagoyoni erokamano, A Ruoth.
 
                     Bishop: Kuom gik moko duto ma
                     gisetimo e odni.
-                    Ji duto: Wagoyoni erokamano, A Ruoth.
+                    <i>Ji duto:</i> Wagoyoni erokamano, A Ruoth.
 
                     Bishop: Kuom weche duto ma duogo chuny
                     ma osepuonjka.
-                    Ji duto: Wagoyoni erokamano, A Ruoth.
+                    <i>Ji duto:</i> Wagoyoni erokamano, A Ruoth.
 
                     Bishop: Ni Jogo duto mane obatisi kendo oy-
                     ie lwedo ka.
-                    Ji duto: Wagoyoni erokamano, A Ruoth.
+                    <i>Ji duto:</i> Wagoyoni erokamano, A Ruoth.
 
                     Bishop: Ni Jogo duto mane oriwo kend
                     margi ka.
-                    Ji duto:Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b>Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: Kuom kinde duto mane wayudo teko
                     mar chuny ka wachamo Sawo Maler mar ruoth.
-                    Ji duto: Wagoyoni erokamano A Ruoth.
+                    <i>Ji duto:</i> <b> Wagoyoni erokamano A Ruoth</b>.
 
                     Bishop: Duong' obed ni Wuoro, Wuowi kod
-                    Roho Maler. Amina
-                    Ji duto: Kaka nobet mokwongo, kendo pod
+                    Roho Maler.<b>Amina</b>
+                    <i>Ji duto:</i> Kaka nobet mokwongo, kendo pod
                     obet kawuono, kendo kaka biro
-                    bet nyaka chieng'. Amina.
+                    bet nyaka chieng'.<b>Amina</b>.
 
                     Bishop wacho wechegi:
                     6. (E lo Bishop mar Diosesni) Ahulo ni odni
@@ -7921,7 +7920,7 @@ class SecondFragment : Fragment() {
                     mar Anglikan e Kenya. A lando ni odni koro
                     inyalo (muki) kata timoe tije ma moko. E
                     ing Nyasaye Wuoro, Wuowi kod Roho
-                    Maler. Amina.
+                    Maler.<b>Amina</b>.
 
                     Tarik______due mar____higa mar
                     Ruodhwa_____Seyi_________
@@ -7942,7 +7941,7 @@ class SecondFragment : Fragment() {
                     biro ruakoe miaha mare, ma en Kanisane
                     maler kendo maonge chilo. Kuom Yesu
                     Kristo mangima kendo molocho gi Wuoro,
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     Dhiuru e piny gi kue; kendo teguru chunyu,
                     Kuluwo tim duto mabeyo, ka ng'ato otmonu
@@ -7956,11 +7955,11 @@ class SecondFragment : Fragment() {
                     kendo hap Nyasaye Manyalo Gik Moko Duto,
                     Wuoro, Wuowi kod Roho Maler,
                     Obed kodu kendo osik kodu nyaka chieng'
-                    Amina.
+                   <b>Amina</b>.
 
                     Bishop: Dhiuru gi kue mondo uti ni Ruoth
                     Nyasaye ka uhere.
-                    Ji duto: Enying Yesu Kristo. Amina.
+                    <i>Ji duto:</i> <b> Enying Yesu Kristo</b>.<b>Amina</b>.
 
                     Wer moro ma owinjore inyalo wero kaji wuok
                     ei kanisa.
@@ -8016,9 +8015,9 @@ class SecondFragment : Fragment() {
                     *Onego tim limbe kinde ka kinde ni jogo
                     moa yiko ng'atgi mondo oteg chunygi.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
 
-                    1. Ka jatelo kod jogo ma Ng'atgi otho dhi kod
+                    1. Ka <i>Jatelo</i> kod jogo ma Ng'atgi otho dhi kod
                     ringre Ng'at mothono e kanisa kata si-
                     wandha, weche moko mogol e Muma
                     mondiki mwalo kagi isomo gi duol madu-
@@ -8062,7 +8061,7 @@ class SecondFragment : Fragment() {
                     (Fweny 2:10b)
 
                     1.WER
-                    2. Jatelo:
+                    2. <i>Jatelo</i>:
                     Wasebiro kaachiel mondo wakow ringre
                     owadwa/nyaminwa..N............
                     ma Ruoth oseluongo mondo oyue kode.To
@@ -8071,14 +8070,14 @@ class SecondFragment : Fragment() {
                     kuom Kristo. Nikech Nyasaye nochiergi
                     kaachiel gi Kristo.
 
-                    Ji duto: Wuonwa manie polo, kuom wuodi
+                    <i>Ji duto:</i> Wuonwa manie polo, kuom wuodi
                     Yesu Kristo, isemiyowa yie maradier
                     kod geno motegno. Teg yie kod
                     genoni kuomwa e ndalo duto mag
                     ngimawa mondo Wadag kaka jogo
                     moyie e riwruok mar joma ler duto,
                     koweyonwa richowa kuom chier ni
-                    ngima ma nyaka chieng'. Amina
+                    ngima ma nyaka chieng'.<b>Amina</b>
 
                     3. Lamo mar ywagruokni nyalo tiyogo
                     Gimoro amora matimore e pinyni timore
@@ -8118,7 +8117,7 @@ class SecondFragment : Fragment() {
                     kendo ipong'o kikombena mi o piny.
                     Adier, berni gi ng'wononi nobed koda
                     ndalo duto mag ngimana, kendo nadag e
-                    odi nyaka chieng'. Amina
+                    odi nyaka chieng'.<b>Amina</b>
 
                     KATA
                     ZABURI 121
@@ -8137,7 +8136,7 @@ class SecondFragment : Fragment() {
                     Ruoth Nyasaye biro riti e masiche duto.
                     Adier obiro riti maber.
                     Obiro riti kiwuok, kendo kiduogo,pile ken-
-                    do nyaka chieng'. Amina
+                    do nyaka chieng'.<b>Amina</b>
 
                     5. SOMO SIGAND NGIMA MAR NG'AT
                     MOTHO
@@ -8191,13 +8190,13 @@ class SecondFragment : Fragment() {
                     yudo moko e migawo mar lemo mamoko 252-
                     266
 
-                    Jatelo: Wahoreuru mos kendo wago eroka-
+                    <i>Jatelo</i>: Wahoreuru mos kendo wago eroka-
                     mano ni Nyasaye gi chunywa kuom
                     ngima mar....N..... kendo ng'ato
                     ka ng'ato kuomwa opar kaka ne otu-
                     dore kode.
 
-                    Jatelo nyalo telo ni lemo e yor paro gik ma-
+                    <i>Jatelo</i> nyalo telo ni lemo e yor paro gik ma-
                     dongo mane mosenindo. N... otimo e
                     kinde mar ngimane kendo goyo ni Nyasaye
                     erokamano. Bang'e to owacho niya:
@@ -8206,7 +8205,7 @@ class SecondFragment : Fragment() {
                     kinde mag ngimane e kuyo kata e mor. Ne
                     iguedhowa mondo wang'eye kendo wadag
                     kode kaachiel e nying Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
                     A Ruoth miwa wan mapod wadong' ka-
                     wangima wapar maber kinde duto ni ngima
                     en gima chuok. Konywa mondo pile wawuothi
@@ -8215,7 +8214,7 @@ class SecondFragment : Fragment() {
                     odiechieng' ka odiechieng' ka gima en gik
                     marwa. Miwa ng'wononi mogundho mon-
                     do wakadhi e weche matek mag ngimawa
-                    kuom Yesu Kristo Ruodhwa. Amina.
+                    kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     A Wuonwa mang'won, riekoni odhiero
                     ng'eyo, nyisie ng'wononi ni jood..N..e
@@ -8224,7 +8223,7 @@ class SecondFragment : Fragment() {
                     mondo gikadhi e masirani; migi kue ma
                     odhiero rieko ng'eyo kod teko mar dhi
                     nyime gi tijegi kuom Yesu Kristo Ruodhwa
-                    Amina.
+                   <b>Amina</b>.
                     A Nyasaye Manyalo gik Moko Duto, kuom
                     tho mar Wuodi e musalaba, herani noloy-
                     onwa tho. Kuom yikne kod chierne koa
@@ -8235,14 +8234,14 @@ class SecondFragment : Fragment() {
                     ngima gi joma otho, mi jogo mogeno kuomi
                     chutho e pinyka opaki ndalo duto ka gin gi
                     gimor mar polo. Wakwayo ma e nying Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     A Nyasaye ma jahoch, kuom herani kod
                     ng'wononi maok rum, ilokonwa mudho mar
                     tho bedonwa ler mar ngima manyien. Nyis
                     kechni ni jogi manie kuyo. Bed ohingawa
                     kendo tekowa mondo igolwa e mudho mar
-                    kuyoni ka ikelowa e kue kod ler mari. Amina
+                    kuyoni ka ikelowa e kue kod ler mari.<b>Amina</b>
 
                     Wuodi Yesu Kristo kane othonwa to ne
                     oloyo tho kendo kuom chierne nokelo ngima.
@@ -8251,16 +8250,16 @@ class SecondFragment : Fragment() {
                     Wariwre kod owetewa gi nyiminewa e piny
                     ma tho kod kuyo ongee kendo kama pi
                     wang' duto noywe. E nyıng Yesu Kristo ma
-                    Jaloch. Amina.
+                    Jaloch.<b>Amina</b>.
                     A Ruoth, sirwa ndalo duto e ngima ma otimo
                     apakani, nyaka wachopi iri ka ngimawa
                     ogik e pinyka ka piny modichni okue, ka
                     midekre orumo kendo ka tichwa orumo.
                     Ekindeno Nyasachwa imiwa kar dak maber
                     nikech ng'wononi, yueyo makende kod kue
-                    e nying Yesu Krsto Ruodhwa Amina.
+                    e nying Yesu Krsto Ruodhwa<b>Amina</b>.
 
-                    Ka ji wuok e kanisa to jatelo wacho niya:
+                    Ka ji wuok e kanisa to <i>Jatelo</i> wacho niya:
                     Malaika mondo otelni nyaka e mor mo-
                     chwere jogo mane osetho nikech ye margi
                     mondo orwaki kendo oteri e Dala Maler,
@@ -8268,7 +8267,7 @@ class SecondFragment : Fragment() {
                     chieng'. Malaika mondo orwakgi gi wende
                     kuma tinde Lazaro winjoe maber. Ibed gi
                     yueyo maber ma nyaka chieng'. Kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     KATA
                     A Kristo, chiw yueyo ni jatichni ma koro ni
@@ -8344,19 +8343,19 @@ class SecondFragment : Fragment() {
                     (Johana 14:2-3)
 
                     13. GUEDHO BUR
-                    Jatelo nyalo guedho bur ka olamo kama:
+                    <i>Jatelo</i> nyalo guedho bur ka olamo kama:
                     A Ruoth Yesu Kristo, e kindeni mane ibetgo
                     ei liel ne imiyo liete duto mag joma oyie
                     owal. Mi ringre.. N..... onindi gi kue kaeri
                     kendo mondo en bende obi ochier kodi e
-                    teko mar Roho mari Maler. Amina
+                    teko mar Roho mari Maler.<b>Amina</b>
 
                     Iluto ringre ng'ama otho e bur bang'e ji duto
                     ling' matin.
 
-                    14. Jatelo: Ruoth ikechwa
-                    Ji duto: Kristo ikechwa
-                    Jatelo: Ruoth ikechwa
+                    14. <i>Jatelo</i>: Ruoth ikechwa
+                    <i>Ji duto:</i> Kristo ikechwa
+                    <i>Jatelo</i>: Ruoth ikechwa
                     Eka ne awinjo dwol moa e polo ,kawacho
                     niya, "Ndiki ni, chakre kawuono, jogo
                     matho kogeno kuom Ruoth, gin johawi!
@@ -8372,7 +8371,7 @@ class SecondFragment : Fragment() {
                     Nyasaye man gi teko mondo okawe obed
                     kode ka waduoko ringre e lowo:
 
-                    Jatelo olo lowo kuom ringre Ng'at motho
+                    <i>Jatelo</i> olo lowo kuom ringre Ng'at motho
                     kowacho niya:
                     Lowo dok kuom lowo kendo buru dok
                     kuom buru.
@@ -8382,8 +8381,8 @@ class SecondFragment : Fragment() {
                     kendo matho, mi olok obed machal gi ringre
                     owuon man gi duong' kotiyo gi teko ma-
                     miyo oketo gik moko duto e bwo lochne
-                    ndalo duto nyaka chieng'. Amina.
-                    Jatelo: Mano emomiyo gin e nyim kom
+                    ndalo duto nyaka chieng'.<b>Amina</b>.
+                    <i>Jatelo</i>: Mano emomiyo gin e nyim kom
                     duong' mar Nyasaye, ka gilame
                     odiecheng' kod otieno e Hekalune,
                     Kendo jal mobet e kom duong' biro
@@ -8407,7 +8406,7 @@ class SecondFragment : Fragment() {
                     Kik iwe wadonji e tem
                     To reswa e richo.
                     Nikech loch, gi teko, kod duong'
-                    gin magi nyaka chieng'. Amina.
+                    gin magi nyaka chieng'.<b>Amina</b>.
 
                     16. E sa yiko to iwero wende mopogore opo-
                     gore kaka owinjore
@@ -8418,7 +8417,7 @@ class SecondFragment : Fragment() {
                     GUETH MOGIK KATA NG'WONO
 
                     KATA
-                    Padri: Ruoth Nyasaye mondo oguedhu kendo
+                    <i>Padri</i>: Ruoth Nyasaye mondo oguedhu kendo
                     oritu.Ruoth Nyasaye mondo orienynu
                     kendo ong'wonnu
                     Ruoth Nyasaye mondo orangu maber
@@ -8427,7 +8426,7 @@ class SecondFragment : Fragment() {
                     Moko Duto,
                     Wuoro, Wuowi kod Roho Maler,
                     obed kodu kendo osik kodu nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     KATA
                     Duong' obed ni Nyasaye manyalo
@@ -8442,7 +8441,7 @@ class SecondFragment : Fragment() {
                     Kendo hap Nyasaye manyalo Gik
                     Moko Duto
                     Wuoro, Wuowi, kod Roho Maler
-                    Obed kodu nyaka chieng'. Amina.
+                    Obed kodu nyaka chieng'.<b>Amina</b>.
 
                     KATA
                     Kue mar Nyasaye modhiero rieko
@@ -8455,11 +8454,11 @@ class SecondFragment : Fragment() {
                     Moko Duto Wuoro, Wuowi kod
                     Roho Maler
                     obed kodu kendo osik kodu nyaka
-                    chieng'. Amina
+                    chieng'.<b>Amina</b>
 
                     Ka Padri onge to Ng'at ma otelo ni lemo
                     wacho niya:
-                    Jatelo: Ruodhwa Yesu Kristo owuon, gi Ny-
+                    <i>Jatelo</i>: Ruodhwa Yesu Kristo owuon, gi Ny-
                     asaye Wuonwa
                     Moseherowa gi hera maduong', kendo
                     mosejiwowa
@@ -8474,7 +8473,7 @@ class SecondFragment : Fragment() {
                     Wuonwa, kod achiel ma wan-go kuom
                     Roho Maler, obed kodwa
                     Kendo osik kodwa kawuono kendo
-                    ndalo duto nyaka chieng'. Amina.
+                    ndalo duto nyaka chieng'.<b>Amina</b>.
 
                     LEMO MOKO MA INYALO KONYRUOKGO
                     KALUWORE GI KIT THO MOTIMORE
@@ -8491,7 +8490,7 @@ class SecondFragment : Fragment() {
                     wede nyathini e kinde ma kama. In e
                     ohingawa kendo e tekowa e kinde mag kuyo
                     kendo pi wang'wa ok ton ma ok ineno.
-                    Kuom Yesu Kristo Ruodhwa. Amina.
+                    Kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     MASIRA
                     A Ruoth Nyasaye Manyalo Gik Moko Duto.
@@ -8510,7 +8509,7 @@ class SecondFragment : Fragment() {
                     wakwayi mondo ireswa e yore duto mag
                     Wuoth kaka e nam, e ndara kod e Kor muya
                     mondo igeng'nwa tho ma apoya. Kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Ketie hoch, geno kod jip ni chunygi, Ruoth
                     mi gijiwre kuom geno ni jogo ma otho
@@ -8518,7 +8517,7 @@ class SecondFragment : Fragment() {
                     bang'e gibiro riwore kod jaheragi modhi
                     motelonigi.Wakwayo magi e nying Yesu
                     Knsto mane oloyo tho,ongima kendo
-                    olocho nyaka chieng'. Amina.
+                    olocho nyaka chieng'.<b>Amina</b>.
 
                     NG'AT MA JO-MAUNDU ONEGO
 
@@ -8543,7 +8542,7 @@ class SecondFragment : Fragment() {
                     otimonwa. Konywa Ruoth mondo wang'e
                     kaka wadak ka oonge kodwa. Wakwayi e
                     nying' Yesu Kristo mane oloyo tho kod sa-
-                    tan. Amina.
+                    tan.<b>Amina</b>.
 
 
                     BANG' TUO MA AMING'A
@@ -8567,7 +8566,7 @@ class SecondFragment : Fragment() {
                     daktache mane otiyo matek mondo
                     onwang' rieko manyien mar thiedho tuoche
                     Kendo choro ndalo. E nyıng Yesu Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     THO NIKECH TIYO
@@ -8587,9 +8586,9 @@ class SecondFragment : Fragment() {
                     ikelwa dalani mochwere, kuma wana yuee
                     ka wadak kodi gimor nyaka chieng'. Kuom
                     Yesu Kristo mangima kendo olocho kodi
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
-                    Bang' lemogi jatelo nyalo tieko gi lemoni.
+                    Bang' lemogi <i>Jatelo</i> nyalo tieko gi lemoni.
                     A Ruoth par jogo ma chunygi obuok nikech
                     tho mar ....N... limgı Ruoth, ka ihoyogi
                     kendo imiyogi teko ekindeni mar kuyo ma
@@ -8597,7 +8596,7 @@ class SecondFragment : Fragment() {
                     mar Ruoth Yesu, kendo migi kue modhiero
                     rieko duto ng'eyo. Miwa gik mwakwayi
                     Wuonwa, kuom Yesu Kristo mane othonwa
-                    kendo oting'o remwa. Amina
+                    kendo oting'o remwa.<b>Amina</b>
                     
                     <pre>
                 """.trimIndent()
@@ -8624,9 +8623,9 @@ class SecondFragment : Fragment() {
                     *Lamoni itimo e bath bur kama idwaro
                     yikie.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1. WER
-                    2. Jatelo somo weche manok mowinjore kuom
+                    2. <i>Jatelo</i> somo weche manok mowinjore kuom
                     man mwalo kagi.
                     Ruoth Nyasaye ber, kendo herane mosiko
                     ochwere. Adierane bende ok norum!
@@ -8676,13 +8675,13 @@ class SecondFragment : Fragment() {
                     lamo kaka Roho otelo ni nga't malemo.
 
                     8. DHI KA BUR
-                    Jatelo nyalo somo weche moko mowinjore
+                    <i>Jatelo</i> nyalo somo weche moko mowinjore
                     manie lemo mar yik motelo kata onyalo
                     nwoyo weche mantie e chakruok mar lemoni.
 
                     9. Iketo ringre ng'at mo otho e bur to bang'e
                     jalelo wacho kama
-                    Jatelo: Waketo ringre Owadwa/Nyaminwa
+                    <i>Jatelo</i>: Waketo ringre Owadwa/Nyaminwa
                     N.....e lowo, lowo dok kuom
                     lowo kendo buru dok kuom buru.
 
@@ -8693,14 +8692,14 @@ class SecondFragment : Fragment() {
                     Jachuechwa kendo Jawarwa moherowa.
                     Kuom berni, riekoni kod tekonı ma ok rum
                     itimne kaka in iwuon ema idwaro e nying
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     10. OLO LOWO
                     Iolo lowo e bur ka iwero wende kata koras
                     mowinjore
 
                     11. GUETH MOGIK
-                    Padri: Ruoth Nyasaye mondo oguedhu kendo
+                    <i>Padri</i>: Ruoth Nyasaye mondo oguedhu kendo
                     oritu.
                     Ruoth Nyasaye mondo orienynu
                     kendo ong'wonnu
@@ -8710,7 +8709,7 @@ class SecondFragment : Fragment() {
                     Moko Duto,
                     Wuoro, Wuowi kod Roho Maler
                     obed kodu kendo osik kodu nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     KATA
                     Duong' obed ni Nyasaye manyalo
@@ -8724,7 +8723,7 @@ class SecondFragment : Fragment() {
                     Kendo hap Nyasaye manyalo Gik
                     Moko Duto
                     Wuoro, Wuowi, kod Roho Maler
-                    Obed kodu nyaka chieng'. Amina.
+                    Obed kodu nyaka chieng'.<b>Amina</b>.
 
                     KATA
                     Kue mar Nyasaye modhiero rieko
@@ -8738,10 +8737,10 @@ class SecondFragment : Fragment() {
                     Moko Duto
                     Wuoro, Wuowi kod Roho Maler
                     obed kodu kendo osik kodu nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
                     Ka Padri onge to ng'at ma otelo ni lemo
                     wacho niya
-                    Jatelo: Ruodhwa Yesu Kristo owuon, gı Ny-
+                    <i>Jatelo</i>: Ruodhwa Yesu Kristo owuon, gı Ny-
                     asaye Wuonwa
                     Moseherowa gi hera maduong, ken-
                     do mosejiwowa
@@ -8757,7 +8756,7 @@ class SecondFragment : Fragment() {
                     Wuonwa, kod achiel ma wan-go
                     kuom Roho Maler, obed kodwa
                     Kendo osik kodwa kawuono kendo
-                    ndalo duto nyaka chieng' Amina.
+                    ndalo duto nyaka chieng'<b>Amina</b>.
                     
                     </pre>
                 """.trimIndent()
@@ -8774,7 +8773,7 @@ class SecondFragment : Fragment() {
                     *Ng'ama otelo ni lemo ok onego rwak lepe
                     mag tich.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     Padre kata Ng'at motelo ni lemo somo weche
                     mogol e muma mondik piny kagi.
 
@@ -8815,7 +8814,7 @@ class SecondFragment : Fragment() {
                     6. LEMO MAG KWAYO
                     Inyalo kwayo ji manok mondo olam ni joode
                     kata anyuolane. lamogi ikiko gi wende moko
-                    maduogo chuny, bang'e padre kata jatelo
+                    maduogo chuny, bang'e padre kata <i>Jatelo</i>
                     wacho lamo man pinykagı:
 
                     7. Wuonwa moherowa, wagoyoni erokamano
@@ -8831,7 +8830,7 @@ class SecondFragment : Fragment() {
                     kod hinyruok ma wasebedogo kuom gima
                     notimono, kendo konywa mondo wagonye
                     odhi gi kue. Kuom Yesu Kristo ruodhwa
-                    Amina.
+                   <b>Amina</b>.
 
                     Konywa mondo wapar ting' mang'ato ka
                     ng'ato nigo, ka wanyiso hera kod dewrruok,
@@ -8844,7 +8843,7 @@ class SecondFragment : Fragment() {
                     mondo oduog chunywa oa e ting' mapek
                     kod parruok. Yie lamowa A Ruoth. Kuom
                     Yesu Kristo mangima kendo Molocho
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     A Ruoth parie jogo ma chunygi tho
                     mar..N... ohinyo; limgi kendo hogi ka
@@ -8854,7 +8853,7 @@ class SecondFragment : Fragment() {
                     Yesu, bende migi kue modhiero rieko duto
                     ng'eyo. Winj lamowa A Wuonwa, kuom
                     Yesu Kristo mane othonwa kendo oting'o
-                    rem-wa. Amina.
+                    rem-wa.<b>Amina</b>.
 
                     DHI KA LIEL
                     Padre somo weche mogol e Muma kaka
@@ -8888,7 +8887,7 @@ class SecondFragment : Fragment() {
                     joma timbegi richo nochier e bura.
 
                     9. EBATH BUR
-                    Iloro sanduk e bur ka jatelo wacho niya:
+                    Iloro sanduk e bur ka <i>Jatelo</i> wacho niya:
                     Guedhka A Ruodhwa kama koro wayikoe
                     ringre..N...oyuee. To nikech mana in kendi
                     e wuonwa moherowa, mong'eyo chunywa,
@@ -8917,7 +8916,7 @@ class SecondFragment : Fragment() {
                     ng'wono mar Ruodhwa Yesu Kristo, kod
                     hera mar Nyasaye wuonwa, to gi achiel ma
                     wan-go kuom Roho Maler, obed kodu ken-
-                    do osik kodu nyaka chieng'. Amina.
+                    do osik kodu nyaka chieng'.<b>Amina</b>.
                     2 Jothesalonika 2:16-17
                     
                     </pre>
@@ -8940,12 +8939,12 @@ class SecondFragment : Fragment() {
                     *Jogi onego singre kendo keti seyi kapok
                     ochak lemo.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1. WER
                     2. KELO JOMA IDWARO RWAKO IR BISHOP
                     Jogo ma idwaro rwako chung' e nyim Bishop,
                     kaka gia e parishes. Jogo ma okelogi, to moloyo
-                    jatelo mar TEE kod achiel kuom jopuonj
+                    <i>Jatelo</i> mar TEE kod achiel kuom jopuonj
                     machon chung' e dirgi kendo wacho kama:
                     Wuonwa ma waluoro e tich
                     Nyasaye, wakeloni jogi mondo
@@ -8972,10 +8971,10 @@ class SecondFragment : Fragment() {
                     Ka onge wach moro to Bishop penjo ji duto kama:
                     Bishop: Bende en dwaro maru mondo wa-
                     ruak jogi kaka jopuonj kanise?
-                    Ji duto: Ee en dwaro marwa.
+                    <i>Ji duto:</i> <b> Ee en dwaro marwa</b>.
 
                     Bishop: Bende ubiro konyogi e tijgi?
-                    Ji duto: Ee, wana konygi.
+                    <i>Ji duto:</i> Ee, wana konygi.
 
                     3. WECHE MAG JIP
                     Bishop wacho wechegı:
@@ -8991,36 +8990,36 @@ class SecondFragment : Fragment() {
                     nyalo dwaro mondo ikony e kinde ka Kinde.
 
                     Bishop: Bende iikori mar timo gigo gi chunyi
-                    Dwoko: Ee, aikora.
+                    <i>Dwoko:</i><b> Ee, aikora</b>.
 
                     4. Bishop nono joma idwaro rwako kama
                     Bishop: Bende ibiro luwo puonj kod timbe
                     mag jo Anglikan ma Kenya kendo
                     puonjogi jomoko?
-                    Dwoko: Ee, Abiro timo kamano ka Ny-
-                    asaye okonya.
+                    <i>Dwoko:</i><b> Ee, Abiro timo kamano ka Ny-
+                    asaye okonya</b>.
 
                     Bishop: Bende ngimani kod tiji biro bedo
                     ranyisi maber ni jogo mapok oyie
                     kod jogo machiegni kodi?
-                    Dwoko: Ee, abiro timo kamano ka
-                    Nyasaye okonya.
+                    <i>Dwoko:</i><b> Ee, abiro timo kamano ka
+                    Nyasaye okonya</b>.
 
                     Bishop: Bende e tiji kaka japuonj initem kelo
                     riwruok, kue kendo riwoji e achiel?
-                    Dwoko: Ee, anatem timo kamano ka Ny-
-                    asaye okonya.
+                    <i>Dwoko:</i><b> Ee, anatem timo kamano ka Ny-
+                    asaye okonya</b>.
 
                     Bishop: Bende initem chopo luong maduong'
                     mar yalo injili mar Yesu Kristo kata
                     ka piny ber kata ka piny rach?
-                    Dwoko: Mano e gombona maduong'.
+                    <i>Dwoko:</i><b> Mano e gombona maduong</b>'.
 
                     Bishop: Bende iniwinj Bishop kod Padri mari
                     e weche duto mowinjore kendo ma
                     oluwore gi chik?
-                    Dwoko: Ee, abiro timo kamano ka Nyasaye
-                    okonya.
+                    <i>Dwoko:</i><b> Ee, abiro timo kamano ka Nyasaye
+                    okonya</b>.
 
                     5. RUAKO JOPUONJ
                     Moro kamoro goyo chonge piny enyim Bish-
@@ -9028,7 +9027,7 @@ class SecondFragment : Fragment() {
                     tich ka wacho kama:
                     NN........waruaki mondo iti e Ka-
                     nisa kaka japuonj, e nying Nyasaye Wuoro,
-                    Wuowi, kod Roho Maler. Amina.
+                    Wuowi, kod Roho Maler.<b>Amina</b>.
 
                     Ng'at ma oserwaki koro irwakone skaf ma
                     rambulu. Ka ji duto osemi barup tich to gi-
@@ -9053,7 +9052,7 @@ class SecondFragment : Fragment() {
                     duong' ei kanisane. Ruoth mondo oguedhu
                     ka uwuok kendo ka udonjo, chakre
                     kawuono kendo ndalo duto nyaka chieng'
-                    Amina.
+                   <b>Amina</b>.
 
                     6. Bang' ma to koro ji nyalo moso joma or-
                     waki manyien ka iwero wer moro mar mor,
@@ -9094,7 +9093,7 @@ class SecondFragment : Fragment() {
                     mar pwodhruokni mondo otim motelo ni
                     lemo mamoko monego tim kanyo.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1. WER
                     2. Bishop:Owetewa gi nyiminewa kuom
                     Ruoth,wachokore kaeri kawuono mondo
@@ -9138,7 +9137,7 @@ class SecondFragment : Fragment() {
                     (Luka 15:18, 19a).
 
                     4. HULO RICHO
-                    Ji duto:Wuonwa Mochwere, Nyasach
+                    <i>Ji duto:</i>Wuonwa Mochwere, Nyasach
                     kwerewa, kuom tekoni maduong'
                     gik moko duto tetni, to kuom
                     Wuodi Yesu Kristo wasudo e nyim
@@ -9153,7 +9152,7 @@ class SecondFragment : Fragment() {
                     yweyo kuom duong' mar Wuodi
                     Yesu Kristo mane otho kendo
                     ochier mondo wayud ngima mo-
-                    chewere. Amina.
+                    chewere.<b>Amina</b>.
 
                     5. HULO NI RICHOWA OWENWA
                     Bishop: Nyasaye ma Wuon Ruodhwa Yesu
@@ -9163,7 +9162,7 @@ class SecondFragment : Fragment() {
                     ng'wonone noluwu ndalo duto mag
                     ngimau kendo unu dagi od Ruoth
                     Nyasaye ndalo duto nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     6. GUEDHO PI
                     Bishop guedho pi kawacho kama:
@@ -9172,7 +9171,7 @@ class SecondFragment : Fragment() {
                     pwodho od lemoni, kaachiel kod gik moko
                     manie iye mondo gibed gik maler. Koro wa-
                     walo pigni e nying Nyasaye Wuoro, Wuowi
-                    kod Roho Maler. Amina.
+                    kod Roho Maler.<b>Amina</b>.
 
                     7. JI WUOTHO OKO KA LUORO KANISA
                     KA IKIRO PI E KOR OT
@@ -9186,107 +9185,107 @@ class SecondFragment : Fragment() {
                     isomo gi kue kagi lawore e somo. (Zaburi
                     106:3, 6, 39, 40. 44; Zaburi 27:9)
 
-                    Jatelo: Gin johawi jogo morito chike Ruoth
+                    <i>Jatelo</i>: Gin johawi jogo morito chike Ruoth
                     Nyasaye;
-                    Ji duto: Kendo ma pile timo gik makare.
+                    <i>Ji duto:</i> <b> Kendo ma pile timo gik makare</b>.
 
-                    Jatelo: Wasetimo richo kaka kwerewa no-
+                    <i>Jatelo</i>: Wasetimo richo kaka kwerewa no-
                     timo;
-                    Ji duto: Adier wasebedo joricho ma tim-
+                    <i>Ji duto:</i> Adier wasebedo joricho ma tim-
                     begi mono.
 
-                    Jatelo: Ne gidoko mogak gi timbegi mod-
+                    <i>Jatelo</i>: Ne gidoko mogak gi timbegi mod-
                     wanyorego;
-                    Ji duto: Chutho ne ojok kodgi.
+                    <i>Ji duto:</i> <b> Chutho ne ojok kodgi</b>.
 
-                    Jatelo: Kata kamano kane giywakne;
-                    Ji duto: To nowinjo gi.
+                    <i>Jatelo</i>: Kata kamano kane giywakne;
+                    <i>Ji duto:</i> <b> To nowinjo gi</b>.
 
-                    Jatelo: To kik ipandna wang'i;
-                    Ji duto: Kik ikech koda.
+                    <i>Jatelo</i>: To kik ipandna wang'i;
+                    <i>Ji duto:</i> <b> Kik ikech koda</b>.
 
-                    Jatelo: Isebedo konyruokna;
-                    Ji duto: Omiyo kik iweya kata kik
+                    <i>Jatelo</i>: Isebedo konyruokna;
+                    <i>Ji duto:</i> Omiyo kik iweya kata kik
                     ijwang'a.
 
-                    Jatelo: Duong' obed ni Wuoro, Wuowi kod
+                    <i>Jatelo</i>: Duong' obed ni Wuoro, Wuowi kod
                     Roho Maler;
-                    Ji duto: Kaka nobet mokwongo, kaka biro
+                    <i>Ji duto:</i> Kaka nobet mokwongo, kaka biro
                     bet kawuono kendo kaka biro bet
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     8. Wend koras mag lemo.
                     9. Koro Bishop pwodho gimoro amoro
                     mogak gi pi mowal kowacho kama:
                     Ahulo ni (nying gima ogakno) ni koro osep-
                     wodhi mondo otigo tich mane owalne.
-                    Ji duto: Nyasaye erokamano.
+                    <i>Ji duto:</i> <b> Nyasaye erokamano</b>.
 
                     10.Ka gik moko duto mogak osepwodhi to Bish-
                     op wacho kama:
                     Ahulo ni odni duto kaachiel kod gik lemo
                     duto ma yande ogak e iye, koro osepwodhi
                     mondo otigo tije mane owalnigi
-                    Ji duto: Allelluya, Nyasaye erokamano.
+                    <i>Ji duto:</i> Allelluya, Nyasaye erokamano.
 
                     11.Ji duto chung' kendo Bishop telo ni ji e goyo
                     erokamao ni Nyasaye.
                     Bishop: Gouru erokamano ni Nyasaye nikech
                     ober:
-                    Ji duto: Herane mosiko ochwere.
+                    <i>Ji duto:</i> <b> Herane mosiko ochwere</b>.
 
                     Bishop: Ji duto mondo owachi niya;
-                    Ji duto: Herane mosiko ochwere.
+                    <i>Ji duto:</i> <b> Herane mosiko ochwere</b>.
 
                     Bishop: Ji duto owach niya;
-                    Ji duto: Herane mosiko ochwere.
+                    <i>Ji duto:</i> <b> Herane mosiko ochwere</b>.
 
                     Bishop: En ema omiyo abedo maduong' ken-
                     do man-gi teko.
-                    Ji duto: En e Jawarna.
+                    <i>Ji duto:</i> <b> En e Jawarna</b>.
 
                     Bishop: Winjeuru kaka jo-Nyasaye goyo ma-
                     hu mar locho e hembe gi.
-                    Ji duto: Teko mar Ruoth Nyasaye osetimo
-                    timbe madongo.
+                    <i>Ji duto:</i> <b> Teko mar Ruoth Nyasaye osetimo
+                    timbe madongo</b>.
 
                     Bishop: Oguedh ng'ama obiroe nying Ruoth
                     Nyasaye.
-                    Ji duto: Waguedhou gie Hekalu mare.
+                    <i>Ji duto:</i> <b> Waguedhou gie Hekalu mare</b>.
 
                     Bishop: Ruoth Nyasaye e Nyasaye;
-                    Ji duto: Kendo osemiyowa ler.
+                    <i>Ji duto:</i> <b> Kendo osemiyowa ler</b>.
 
                     Bishop: Chakuru timo sawo kuting'o oboke e
                     lwetu;
-                    Ji duto: Kudhi nyaka e tunge mag kendo
-                    mar misango.
+                    <i>Ji duto:</i> <b> Kudhi nyaka e tunge mag kendo
+                    mar misango</b>.
 
                     Bishop: Lwet Ruoth Nyasaye ma korachwich
                     mondo oting' malo;
-                    Ji duto: Teko mar Ruoth Nyasaye osetimo
-                    timbe madongo.
+                    <i>Ji duto:</i> <b> Teko mar Ruoth Nyasaye osetimo
+                    timbe madongo</b>.
 
                     Bishop: Yawnauru dhoranga Hekalu;
-                    Ji duto: Mondo adonj apak Ruoth
-                    Nyasaye.
+                    <i>Ji duto:</i> <b> Mondo adonj apak Ruoth
+                    Nyasaye</b>.
 
                     Bishop: Ma e dhoranga ruoth Nyasaye
-                    Ji duto: Joma kare kende ema donjoe
+                    <i>Ji duto:</i> Joma kare kende ema donjoe
 
                     Bishop: Kidi mane jogedo odagi;
-                    Ji duto: Ema koro osedoko kidi motegno
-                    moriwo kor ot.
+                    <i>Ji duto:</i> <b> Ema koro osedoko kidi motegno
+                    moriwo kor ot</b>.
 
                     Bishop: Mano en tich Ruoth Nyasaye;
-                    Ji duto: Kendo en gima lichnwa miwuoro.
+                    <i>Ji duto:</i> <b> Kendo en gima lichnwa miwuoro</b>.
 
                     Bishop: Ruoth Nyasaye osemiyo odiechieng'ni
                     obedo maber ahinya;
-                    Ji duto: Wabeduru mamor kendo moil.
+                    <i>Ji duto:</i> <b> Wabeduru mamor kendo moil</b>.
 
                     Bishop: Wapakuru Routh Nyasaye!
-                    Ji duto: Nying' Ruoth Nyasaye opaki. Amina.
+                    <i>Ji duto:</i> Nying' Ruoth Nyasaye opaki.<b>Amina</b>.
 
                     Bishop: Walam.
 
@@ -9303,7 +9302,7 @@ class SecondFragment : Fragment() {
                     duto omi Nyingi Maler Duong', Kuom Yesu
                     Kristo Ruodhwa, mantie kendo olocho kod in
                     gi Roho Maler Nyasaye achiel nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     13. Bang'ma to lemo dhi nyime Lamo mar pogo
                     Sawo Maler mar Ruoth kachakore e migawo
@@ -9339,7 +9338,7 @@ class SecondFragment : Fragment() {
 
                     *To ni jomane osebatisi eyo mowinjore
                     lemo chakore kama:
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     Padri wacho ni chokruok.
                     1. Jowete gi nyimine kuom Ruoth, joma
                     ochung' kagi dwaro mondo obed jokanyo
@@ -9356,50 +9355,50 @@ class SecondFragment : Fragment() {
                     Wuowi, kod Roho Maler kendo iyie
                     kuom yie mar ja-Kristo kaka ondike
                     Ayie mar Joote?
-                    Dwoko: Ayie kuom Nyasaye Wuoro,
+                    <i>Dwoko:</i><b> Ayie kuom Nyasaye Wuoro,
                     Wuowi kod Roho Maler kendo
                     ayie kuom yie mar Jo-Kristo kaka
-                    ondiki Ayie mar Joote
+                    ondiki Ayie mar Joote</b>.
 
                     Penjo: Bende iyie ni kanisa mar Anglikan
                     ma Kenya en achiel kuom kanisa
                     maler manie piny ngima kendo maluwo
                     puonj mar Kristo?
-                    Dwoko: Ayie.
+                    <i>Dwoko:</i><b> Ayie</b>.
 
                     Penjo: Bende iyie kuom tije mag Bishop,
                     jopadri kod dikon Kendo kuom
                     sakrament mar batiso kod Sawo
                     Maler mar Kristo ni ne ochik gi Kristo?
-                    Dwoko: Ayie
+                    <i>Dwoko:</i><b> Ayie</b>.
 
                     Penjo: Bende ibiro bedo ja kanisa modim-
                     bore mar Anglikan ma Kenya, kiyie
                     puonj mage kod weche duto man
                     kare, kendo riwruok e lemo, tije kod
                     timo neno?
-                    Dwoko: Abiro timo kamano.
+                    <i>Dwoko:</i><b> Abiro timo kamano</b>.
 
                     Bang'e Padri lamo kama:
                     Nyasaye Manyalo Gik Moko Duto, ma
                     osemiyi chuny mar dwaro timo gigo duto,
                     mondo omiyi ng'wono gi teko mar timogi,
                     mondo otiek tich maber ma osechako kuomi
-                    kuom Yesu Kristo Ruodhwa. Amina.
+                    kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Padri mako lwet moro ka moro kendo wacho
                     niya:
                     ...N. ...Warwaki e kanisa mar
                     Anglikan ma Kenya kendo lalruok mar
                     Anglikan e piny ngima enying Wuoro,
-                    Wuowi kod Roho Maler. Amina.
+                    Wuowi kod Roho Maler.<b>Amina</b>.
 
                     Bang'e Padri guedho gi duto kama:
                     Ler maru nyaka rieny e nyimji, mondo gi
                     ne timbeu mabeyo mi gimi Wuonu mae po-
                     lo duong'. Dhiuru gi kue kendo utine Ruoth
                     Nyasaye ka uhere.
-                    Ji duto: Enying Kristo. Amina.
+                    <i>Ji duto:</i> <b> Enying Kristo</b>.<b>Amina</b>.
 
                     Jogo morwaki duto goyo chonggi piny kendo
                     padri lamo kama:
@@ -9416,7 +9415,7 @@ class SecondFragment : Fragment() {
                     kuonde duto. Konywa mondo pile wakel mor
                     kendo duong' ni nyingi Maler, egik moko duto
                     mawatimo, kendo ma wawacho e nying Yesu
-                    Kristo Ruodhwa kendo Jawarwa. Amina.
+                    Kristo Ruodhwa kendo Jawarwa.<b>Amina</b>.
 
                     Ji duto nyalo riwore e weche mag rwak man
                     mwalokagi kata nyalo wero wer moro ma
@@ -9470,23 +9469,23 @@ class SecondFragment : Fragment() {
                     chiwni joma ne osedhiyo e kanise
                     mamokogo.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     WER.
                     E kinde ma ji wer to jogo maibiro rwako kendo
                     sudo nyine kendo chung' e yim padri
 
-                    1. Padri: Wapakuru Nyasaye ma jachuech gik
+                    1. <i>Padri</i>: Wapakuru Nyasaye ma jachuech gik
                     moko duto kendo wuon ji duto.
-                    Ji duto: Wapakuru Yesu maduokowa ir
-                    Wuoro.
+                    <i>Ji duto:</i> <b> Wapakuru Yesu maduokowa ir
+                    Wuoro</b>.
 
-                    2. Padri: Wapakuru Roho Maler
+                    2. <i>Padri</i>: Wapakuru Roho Maler
                     manyienowa kendo jiwowa.
-                    Ji duto: Wapakuru Wuoro, Wuowi kod
+                    <i>Ji duto:</i> Wapakuru Wuoro, Wuowi kod
                     Roho Maler, Nyasaye achiel mipako
                     nyaka chieng'.
 
-                    3. Padri: Owete gi nyimine, joma ochung' e
+                    3. <i>Padri</i>: Owete gi nyimine, joma ochung' e
                     nyimwa kagi gin jo-Kristo ma wa-
                     geno mane oweyo kanisani kendo
                     koro gidwaro mondo orwaki kendo.
@@ -9494,18 +9493,18 @@ class SecondFragment : Fragment() {
                     Padri somo nyingi kod weche moko mowinjore.
                     Onyalo kwayogi mondo gi wuo matin.
 
-                    4. Padri: Wasewinjo wan wawegi neno maru
+                    4. <i>Padri</i>: Wasewinjo wan wawegi neno maru
                     kendo dwarou mondo orwaku kendo
                     e lalruok mar kanisa mar Anglikan.
                     Bende idwaro adiera mondo orwaki
                     Kendo e kanisa mar Anglikan?
-                    Dwoko: Ee adwaro.
+                    <i>Dwoko:</i><b> Ee adwaro</b>.
 
                     Padri penjo chokruok.
-                    5. Padri: Jonyasaye, bende en dwaro maru
+                    5. <i>Padri</i>: Jonyasaye, bende en dwaro maru
                     mondo jowadwagi orwak kendo e
                     lalruok mar kanisawani?
-                    Dwoko: Ee wadwaro.
+                    <i>Dwoko:</i><b> Ee wadwaro</b>.
 
                     Padri somo wechegi (Joefeso 4:11-16:)
                     6. En ema ne opogo mich ni ji, koyiero ji mo-
@@ -9548,7 +9547,7 @@ class SecondFragment : Fragment() {
                     mondo orwakgi chutho kendo mondo gi duto
                     gibed fuoni achiel mondo waduto wajiwre e
                     yore Nyasaye. Magi walamo kendo wakwayi
-                    e nying Yesu Kristo. Amina.
+                    e nying Yesu Kristo.<b>Amina</b>.
 
 
                     LAMO NI ACHIEL MAR KANISA.
@@ -9568,14 +9567,14 @@ class SecondFragment : Fragment() {
                     matut kodi. Kuom Yesu Kristo Jagachwa.
 
                     Ji chung'
-                    Padri: Elo Bishop kendo elo jo-kanisani
+                    <i>Padri</i>: Elo Bishop kendo elo jo-kanisani
                     Arwakou e lalruok mar kanisani e
                     nying Nyasaye Wuoro, Wuowi kod
-                    Roho Maler. Amina
+                    Roho Maler.<b>Amina</b>
 
                     Padri moso joma orwaki kendo
                     wachonigi kama:
-                    Padri: Warwakou kendo e kanisa mar
+                    <i>Padri</i>: Warwakou kendo e kanisa mar
                     Anglikan.
 
                     Joma dongo kendo manejosawo lemogi dhi
@@ -9606,11 +9605,11 @@ class SecondFragment : Fragment() {
                     Sawo Maler mar Ruoth, ka pod ok olam
                     lamo mar hulo richo kaka ondiki e namba 13.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     Ng'at molokore chung'enyim Chokruok
                     kong'iyogi.
 
-                    1. Padri:Wan kod...NN... ma kwayo mondo
+                    1. <i>Padri</i>:Wan kod...NN... ma kwayo mondo
                     odwoke e lalruok mar kanisa. Wase none
                     Kendo waparo ni olokore adier. Bende en
                     dwaro maru mondo warwak NN...?
@@ -9623,11 +9622,11 @@ class SecondFragment : Fragment() {
 
                     Jalno lokore ng'iyo padri kendo padri penjo
                     kama:
-                    2. Padri: Bende idwaro mondo oduoki e lalruok
+                    2. <i>Padri</i>: Bende idwaro mondo oduoki e lalruok
                     mar kanisa?
                     Duoko: Adwaro kamano.
 
-                    Padri: Singruok mari en ang'o?
+                    <i>Padri</i>: Singruok mari en ang'o?
                     Duoko: Asingora ni anawe timbena duto
                     ma osepoga kod lalruok mar kanisa;
                     Bende adwaro mondo aluw Ruoth
@@ -9659,18 +9658,18 @@ class SecondFragment : Fragment() {
                     matar moloyo pe.
                     Miya mor mar ng'eyo ni iseweyona richona
                     gi teko mar Roho Maler mondo awuoth gi
-                    Kristo ndalo duto. Amina.
+                    Kristo ndalo duto.<b>Amina</b>.
 
                     Ng'at molokore chung'
 
-                    4. Padri: Ng'atno en jahawi ma richone
+                    4. <i>Padri</i>: Ng'atno en jahawi ma richone
                     owene kendo oum. duong' obed ni Wuoro
                     kendo ni wuowi, kendo ni Roho Maler.
-                    Ji duto: kaka nobet mokuongo, kendo pod
+                    <i>Ji duto:</i> kaka nobet mokuongo, kendo pod
                     obet kawuono, kendo kaka biro
-                    bet nyaka chieng'. Amina.
+                    bet nyaka chieng'.<b>Amina</b>.
 
-                    Padri: Koro Nyasaye Manyalo Gik Moko
+                    <i>Padri</i>: Koro Nyasaye Manyalo Gik Moko
                     Duto kuom chuechne, oyie gi lokru-
                     okni, kendo mondo omiyi teko e gigo
                     duto mabeyo ma ibiro timo.
@@ -9709,7 +9708,7 @@ class SecondFragment : Fragment() {
                     *Wiro mo en ranyisi mar sakramit mar chang;
                     bende inyalo time ne jalo ma ohingore.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1. Padri chung' e dho od thieth (wod)kama
                     jatuo nitie kowacho wechegi gi duol ma
                     Wunjore:
@@ -9717,10 +9716,10 @@ class SecondFragment : Fragment() {
                     kaachiel gi jogo duto ma nika!
 
                     2. Wer
-                    Padri: Genowa ni kuom Ruoth
-                    Jiduto: Ma thiedho tuochewa
+                    <i>Padri</i>: Genowa ni kuom Ruoth
+                    <i>Ji duto:</i><b> Ma thiedho tuochewa
 
-                    3. Padri dhi kama jatuo nitie, kendo osomo:
+                    3</b>. Padri dhi kama jatuo nitie, kendo osomo:
                     Keturu parruok duto ma un-go kuome, nikech
                     oparou. ( 1 Pt.5:7)
 
@@ -9822,7 +9821,7 @@ class SecondFragment : Fragment() {
                     mondo iho nyaminwa/owadwa, kendo mi
                     omed mangima kendo koparo hono mitimo
                     ne, mondo ong'i nyıme ka en gi geno gi
-                    chir.Kuom Yesu Kristo Ruodhwa. Amina.
+                    chir.Kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
 
                     Ka en masira mar ndara Ruoth mi mondo
@@ -9839,7 +9838,7 @@ class SecondFragment : Fragment() {
                     masira moro amora ma dikelnwa
                     hinyruok.
                     Winjwa Ruoth maber,nikech Yesu Kristo
-                    Ruodhwa. Amina.
+                    Ruodhwa.<b>Amina</b>.
 
 
                     7. NE NYATHI
@@ -9851,7 +9850,7 @@ class SecondFragment : Fragment() {
                     wuowi moa Nain. Ruoth Yesu, chang nyathini
                     Kendo miye ngima kaka tekoni obet. Yie
                     kwayowa Ruoth. Kuom Yesu Kristo Ruodhwä.
-                    Amina.
+                   <b>Amina</b>.
 
                     8. NG'AMA OHINGORE
                     Rang jatichni ni ..N.. kendo miye kue mo-
@@ -9865,7 +9864,7 @@ class SecondFragment : Fragment() {
                     ruok, rem, chandruok kod tuoché. Morwa en
                     bedo gi ng'eyo ni ok wana bed kendwa. Rit
                     jatichni ..N.. gi geno morome, Kuom Yesu
-                    Kisto mong'eyo kendo ting'o remwa, Amina.
+                    Kisto mong'eyo kendo ting'o remwa,<b>Amina</b>.
 
                     Koro wanyalo riwore gi..N... ka wawacho
                     niya. Asekedo lweny maber, kendo asetieko
@@ -9874,7 +9873,7 @@ class SecondFragment : Fragment() {
                     ma Ruoth ma jang'ad bura makare biro miya
                     chieng' birone. To ok an kenda ema nomiya
                     osimbo, to nomi koda ka ji duto morito
-                    birone gi chunygi duto. (1Tim.4:7-8) Amina.
+                    birone gi chunygi duto. (1Tim.4:7-8)<b>Amina</b>.
 
                     Koro owadwa/nyaminwa kaka koro iloki ia
                     e ngimani kendo idhi e ngima machielo, ma-
@@ -9883,7 +9882,7 @@ class SecondFragment : Fragment() {
                     osimbo mar locho. E bat korachwich mar
                     Wuoro, chandruok gi lit ok nobedie; kendo tho
                     nolo chuth. Erokamano Ruoth kuom loyonwa
-                    tho e musalaba. Amina kendo Amina.
+                    tho e musalaba.<b>Amina</b> kendo<b>Amina</b>.
 
                     9. BANG'E KA CHUNY NG'ATO OSECHOT
                     Nyasaye Manyaka Chieng', in e chakruok
@@ -9896,7 +9895,7 @@ class SecondFragment : Fragment() {
                     obed malong'o mar yudo gueth mochwere
                     kaachiel gi malaike kod kuerewa mane osetho
                     kogeno kuomi. Kuom Yesu Kristo jabuchwa,
-                    Amina.
+                   <b>Amina</b>.
 
 
                     10. BANG' THO NYATHI
@@ -9906,7 +9905,7 @@ class SecondFragment : Fragment() {
                     ninde gi kue kod mor. Kwake gi lweti mar
                     hera maok rum; kaka intie kendo ilocho gi
                     Wuoro kod Roho Maler. Nyasaye Achiel, ma
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     11. NE JOGO MANIE ARITA
                     Nyasaye mar otieno mandiwa, ne in gi Yesu
@@ -9916,7 +9915,7 @@ class SecondFragment : Fragment() {
                     nyaka timre, Konywa e mirima gi kuyo, Konywa
                     mondo wakadh chandruokwa-ni. Konywa
                     mondo wapar ni in jakechwa, Kendo kuomi e
-                    ma kue marwa nitie. Amina.
+                    ma kue marwa nitie.<b>Amina</b>.
 
                     12. KAPOK OTIM YENG'O (OPARESON)
                     Wuoro ma ja hera, rang..N.. kendo miye
@@ -9927,7 +9926,7 @@ class SecondFragment : Fragment() {
                     tiyo tijni, mondo gili gi dembruok kendo ka
                     gitang nmondo tijni odhi maber mondo nyingi
                     oyud duong' kendo ne ngima mar ..N. E nyıng
-                    Yesu wakwayo. Amina.
+                    Yesu wakwayo.<b>Amina</b>.
 
 
                     13. NE NG'AT MAN GI KIHONDKO
@@ -9935,7 +9934,7 @@ class SecondFragment : Fragment() {
                     jatichni e kinde ma en gi kihondkoni. Mi oket
                     chunye kuomi kimiye kue mar chuny. Onego
                     ong'e herani mantie kode sani kendo kinde
-                    duto. E nying Yesu wakwayo. Amina.
+                    duto. E nying Yesu wakwayo.<b>Amina</b>.
 
                     14. NE JAL MAN GI CHANDRUOK KA-
                     LUWORE GI RICHO MANE OTIMO
@@ -9945,7 +9944,7 @@ class SecondFragment : Fragment() {
                     kimiyogi kue kod mor. Rang jatichni..N..
                     Kiweyone richone matureni. Pong chunye gi
                     Roho ni Maler ka mede teko, hoch kod
-                    kony.Enying Yesu wakwayo. Amina.
+                    kony.Enying Yesu wakwayo.<b>Amina</b>.
 
                     15. WIRO GI MO KENDO KETO LWEDO
                     Padri gi jokonyne keto lwetgi kuom ng'ato ka
@@ -9954,14 +9953,14 @@ class SecondFragment : Fragment() {
                     Padri lamo kama:
                     E nying Yesu Kristo mane Osand nikech wan,
                     mane otho kendo ochier, chang kuom tuocheni
-                    duto mag ringruok, paro kod chuny. Amina.
+                    duto mag ringruok, paro kod chuny.<b>Amina</b>.
 
                     16. Padri nyalo wiro mo koro e lela wang'e
                     (kata pat wiye). Ka mo ne pok oguedhi, to
                     onyalo guedhe kowacho wechegi:
                     Guedh moni Ruoth ma jatichni dwa tiyogo
                     kuom wiro jogi. E nying Wuoro, Wuowi, gi
-                    Roho Maler. Amina.
+                    Roho Maler.<b>Amina</b>.
 
                     17. Oketo lith lwete e mo kendo owiro e pat
                     wiye ka oketo kido mar musalaba ka
@@ -9969,7 +9968,7 @@ class SecondFragment : Fragment() {
                     Awiri gi mo malerni. Yie Kristo mondo oweni
                     kendo ochangi. Teko mar jawar ma ne osand
                     nikech in, mondo omol e pachi gi dendi ka-
-                    miyi kue gi teko. Amina.
+                    miyi kue gi teko.<b>Amina</b>.
 
                     18. Ka onge sawo e lemoni, to jadolo biro
                     wacho lemo mogikni:
@@ -9977,7 +9976,7 @@ class SecondFragment : Fragment() {
                     kuom sand mare ne ochangu, kendo osechangu
                     mana nikech chwat mane ochwadego. (1 Pt.
                     2:24). Yud hono mar chang e nying Yesu.
-                    Amina.
+                   <b>Amina</b>.
 
                     19. Inyalo wero koras machiek bang'e to idhi e
                     lamo mar pogo Sawo Maler mar Ruoth ka-
@@ -10023,9 +10022,9 @@ class SecondFragment : Fragment() {
                     *E kinde lamoni nitie thuolo mar lokruok
                     kendo hulo richo.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1.WER
-                    2. Padri: Owete gi nyimine, wasebiro kaachiel
+                    2. <i>Padri</i>: Owete gi nyimine, wasebiro kaachiel
                     mondo walam Nyasaye makinde
                     duto rieyo bade mondo oguedhwa
                     kendo ochangwa. Osenyisowa ma
@@ -10042,14 +10041,14 @@ class SecondFragment : Fragment() {
                     ka ng'ato ka ng'ato hulo richone bang'e
                     padri wacho kama:
 
-                    Padri: Nyasaye ma Wuon Ruodhwa Yesu
+                    <i>Padri</i>: Nyasaye ma Wuon Ruodhwa Yesu
                     kristo mor kendo rwako Ng'at molo-
                     kore oweyo richone mi odok ire.
                     Joma otho ichiero, joma olal iyudo,
                     berne kod ng'wonone noluwi ndalo
                     auto mag ngimani. Kendo inidag e
                     od Ruoth Nyasaye ndalo duto nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
                     Somo mokwongo gi mar ariyo: inyalo som kuom
                     man mwalogi kata moro amora ma owinyore
@@ -10059,7 +10058,7 @@ class SecondFragment : Fragment() {
                     wende Luo inyalo wer.
 
                     Ji goyo chonggi piny kata gibet kagidembore.
-                    4. Jiduto: Ruoth Yesu Kristo, wanyap to in
+                    4. Ji duto: Ruoth Yesu Kristo, wanyap to in
                     itek. Wadhier to in gi mwandu.
                     Wan jo richo to iweyonwa.
                     Watuo to in ichiwo ngima.
@@ -10067,64 +10066,64 @@ class SecondFragment : Fragment() {
                     mondo wayud gigo duto
                     Mane iseikonwa kuom chang
                     marwa mondo duong' duto odogni
-                    a Ruoth. Amina.
+                    a Ruoth.<b>Amina</b>.
 
-                    5. Padri: Wapakuru Ruoth ma Ruodhwa.
-                    Ji duto: Wapakuru Ruodh Ruodhi
+                    5. <i>Padri</i>: Wapakuru Ruoth ma Ruodhwa.
+                    <i>Ji duto:</i> Wapakuru Ruodh Ruodhi
 
-                    Padri: Oweyonwa richowa
-                    Ji duto: Ochango tuochewa
+                    <i>Padri</i>: Oweyonwa richowa
+                    <i>Ji duto:</i> Ochango tuochewa
 
-                    Padri: Ne otho mondo omiwa ngima
-                    Ji duto: Ne ochier mondo omiwa geno.
+                    <i>Padri</i>: Ne otho mondo omiwa ngima
+                    <i>Ji duto:</i> <b> Ne ochier mondo omiwa geno</b>.
 
-                    Padri: Kristo ni kodwa ka;
-                    Ji duto: Adier en kodwa ka.
+                    <i>Padri</i>: Kristo ni kodwa ka;
+                    <i>Ji duto:</i> <b> Adier en kodwa ka</b>.
 
-                    Padri: Roho Maler ni ka
-                    Ji duto: Obiro gi chang e buombe.
+                    <i>Padri</i>: Roho Maler ni ka
+                    <i>Ji duto:</i> <b> Obiro gi chang e buombe</b>.
 
-                    Padri: Walam ni ngima kod chang:
+                    <i>Padri</i>: Walam ni ngima kod chang:
                     Wagoyo erokamano ni Nyasaye ahinya
                     mondo ochang ji duto, kendo gibed gi ngima
                     moromo chuth. Koro wapakuru Ruoth.
-                    Jiduto: Nying Ruoth opaki.
+                    <i>Ji duto:</i><b> Nying Ruoth opaki</b>.
 
-                    Padri: Nikech tich mar chang mar Yesu
+                    <i>Padri</i>: Nikech tich mar chang mar Yesu
                     Kristo, mamulo owete gi nyimine kaka
                     dwaro mar chuny gi mar yie obet.
-                    Padri: Kuom injili mar Kristo machango
+                    <i>Padri</i>: Kuom injili mar Kristo machango
                     ringruok, kod paro gi chuny bende.
-                    Ji duto: Wapakuru nying Ruoth.
+                    <i>Ji duto:</i> <b> Wapakuru nying Ruoth</b>.
 
-                    Padri: Ruoth wakeloni joma dwaro chang,
+                    <i>Padri</i>: Ruoth wakeloni joma dwaro chang,
                     joma tuo, joma okuyo, joma tiyo gi
                     yedhe ma Mero ji, joma onge kar
                     dak, joma pachgi omemore, joma
                     kech kayo gi joma oringo miechgi.
-                    Ji duto: A Ruoth rie badi mar chang mati-
+                    <i>Ji duto:</i> A Ruoth rie badi mar chang mati-
                     yo mondo imulgi.
 
-                    Padri: Guedh jogo duto ma tiyo e ute thieth,
+                    <i>Padri</i>: Guedh jogo duto ma tiyo e ute thieth,
                     matiyo mondo okel ngima maber ni
                     joma moko. Teg joma rito jotuo e
                     miechgi. Chiwie ng'wono makende
                     ni jogo matiyo e kind joma chiegni tho.
-                    Jiduto: Guedhgi kendo imigi teko.
+                    <i>Ji duto:</i><b> Guedhgi kendo imigi teko</b>.
 
-                    Padri: Telni joma nigi tuoche maok nyal
+                    <i>Padri</i>: Telni joma nigi tuoche maok nyal
                     chango mayot kendo imigi chir. Wan
                     bende itelnwa mondo wanyisgi hera-
                     ni mar adier.
-                    Jiduto: Wakwayo mondo imigi geno kod
-                    chir.
+                    <i>Ji duto:</i><b> Wakwayo mondo imigi geno kod
+                    chir</b>.
 
-                    Padri: A Ruoth kel chang e mier man gi
+                    <i>Padri</i>: A Ruoth kel chang e mier man gi
                     chandruok kod tungni.
-                    Jiduto: Wakwayi mondo imigi chang ken-
+                    Ji duto: Wakwayi mondo imigi chang ken-
                     do idwok nigi winjruok e kindgi.
 
-                    Padri: Kel winjruok e kind jo-Kristo mose-
+                    <i>Padri</i>: Kel winjruok e kind jo-Kristo mose-
                     kethore ei kanisani. Konygi mondo
                     gibed e winjruok e kind ng'ato gi
                     ng'ato kaka koro tho Kristo omiyo
@@ -10140,7 +10139,7 @@ class SecondFragment : Fragment() {
                     e nyimi kendo wageno mar yudo
                     guethni kawuono. Wakwayi kamano
                     e nying Ruodhwa kendo jagachwa
-                    Yesu Kristo. Amina.
+                    Yesu Kristo.<b>Amina</b>.
 
                     MILOME
                     GOLO CHIWO NI TICH NYASAYE
@@ -10153,7 +10152,7 @@ class SecondFragment : Fragment() {
                     druok mopogore opogore inyalo luongi e
                     kindeni kendo ilemonegi.
 
-                    14. Jiduto: Roho Maler bi, warito bironi. Wan-gi
+                    14. Ji duto: Roho Maler bi, warito bironi. Wan-gi
                     dwaro e ngimawa kendo chunywa
                     oyawore chutho e nyimi. Kelnwa
                     chang makende mowuok kuom
@@ -10162,9 +10161,9 @@ class SecondFragment : Fragment() {
                     chang gi ngima moromo chuth.
                     Mago duto wakwayo e nying Yesu
                     Kristo Ruodhwa kendo jachangwa.
-                    Amina.
+                   <b>Amina</b>.
 
-                    15. Padri: Wakeloni, A Ruoth, jogo man gi
+                    15. <i>Padri</i>: Wakeloni, A Ruoth, jogo man gi
                     tuoche ma ok nyal chang
                     Wakeloni A Ruoth, jogo ma
                     tuochegi pok ofweny:
@@ -10184,7 +10183,7 @@ class SecondFragment : Fragment() {
 
                     Padri pod nyalo konyore gilemo moro kata
                     mondik mwalo kani.
-                    Padri: Nyasaye Wuoro, Nyasaye Wuowi,
+                    <i>Padri</i>: Nyasaye Wuoro, Nyasaye Wuowi,
                     Nyasaye Roho Maler,
                     Pwodh kindeni ma wachung' e nyim
                     kom duong'ni Maler ka chunywa
@@ -10220,7 +10219,7 @@ class SecondFragment : Fragment() {
                     Wakwayo ma kawageno kuom en
                     mangima kendo molocho nyaka
                     chieng' Yesu Kristo Ruodhwa ken-
-                    do Jawarwa. Amina.
+                    do Jawarwa.<b>Amina</b>.
 
 
                     16.WIRO GI MO KEND0 YIEYO LWEDO
@@ -10233,19 +10232,19 @@ class SecondFragment : Fragment() {
                     17. Enying Yesu Kristo mane ochwo nikech
                     kethowa koro mondo ochangu kuom
                     tuocheu duto mag ringruok mag paro kod
-                    chuny. Amina.
+                    chuny.<b>Amina</b>.
 
                     Koro padri luto lwete mathuon ma-
                     korachwich e mo mose guedhi eka oketo
                     ranyisi mar musalaba e lela wang' jatuo ken-
                     do owacho kama:
 
-                    18. Padri: Awiri gi mo malerni. Yesu Kristo
+                    18. <i>Padri</i>: Awiri gi mo malerni. Yesu Kristo
                     mondo oweni richoni kendo ochan-
                     gi. Teko mar Jawarwa Kristo mane
                     osand nikech in mondo olor epachi
                     kendo e ringri duto, komiyi kue kod
-                    teko mar chung'. Amina.
+                    teko mar chung'.<b>Amina</b>.
 
                     KATA
                     Awiri gi morni e nying Kristo mane
@@ -10255,7 +10254,7 @@ class SecondFragment : Fragment() {
                     ichopie ngima manyaka chieng' ni-
                     kech ber kod ng'wono mar Ruodhwa
                     Yesu Kristo ma en jachang madu-
-                    ong' kendo jawar. Amina.
+                    ong' kendo jawar.<b>Amina</b>.
 
 
                     19.WER
@@ -10267,7 +10266,7 @@ class SecondFragment : Fragment() {
                     Ka kinde nitie to ji nyalo yudo thuolo mar
                     timo neno kuom chang ma giyudo.
 
-                    20. Padri: Nyasaye Manyalo gik Moko duto,
+                    20. <i>Padri</i>: Nyasaye Manyalo gik Moko duto,
                     wuon Ruodhwa Yesu Kristo ma ja-
                     war kendo jachang, wagoni eroka-
                     mano kuom bedo kodwa e lemoni,
@@ -10323,7 +10322,7 @@ class SecondFragment : Fragment() {
                     kendo hulo nyinge kaka Jawar mar piny;
                     mangima kendo molocho kodi, e achiel mar
                     Roho Maler, Nyasaye achiel kawuono ken-
-                    do ndalo duto. Amina.
+                    do ndalo duto.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo lamoni.
                     A Nyasaye mochwere, ma wuode ma no-
@@ -10331,7 +10330,7 @@ class SecondFragment : Fragment() {
                     mondo wabed e achiel kode, e ringre kod
                     rembe mwaseyudo mondo engimawa duto
                     wadag kuom teko mar nyinge moloyo
-                    nying' duto, Yesu Kristo Ruodhwa. Amina.
+                    nying' duto, Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Juma mar lemo ni riwruok mar jo-Kristo
                     (Jan 18-25)
@@ -10340,7 +10339,7 @@ class SecondFragment : Fragment() {
                     ien, to ichak koda, chang pinywa kendo
                     thiedh adhondewa, timwa wabed achiel,
                     bende konyri kodwa e tichni. Kuom Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     Lokruok mar Paulo maler. ( Jan 25)
                     LAMO
@@ -10352,7 +10351,7 @@ class SecondFragment : Fragment() {
                     erokamano; kuom yesu Kristo Ruodhwa
                     mangima kendo molocho kod in gi Roho
                     Maler, Nyasaye achiel nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     Lamo milamo bang' Sawo Maler chieng'
                     Joote kod joland wach maber.
@@ -10365,7 +10364,7 @@ class SecondFragment : Fragment() {
                     Kuom tekono mar Roho mari Maler jiw-wa
                     mondo wabed joneno kuom adierani, mon-
                     do wayuaji duto obi e heranı .kuom Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     KATA
                     LAMO
@@ -10374,7 +10373,7 @@ class SecondFragment : Fragment() {
                     kod hera, mi waluw gi chunywa duto puonj
                     kod lalruok mar joote, kawanwore e lami kendo
                     wang'ingo makati, kawamor kaachiel gi chuny
-                    motur. E nying Yesu Kristo Ruodhwa. Amina.
+                    motur. E nying Yesu Kristo Ruodhwa.<b>Amina</b>.
                     Puodhruok mar Mariam Nyako Maler miluongo
                     bende ni chieng' michiwoe Yesu ni
                     Nyasaye e Hekalu.
@@ -10385,7 +10384,7 @@ class SecondFragment : Fragment() {
                     wuodi ma miderma e hekalu, ka nigi ringru-
                     ok kaka wan, e kaka wan bende mondo
                     wachiwreni ka chunywa ler chutho; kuom
-                    Yesu kristo ruodhwa. Amina. (Feb.2)
+                    Yesu kristo ruodhwa.<b>Amina</b>. (Feb.2)
 
                     Josef ma ja Nazareth (Mar. 19)
                     A Nyasaye wuonwa, in e mane imiyo onyuol
@@ -10396,7 +10395,7 @@ class SecondFragment : Fragment() {
                     ne kod bolruokne: kuom Wuode Yesu Kristo
                     Ruodhwa mangima kendo ma olocho kodi e
                     achiel mar Roho Maler, Nyasaye achiel
-                    kawuono kendo nyaka chieng'. Amina
+                    kawuono kendo nyaka chieng'.<b>Amina</b>
 
 
                     Bang' Sawo Maler
@@ -10408,7 +10407,7 @@ class SecondFragment : Fragment() {
                     mar waro piny; konywa mondo kuom san-
                     druokne wakwan rieko mar piny ka fuwo to
                     wawuoth ka wabolore ka wan gi geno.
-                    Kuom Yesu Kristo ruodhwa. Amina.
+                    Kuom Yesu Kristo ruodhwa.<b>Amina</b>.
 
                     Chieng' mane ofulne maria Nyako Maler
                     wach nyuol Yesu (Mach 25)
@@ -10421,7 +10420,7 @@ class SecondFragment : Fragment() {
                     mar chierne; kuom wuodi Yesus Kristo Ru-
                     odhwa mangima kendo molocho kodi, e
                     achiel mar Roho maler, Nyasaye achiel
-                    kawuono kendo nyaka chieng'. Amina.
+                    kawuono kendo nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler
                     LAMO
@@ -10432,7 +10431,7 @@ class SecondFragment : Fragment() {
                     Maler kendo iumwa gitekonı; jiw-wa mon-
                     do wawuoth kaachiel gi Maria eyor timo
                     dwaroni gi mor mondo wanyag olemo mar
-                    ler, kuom Yesu Kristo Ruodhwa. Amina.
+                    ler, kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Chieng' Mariko Maler (April 25)
                     A Nyasaye Manyalo Gik Moko Duto,
@@ -10443,7 +10442,7 @@ class SecondFragment : Fragment() {
                     puonj kuom wach gi tim kuom wuodi Yesu
                     Kristo Ruodhwa mangima kendo molocho
                     Kod in e achiel mar Roho Maler, Nyasaye
-                    achiel kawuono kendo nyaka chieng'. Amina.
+                    achiel kawuono kendo nyaka chieng'.<b>Amina</b>.
 
 
                     Lamo bang' Sawo Maler
@@ -10466,7 +10465,7 @@ class SecondFragment : Fragment() {
                     maler; kuom wuodi Yesu Kristo Ruodhwa
                     mangima kendo molocho kodi, e achiel mar
                     Roho maler, Nyasaye achiel kawuono ken-
-                    do nyaka chieng'. Amina.
+                    do nyaka chieng'.<b>Amina</b>.
 
                     Bang' lamo mar Sawo Maler
                     Achiel kuom lamo milamo bang' Sawo Maler
@@ -10484,7 +10483,7 @@ class SecondFragment : Fragment() {
                     Yesu Kristo Ruodhwa, mangima kendo mo-
                     locho kodi e achiel mar Roho Maler, Ny-
                     asaye achiel kawuono kendo nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     Bang' lamo mar sawo maler
@@ -10505,7 +10504,7 @@ class SecondFragment : Fragment() {
                     duong' kendo wapaki gi ilo, wuod mariam
                     ma en jawarwa, mangima kendo molocho
                     kodi, e achiel mar Roho Maler, Nyasaye
-                    achiel kawuono kendo nyaka chieng'.Amina.
+                    achiel kawuono kendo nyaka chieng'.<i>Amina</i>.
 
                     Bang' Sawo Maler to ilamo lamoini:
                     A Nyasaye mang'won, manomiyo Elizabeth
@@ -10515,7 +10514,7 @@ class SecondFragment : Fragment() {
                     mondo wang'e Ruoth gi chunywa maiye
                     kendo herane mondo onenre e ngimawa,
                     mondo piny bende obed mamor kuom war-
-                    ruokni; kuom Yesu Kristo Ruodhwa.Amina.
+                    ruokni; kuom Yesu Kristo Ruodhwa.<i>Amina</i>.
 
 
                     Chieng' Barnaba maler (June 11)
@@ -10531,7 +10530,7 @@ class SecondFragment : Fragment() {
                     Kristo Ruodhwa mangima kendo molocho
                     kodi, e achiel mar Roho Maler, Nyasaye
                     achiel, kawuono kendo nyaka chieng'
-                    Amina.
+                   <b>Amina</b>.
 
                     Chieng' Miparoe nyuol mar Johana
                     Jabatiso. (Jun 24)
@@ -10550,7 +10549,7 @@ class SecondFragment : Fragment() {
                     Yesu Kristo Ruodhwa, mangima kendo mo-
                     locho kodi, e achiel mar Roho Maler, Ny-
                     asaye achiel, kawuono kendo nyaka
-                    chieng'. Amina.
+                    chieng'.<b>Amina</b>.
 
 
                     Bang' lamo mar Sawo Maler
@@ -10562,7 +10561,7 @@ class SecondFragment : Fragment() {
                     Sawo Maler to wang'e ni iweyonwa
                     richowa kendo herani machiwo ngima nyis-
                     owa kechni kod kueni pile; kuom Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     Chieng' Petro maler kod Paulo maler
                     (Jun 29)
@@ -10577,7 +10576,7 @@ class SecondFragment : Fragment() {
                     Yesu Kristo Ruodhwa, mangima kendo
                     olocho kodi, e achiel mar Roho Maler Ny-
                     asaye achiel kawuono kendo nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     KATA
                     Ka chieng' jaote Petro kende to lamoni ema
@@ -10592,7 +10591,7 @@ class SecondFragment : Fragment() {
                     en Kristo Jawar, mangima kendo molocho
                     kodi, e achiel mar Roho Maler, Nyasaye
                     achiel kawuono kendo nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     KATA
                     A Nyasaye Manyalo Gik Moko Duto, ne
@@ -10604,7 +10603,7 @@ class SecondFragment : Fragment() {
                     Wachni Maler, kendo iguedh jogi duto
                     mondo orit Wachni gi chunygi duto, mi gi-
                     yud duong' mochwere kaka pokgi; kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
 
                     Chieng' Thoma Maler (Julai 3)
@@ -10620,7 +10619,7 @@ class SecondFragment : Fragment() {
                     imiwa magi, nikech wakwayo e nying Ru-
                     odhwa Kristo, mowinjore yud duong' nyaka
                     chieng', kaachiel kod in gi Roho Maler.
-                    Amina.
+                   <b>Amina</b>.
 
                     Bang' lamo mar Sawo Maler
                     Achiel kuom lamo milamo bang' Sawo maler
@@ -10638,7 +10637,7 @@ class SecondFragment : Fragment() {
                     mondo watini kuom teko mar chierne; en
                     mangima kendo molocho kodi. e achiel mar
                     Roho Maler, Nyasaye achiel, kawuono ken-
-                    do nyaka chieng'. Amina.
+                    do nyaka chieng'.<b>Amina</b>.
 
                     Bang' lamo mar sawo Maler, to ilamo la-
                     noni.
@@ -10650,7 +10649,7 @@ class SecondFragment : Fragment() {
                     Maler kendo iumwa gi tekoni; jiw-wa mon-
                     do wawuoth kaachiel gi Maria eyor timo
                     dwaroni gi mor mondo wanyag olemo mar
-                    ler, kuom Yesu Kristo Ruodhwa. Amina.
+                    ler, kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     Chieng' Jakobo Maler (Julai 25)
                     A Nyasaye mang'won, Jaoteni Jakobo
@@ -10663,7 +10662,7 @@ class SecondFragment : Fragment() {
                     Kristo Ruodhwa, mangima kendo molocho
                     kodi, e achiel mar Roho Maler, Nyasaye
                     achiel, kawuono kendo nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
                     Bang' sawo Maler to ilamo lamo mar chieng'
                     Joote.
@@ -10691,7 +10690,7 @@ class SecondFragment : Fragment() {
                     mondo e piny mabiro wanene kaka ochalo,
                     en mangima kendo molocho kodi, e achiel
                     mar Roho Maler, Nyasaye achiel,kawuono,
-                    kendo nyaka chieng'. Amina.
+                    kendo nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo to ilamo lamoni:
                     A Nyasaye Maler, waneno duong' ni e
@@ -10700,7 +10699,7 @@ class SecondFragment : Fragment() {
                     wechewa kod timwa, mondo piny duto
                     ong'e tekone maloko kendo waro ji. Ma
                     wakwayı kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     Chieng' Mariam Nyako Silili Moguedhi
@@ -10716,7 +10715,7 @@ class SecondFragment : Fragment() {
                     chwere; kuom Wuodi Yesu Kristo Ru-
                     odhwa, mangima kendo molocho kodi, e
                     achiel mar Roho Maler, kawuono kendo
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo lamoni:
                     A Nyasaye man Malo Chutho, jatichni Ma-
@@ -10728,7 +10727,7 @@ class SecondFragment : Fragment() {
                     do Wawuoth kaachiel gi Mariam ka wamor
                     kendo watimo mana dwaroni, eka wanyag
                     olemo mar ler kod dimbruok, kuom Yesu
-                    Kristo Ruodhwa. Amina
+                    Kristo Ruodhwa.<b>Amina</b>
 
 
                     Chieng' Bathlomayo Jaote Maler
@@ -10745,7 +10744,7 @@ class SecondFragment : Fragment() {
                     Wuodi Yesu Kristo Ruodhwa, mangima
                     kendo molocho kodi e achiel mar Roho
                     Maler, Nyasaye achiel kawuono kendo
-                    nyaka chieng'. Amina
+                    nyaka chieng'.<b>Amina</b>
 
                     Bang' Sawo Maler to ilamo lamo mar
                     chieng' Joote.
@@ -10765,7 +10764,7 @@ class SecondFragment : Fragment() {
                     Kristo ka isandowa nikech en; mangima kendo
                     molocho kodi, e achiel mar Roho Maler,
                     Nyasaye achiel, kawuono kendo nyaka
-                    chieng'. Amina
+                    chieng'.<b>Amina</b>
 
                     Bang' Sawo Maler to ilamo Lamoni:
                     A Nyasaye ma jang'wono, Wuodi noting'o
@@ -10774,7 +10773,7 @@ class SecondFragment : Fragment() {
                     thone e musalaba, nikech en e warruokwa,
                     en e ngimawa kendo genowa,en molocho
                     kaka Ruoth, kawuono kendo nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     Chieng' Mathayo Maler (Septemba 21)
@@ -10787,7 +10786,7 @@ class SecondFragment : Fragment() {
                     mwandu, to mondo waluw Wuodi Yesu
                     Kristo, mangima kendo, molocho kodi e
                     achiel mar Roho Maler, Nyasaye achiel,
-                    kawuono kendo nyaka chieng'. Amina.
+                    kawuono kendo nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo lamo mar
                     chieng' Joote.
@@ -10809,7 +10808,7 @@ class SecondFragment : Fragment() {
                     Wuodi Yesu Kristo Ruodhwa, mangima
                     kendo molocho kodi, e achiel mar Roho
                     Maler, Nyasaye achiel, kawuono, kendo
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo lamoni.
                     Ruodh polo, e sawo malernii isekelowa ma-
@@ -10818,7 +10817,7 @@ class SecondFragment : Fragment() {
                     waseriwore kodgi e lalruok mar wuodhwa e
                     pinyka mondo chieng' moro wamor kodgi
                     kaachiel e polo malo kuom Yesu Kristo Ru-
-                    odhwa. Amina.
+                    odhwa.<b>Amina</b>.
 
 
                     Chieng' Miparoe Luka Maler (Octoba 18)
@@ -10833,7 +10832,7 @@ class SecondFragment : Fragment() {
                     chang. Kuom Wuodi Yesu Kristo Ruothwa,
                     mangima kendo molocho kodi, e achiel mar
                     Roho Maler, Nyasaye achiel, kawuono ken-
-                    do nyaka chieng'. Amina.
+                    do nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo lamo mar
                     chieng' Joote.
@@ -10855,7 +10854,7 @@ class SecondFragment : Fragment() {
                     dakie; kuom Wuodi Yesu Kristo Ruodhwa,
                     mangima kendo molocho kodi, e achiel mar
                     Roho Maler, Nyasaye achiel, kawuono ken-
-                    do nyaka chieng'. Amina.
+                    do nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo lamo mar chieng'
                     joote.
@@ -10880,7 +10879,7 @@ class SecondFragment : Fragment() {
                     ing Wuodi Yesu Kristo Ruodhwa, mangima
                     kendo molocho kodi, e achiel mar Roho
                     Maler, Nyasaye achiel, kawuono kendo
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo,lamoni
                     Nyasaye, ma gik moko duto maler a kuome
@@ -10889,7 +10888,7 @@ class SecondFragment : Fragment() {
                     welo kendo jowouth e pinyka; yie irwakwa
                     enyasi manie polo chieng' mibet e Kom
                     duong'ni, kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     Chieng' Andrea Maler (Novemba 30)
@@ -10904,7 +10903,7 @@ class SecondFragment : Fragment() {
                     piny Ruodhi, kuom Wuodi Yesu Kristo Ru-
                     odhwa, mangima, kendo molocho kodi, e
                     achiel mar Roho Maler, kawuono kendo
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler to ilamo lamo mar
                     chieng' Joote
@@ -10932,7 +10931,7 @@ class SecondFragment : Fragment() {
                     Yesu Kristo, jagachwa kendo jakonywa,
                     mangima kendo molocho kod in, e achiel
                     mar Roho Maler, Nyasaye achiel, kawuono
-                    kendo nyaka chieng'. Amina.
+                    kendo nyaka chieng'.<b>Amina</b>.
 
 
                     KATA
@@ -10948,7 +10947,7 @@ class SecondFragment : Fragment() {
                     wapako, ma Jagachwa kendo Jakonywa,
                     wakwayi kamano nikech ichung' e bat kor-
                     achwich mar Nyasaye mondo ikony jogo
-                    duto misando nikech nyingi maler. Amina.
+                    duto misando nikech nyingi maler.<b>Amina</b>.
 
                     Bang' Sawo Maler
                     Achiel kuom lamo milamo bang' Sawo maler
@@ -10962,7 +10961,7 @@ class SecondFragment : Fragment() {
                     Wuodi, kendo ipong' chunywa gi mor mon-
                     do wami Stefano luor kaka janeno kendo ja-
                     Israel manyien mane okwong negi; kuom
-                    Yesu Kristo Ruodhwa. Amina.
+                    Yesu Kristo Ruodhwa.<b>Amina</b>.
 
 
                     Chieng' Johana Maler Ma Jandik In-
@@ -10977,7 +10976,7 @@ class SecondFragment : Fragment() {
                     ngima mochwere: kuom Yesu Kristo Ru-
                     odhwa, mangima kendo molocho kodi, e
                     achiel mar Roho Maler, Nyasaye achiel,
-                    kawuono, kendo nyaka chieng'. Amina.
+                    kawuono, kendo nyaka chieng'.<b>Amina</b>.
 
                     Bang' Sawo Maler mar Ruoth to ilamo La-
                     moni
@@ -10986,7 +10985,7 @@ class SecondFragment : Fragment() {
                     olando, mondo odagi kendo osik e chunywa
                     kawasudo e Sawo Maler mar guethni ma
                     opondo; kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Chieng' Miparoe Nyithindo Mane Onegi
                     Mapok Otimo Richo ( Desemba 28)
@@ -11001,7 +11000,7 @@ class SecondFragment : Fragment() {
                     e ngimawa; kuom Wuodi Yesu Kristo Ru-
                     odhwa, mangima kendo molocho kodi, e
                     achiel mar Roho Maler, Nyasaye achiel,
-                    kawuono kendo nyaka chieng'. Amina.
+                    kawuono kendo nyaka chieng'.<b>Amina</b>.
 
                     KATA
                     A Nyasaye Manyalo Gik Moko Duto,
@@ -11013,7 +11012,7 @@ class SecondFragment : Fragment() {
                     to yie ijiwwa kuom ng'wononi, mondo
                     wakelni nyingi maler duong'. Wakwayo
                     kamano e nying' Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     Bang' Sawo Maler mar Ruoth to isomo la-
                     moni.
@@ -11026,7 +11025,7 @@ class SecondFragment : Fragment() {
                     nyithindo mayom. Kuom chiwo ngimanı
                     obed misango maler kendo moromo chuth e
                     musalaba, nikech ingima kendo ilocho,
-                    kawuono kendo nyaka chieng'. Amina.
+                    kawuono kendo nyaka chieng'.<b>Amina</b>.
 
 
                     Nyasi Mar Walo Kanisa
@@ -11041,7 +11040,7 @@ class SecondFragment : Fragment() {
                     iyiego; kuom Wuodi Yesu Kristo Ruodhwa,
                     mangima kendo molocho kodi, e achiel mar
                     Roho Maler, Nyasaye achiel, kawuono, ken-
-                    do nyaka chieng'. Amina
+                    do nyaka chieng'.<b>Amina</b>
 
                     Bang' Sawo Maler mar Ruoth to isomo la-
                     moni:
@@ -11053,7 +11052,7 @@ class SecondFragment : Fragment() {
                     e ringre Wuodi Yesu Kristo, kawabedo
                     Hekalu manyiso duong'ni maler e pinyka
                     Kendo ranyisi mar kueni ni ogendni duto;
-                    kuom Yesu Kristo Ruodhwa. Amina
+                    kuom Yesu Kristo Ruodhwa.<b>Amina</b>
 
                     KINDE MOYIEDHI
                     Goyo erokamano mar keyo
@@ -11074,7 +11073,7 @@ class SecondFragment : Fragment() {
                     diyudgi kuom Wuodi Yesu Kristo Ruodhwa,
                     mangima kendo molocho kodi, e achiel mar
                     Roho Maler, Nyasaye achiel kawuono kendo
-                    nyaka chieng'. Amina
+                    nyaka chieng'.<b>Amina</b>
 
                     Bang' Sawo Maler to ilamo lamoni.
                     A Nyasaye ma wuon keyo, wasegoyoni
@@ -11084,7 +11083,7 @@ class SecondFragment : Fragment() {
                     koro kuom ng'wononi, miwa chuny mar rito
                     gik ma imiyowa maber kendo imi wabed
                     jorit mang'won kendo mariek; kuom Yesu
-                    Krtisto Ruodhwa, Amina.
+                    Krtisto Ruodhwa,<b>Amina</b>.
                     
                     </pre>
                 """.trimIndent()
@@ -11103,7 +11102,7 @@ class SecondFragment : Fragment() {
                  Wawuothi e ngima manyien, ka waketo yie
                  marwa kuom Kisto, kendo ka wan-gi geno
                  kendo keto chunywa nyaka giko; kuom
-                 Yesu Kristo nogo Ruodhwa. Amina.
+                 Yesu Kristo nogo Ruodhwa.<b>Amina</b>.
 
                  2. LAMO MAR NDALO KEYO
                  A Nyasaye ma wuon Adiera duto, herani
@@ -11113,7 +11112,7 @@ class SecondFragment : Fragment() {
                  cham kod olembe moa e puothewa, mondo
                  wakonyre kodgi e yo makare, kendo wapogie
                  moko ni Jowetewa mamoko bende; kuom
-                 Yesu Kristo Ruodhwa. Amina.
+                 Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                  3. LAMO MAR YIERO JOTELO
                  A Nyasaye Manyalo Gik Moko Duto, in e
@@ -11129,7 +11128,7 @@ class SecondFragment : Fragment() {
                  hera, adier kod bura makare ema otelnigi to
                  giluwo, mondo tijgi maber omi joma oyierogi
                  omor kodgi, kendo kuom miyo Nyasaye
-                 duong'. Kuom Yesu Kristo Ruodhwa.Amina.
+                 duong'. Kuom Yesu Kristo Ruodhwa.<i>Amina</i>.
 
                  4. LAMO MONDO WABED GI CHUNY
                  MOKUE
@@ -11139,7 +11138,7 @@ class SecondFragment : Fragment() {
                  kueni gi tekoni, kendo iritwa kuom yung
                  kod bwok, mondo wabed kuomi, ka isirowa
                  gi tekoni ka wachung' e wi lwanda ma en
-                 adierani, kuom Yesu Kristo Ruodhwa.Amina.
+                 adierani, kuom Yesu Kristo Ruodhwa.<i>Amina</i>.
 
                  5. LAMO MAR BEDO GI HORUOK
                  Gwedhwa A Nyasachwa, mondo kuom teko
@@ -11149,7 +11148,7 @@ class SecondFragment : Fragment() {
                  ne ihori mos ni wan, mondo wabed
                  mang'won kodgı kuom ketho magi, ka wate-
                  mo kinde duto golo oko kethowa wawegi
-                 mana kuon kechni A Nyasaye. Amina
+                 mana kuon kechni A Nyasaye.<b>Amina</b>
 
 
                  6. LAMO MAR KWAYO TEKO MOA KUOM
@@ -11161,7 +11160,7 @@ class SecondFragment : Fragment() {
                  manyap, to wanyalo chung' motegno e
                  kinde duto mag tem, nikech teko mar jal
                  mamiyo wabedo joloch mongirore ma en
-                 Yesu Kristo Ruodhwa. Amina
+                 Yesu Kristo Ruodhwa.<b>Amina</b>
 
                  7. LAMO MONDO WABED GI KINDA E
                  TICH NYASAYE
@@ -11171,7 +11170,7 @@ class SecondFragment : Fragment() {
                  waringi ma ok waol, bende wawuothi ma ok
                  wanyosore. Miwarieny kuom teko mar Roho
                  mari Maler, mondo wabed gi kinda ma ok
-                 wanyosore ka watiyo ni Ruodhwa. Amina.
+                 wanyosore ka watiyo ni Ruodhwa.<b>Amina</b>.
 
                  8. LAMO NI SOMO KOD PUONJRUOK
                  A Nyasach Somo kod Rieko Duto, wakwayı
@@ -11181,7 +11180,7 @@ class SecondFragment : Fragment() {
                  makare oyangre kendo ong'ere. Bende rieko
                  ma jopuonjre yudo okel konyruok ni Jop-
                  uonjre kod ogandawa duto; kuom Yesu
-                 Kristo Ruodhwa. Amina
+                 Kristo Ruodhwa.<b>Amina</b>
 
 
                  9. LAMO NI ALUORA MAR GWENGWA
@@ -11194,7 +11193,7 @@ class SecondFragment : Fragment() {
                  mondo paro ma gin-go omi chwech duto
                  obed gi ngima maber mondo nyak mar piny
                  onere maber kendo oritgi maber ne tieng'
-                 mabiro; kuom Yesu Kristo Ruodhwa. Amina.
+                 mabiro; kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
 
                  10.LAMO NI BURA MAR SINOD
@@ -11206,7 +11205,7 @@ class SecondFragment : Fragment() {
                  moelore, rieko makare, weche matek, imiwa
                  hera kod adiera mondo olos gi muolo kuom
                  telo maber mar kanisa, achiel mar jo-Kristo
-                 kendo kuom miyo nyingi duong'. Amina
+                 kendo kuom miyo nyingi duong'.<b>Amina</b>
 
                  11. LAMO MIKWAYOGONI JI MAONGE
                  KAR DAK
@@ -11217,7 +11216,7 @@ class SecondFragment : Fragment() {
                  kendo walam ni odiechieng' maibiro miyo
                  nyithindi thuolo kendo mor mar yudo ngima
                  moromo chuth; kuom Yesu Kristo Ruodhwa,
-                 mane onge kama doketie wiye. Amina
+                 mane onge kama doketie wiye.<b>Amina</b>
 
                  12. LAMO MIKWAYOGO NYASAYE MONDO
                  OCHANG JOTUO
@@ -11230,7 +11229,7 @@ class SecondFragment : Fragment() {
                  duto, tur kendo inyon teko mar tho e bwo
                  tiendi. To nikech ne ilocho, wan bende miwa
                  locho kodi nikech wageno kuom jachang ma-
-                 duong' moloyo, Yesu Kristo Ruodhwa.Amina.
+                 duong' moloyo, Yesu Kristo Ruodhwa.<i>Amina</i>.
 
                  13. LAMO MIKWAYOGO NIJI MAKECH KAYO
                  A Ruoth wakelo iri jogo duto makech kayo
@@ -11245,7 +11244,7 @@ class SecondFragment : Fragment() {
                  ma jachiwo, mondo nyithind Nyasaye kik
                  bed gi rem, e kinde ma omiyowa chiemo
                  kod mwandu mamoko mondo okony joma
-                 ochando. Yie kwayowa, A Ruoth. Amina.
+                 ochando. Yie kwayowa, A Ruoth.<b>Amina</b>.
 
                  14. LAMO MIKWAYOGO NI JI MAONGE GI TICH
                  A Ruoth Mang'won, kech jogo maonge gi
@@ -11261,7 +11260,7 @@ class SecondFragment : Fragment() {
                  kata gi wedegı bende mondo winjruok ma-
                  nie kindgi kik kethre, nikech tich kata pesa
                  ongee; Winj kwayowagi. kuom Yesu Kristo
-                 mabende ne japa bao e Nazareth. Amina.
+                 mabende ne japa bao e Nazareth.<b>Amina</b>.
 
                  15. LAMO MAR GUEDHO CHIWO KOD
                  MICH NI TICH NYASAYE.
@@ -11269,7 +11268,7 @@ class SecondFragment : Fragment() {
                  mamor kendo mail, kanyakla gi chiwowagi
                  mi wachiwni parowa kod chuny mathuolo
                  mondo ngimawa onyis adier mar Injili;
-                 kuom Yesu Kristo Ruodhwa. Amina
+                 kuom Yesu Kristo Ruodhwa.<b>Amina</b>
 
                  A Nyasaye Mang'won kendo ma Jahera, ka
                  wan gi chiwo monego wakelni, to wakelo
@@ -11278,7 +11277,7 @@ class SecondFragment : Fragment() {
                  chiwo ma wakelo, Imi chiwo ma ok
                  owinjoreni oyud gueth moa kuomi, mondo
                  oti tichni, kuom Yesu Kristo Ruodhwa.
-                 Amina.
+                <b>Amina</b>.
 
                  16. LAMO MIKWAYOGO NYASAYE MONDO ORITWA
                  A Ruoth Nyasachwa, mano kaka nyingi nigi
@@ -11290,7 +11289,7 @@ class SecondFragment : Fragment() {
                  ier gi Kristo ka wamor kode e duong'ni
                  maler, kuomi en mangima kendo molocho
                  kodi kod Roho Maler, Nyasaye achiel ndalo
-                 duto nyaka chieng'. Amina.
+                 duto nyaka chieng'.<b>Amina</b>.
 
                  17. LAMO MAR ST' AGUSTINO
                  A Nyasaye Manyalo Gik Moko Duto, Ka
@@ -11300,7 +11299,7 @@ class SecondFragment : Fragment() {
                  Konywa e tijewa duto, bende telnwa e chan-
                  druokwa duto, ritwa e masichewa duto, ken-
                  do ka wakuyo to imiwa kueni; kuom Yesu
-                 Kristo Ruodhwa. Amina
+                 Kristo Ruodhwa.<b>Amina</b>
 
                  18. LAMO MA WAKWAYOGO NYASAYE MONDO OTELNWA
                  A Ruoth, telnwa e gık moko duto ma wa-
@@ -11308,12 +11307,12 @@ class SecondFragment : Fragment() {
                  imiwa kony mari, e masichewa duto yie irt-
                  wa kendo isirwa, kendo e kuyowa duto mi-
                  wa kueni modhiero rieko duto ng'eyo
-                 Kuom Yesu Kristo Ruodhwa. Amina
+                 Kuom Yesu Kristo Ruodhwa.<b>Amina</b>
 
                  19.LAMO MIKWAYOGO NI PINY AFRIKA
                  A Nyasaye, guedh piny Afrika, Irit joge, irt
                  Jotende kendo imiye kue, Nikech wakwayi
-                 e nying Yesu Kristo Ruodhwa. Amina
+                 e nying Yesu Kristo Ruodhwa.<b>Amina</b>
 
                  20. LAMO MIKWAYOGO NI ACHIEL MAR
                  JO-KRISTO (Januari 8-25)
@@ -11322,7 +11321,7 @@ class SecondFragment : Fragment() {
                  chang adhondewa; bende imi wabedi e
                  achiel ka ikonyori kodwa e tich miselu-
                  ongowae; kuom Yesu Kristo Ruodhwa.
-                 Amina
+                <b>Amina</b>
 
                  21. LAMO MIKWAYOGO NYASAYE MONDO
                  OOR KOTH.
@@ -11335,7 +11334,7 @@ class SecondFragment : Fragment() {
                  polo, kimiyowa koth kendo ineg riyo
                  moloyowa. Imed guedho kwedhewa kendo
                  imiwa keyo maber e lowo momew; Kuom
-                 Yesu Kristo, ma en pi mar ngima. Amina
+                 Yesu Kristo, ma en pi mar ngima.<b>Amina</b>
 
 
                  22. LAMO MIKWAYOGO MONDO WACH
@@ -11345,7 +11344,7 @@ class SecondFragment : Fragment() {
                  wach ng'wononi. Wakwayı mondo Roho
                  Maler oket bura ni chuny joma olal kendo
                  oduokgi ir Jawar, ma en Yesu Kristo Ruodhwa.
-                 Amina.
+                <b>Amina</b>.
 
 
                  23. LAMO MIKWAYOGO NI JOMA ODAK E
@@ -11365,7 +11364,7 @@ class SecondFragment : Fragment() {
                  mondo walok ngimagi okel ni nyingi maler
                  duong' mana kaka Wuodi Yesu Kristo mane
                  onge kama oketoe wiye, nochier mo-
-                 lochonwa. Amina.
+                 lochonwa.<b>Amina</b>.
 
 
                  24. LAMO MAR GUETH E KINDE MIYIKO
@@ -11378,7 +11377,7 @@ class SecondFragment : Fragment() {
                  asaye Manyalo gik Moko Duto, Wuoro,
                  Wuowi, kod Roho Maler obed kodwa
                  waduto, kawuono kendo ndalo duto.
-                 Amina.
+                <b>Amina</b>.
 
                  25. LAM0 MIKWAYOGO NI BISHOP
                  MADUONG
@@ -11393,7 +11392,7 @@ class SecondFragment : Fragment() {
                  duto motiyo e nyingi, onyis kido mar jatich
                  maber kendo jakwadh kweth misemiye
                  mondo oriti, kuom miyo nyingi duong' kod
-                 pwoch. Amina
+                 pwoch.<b>Amina</b>
 
                  26. LAMO MIKWAYOGO GUETH MAR NGI-
                  MA MOCHWERE
@@ -11407,7 +11406,7 @@ class SecondFragment : Fragment() {
                  Mondo ka gitimo dwaroni kendo gisiko ka
                  gigeno kuom kony moa kuomi.
                  To gisiki e herani ma nyaka chieng' kuom
-                 Yesu Kristo Ruodhwa. Amina.
+                 Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                  27. LAMO MAR KWAYO GUETH MAR BEDO
                  GI HERA KOD GENRUOK E KIND JI ARI-
@@ -11427,7 +11426,7 @@ class SecondFragment : Fragment() {
                  chwore kendo komiye luor. A Ruoth,
                  guedhgi giduto kendo imi gibed jocham
                  gikeni mag Piny Ruodhi mochwere, Kuom
-                 Yesu Kristo Ruodhwa. Amina.
+                 Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                  KATA
                  A Nyasaye, Isewalo singruok mar kend,
@@ -11440,7 +11439,7 @@ class SecondFragment : Fragment() {
                  iyudoe gueth kod kue, Kuom Yesu Kristo
                  Ruodhwa, Mangima kendo molocho kodi
                  kendo gi Roho Maler, Nyasaye achiel,
-                 kawuono kendo nyaka chieng'. Amina
+                 kawuono kendo nyaka chieng'.<b>Amina</b>
 
                  KATA
                  A Nyasaye Manyalo Gik Moko Duto, in
@@ -11449,13 +11448,13 @@ class SecondFragment : Fragment() {
                  mwandu mag herane, owalu kendo
                  oguedhu, mondo umiye duong' gi ringreu
                  kod chunyu bende, ka udak kaachiel e hera
-                 maler nyaka giko ngimau. Amina
+                 maler nyaka giko ngimau.<b>Amina</b>
 
                  KATA
                  Nyasaye Wuoro, omiw ng'wonone. Ny-
                  asaye Roho Maler omiw teko kod morne.
                  Ruoth mondo oguedhu kendo oritu komiyou
-                 ngima ma nyaka chieng'. Amina
+                 ngima ma nyaka chieng'.<b>Amina</b>
 
                  28. LAMO MA NG'ATO WACHO KOCHIEWO
                  Agoyoni erokamano, A Nyasaye, kuom rita
@@ -11466,13 +11465,13 @@ class SecondFragment : Fragment() {
                  piny ka. Konya mondo abed gi chir ka aro-
                  mo gi tembe mabirona ei odiechieng'. Rita
                  mondo ndalo duto amiyi duong'; Ruodhwa
-                 Kendo Jawarna Yesu Kristo. Amina.
+                 Kendo Jawarna Yesu Kristo.<b>Amina</b>.
 
                  29. LAMO MAR CHIWRUOK NI NYASAYE
                  A Ruoth Nyasaye, achiwoni ngimana
                  kawuono. Kikonya gi ng'wononi, to anatem
                  rito chikeni, kendo analuwgi gadiera. E yor
-                 Yesu Kristo ma Ruodha, Amina.
+                 Yesu Kristo ma Ruodha,<b>Amina</b>.
 
                  30. LAMO MAR OTIENO
                  Odiechieng' oserumo kendo abiro iri A
@@ -11486,7 +11485,7 @@ class SecondFragment : Fragment() {
                  Miya gueth mar bedo gi paro mokue, kod
                  chuny mogeni maonge gi parruok ei otieno
                  man gi kue kuomı to gi ji duto. Koro adhi
-                 nindo, kuom Yesu Kristo Ruodhwa. Amina
+                 nindo, kuom Yesu Kristo Ruodhwa.<b>Amina</b>
 
 
                  31. LAMO MIKWAYOGO MONDO ORIT LE
@@ -11499,7 +11498,7 @@ class SecondFragment : Fragment() {
                  duto ma konyo le, wan bende ikonywa mon-
                  do waritgı maber, Wabed gi ng'eyo matut
                  kuom hera ma iherogo chuechni duto kuom
-                 Yesu Kristo Ruodhwa. Amina
+                 Yesu Kristo Ruodhwa.<b>Amina</b>
 
                  32. LAMO MIKWAYOGO NI JOMA NIGI
                  TUO AYAKI (HIV/AIDS)
@@ -11512,7 +11511,7 @@ class SecondFragment : Fragment() {
                  kue moa kuomi modhiero rieko duto
                  ng'eyo. Wakwayi ni iduog chuny jogo mari-
                  to joma nigi tuo mar Ayaki kaging'eyo ni
-                 gitiyoni. Amina
+                 gitiyoni.<b>Amina</b>
 
                  A Nyasaye, wenwa richowa mar ng'ado
                  bura ni jogo man gituo mar Ayaki, kendo
@@ -11525,7 +11524,7 @@ class SecondFragment : Fragment() {
                  ro reso ngimawa. Mad Kristo bed kar pondo
                  maber ni wan kaachiel kod jogo matuo. Mad
                  Kristo miwa chir mondo wakony jowadwa e
-                 dwarogi duto. Amina
+                 dwarogi duto.<b>Amina</b>
 
                  33. JOGO MOHEWORE
                  A Routh, kaka Wuodi, noneno masira kod
@@ -11534,7 +11533,7 @@ class SecondFragment : Fragment() {
                  ochopo, piny modich gi tich orumo, kendo
                  ngima ochopo e kar dak mokue, yueyo
                  maler, kendo kue e giko; Kuom Yesu Kristo
-                 Ruodhwa. Amina.
+                 Ruodhwa.<b>Amina</b>.
 
                  34. LAMO MAR RITO BUNGE KOD LE
                  A Ruoth, ne ichueyo piny ka chuechni duto
@@ -11551,7 +11550,7 @@ class SecondFragment : Fragment() {
                  chuech Nyasaye e yore mang'eny maok
                  wanyal kwano. A Ruoth puonjwa kaka wan-
                  yalo dak maber kaachiel gi chuechni kendo
-                 e kindwa wawegi; nikech Kristo. Amina.
+                 e kindwa wawegi; nikech Kristo.<b>Amina</b>.
 
                  35. LAMO MIKWAYO NI MON MAYACH
                  A Ruoth wagoyoni erokamano kuom
@@ -11568,7 +11567,7 @@ class SecondFragment : Fragment() {
                  kendo rwako nyathi mayom monywol.
                  Wakwayi ma nikecch Yesu Kristo mane
                  onywol kendo opidhi mana kaka wan duto.
-                 Amina.
+                <b>Amina</b>.
                  </pre>
                                    
                 """.trimIndent()
@@ -11709,7 +11708,7 @@ class SecondFragment : Fragment() {
                     *E lemo mar okınyi kata ma odhiambo,
                     onego time kapok otim milome mantie.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     *Wer, bang'e ng'at ma obiro goyo eroka-
                     mano timo neno kaka Nyasaye ne orese,
                     bang'e to ji duto dendo Nyasaye gi
@@ -11717,7 +11716,7 @@ class SecondFragment : Fragment() {
                     reso Joge.
 
                     *Bang'e to iwacho achiel kata ariyo kuom
-                    weche mogol ei muma: Jatelo wacho
+                    weche mogol ei muma: <i>Jatelo</i> wacho
                     mokuongo to ji duoko mar ariyo, kamano
                     nyaka giko, Wende pak matero chuny ji ir
                     Nyasaye inyalo koko e kind somo mogol e
@@ -11807,7 +11806,7 @@ class SecondFragment : Fragment() {
                     Duong' obed ni Wuoro, Wuowi kod Roho Maler
                     Kaka nobet mokwongo kendo pod obet
                     kawuono kendo ndalo duto nyaka chieng'.
-                    Amina.
+                   <b>Amina</b>.
 
 
                     5. LEMO MOKO
@@ -11838,7 +11837,7 @@ class SecondFragment : Fragment() {
                     e chandruok (Padri nyalo hulo kit chandruok
                     to bang'e owacho niya) Wagoyoni erokamano
                     ni e chandruok go duto waseneno warruokni
-                    kuom Yesu Kristo Ruodhwa. Amina.
+                    kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
                     KATA
 
                     6. Nyasaye Manyalo Gik Moko Duto, in e kar
@@ -11853,7 +11852,7 @@ class SecondFragment : Fragment() {
                     oseritowa. Wakwayi ni imedwa ng'wononi,
                     wahombi
                     ni pile iyie ni in e Jawarwa kendo jareswa ma
-                    ratego. Kuom Yesu Kristo Ruodhwa. Amina.
+                    ratego. Kuom Yesu Kristo Ruodhwa.<b>Amina</b>.
 
                     7. Padri keto lwete kuom ng'ato (gi) ma obiro
                     goyo erokamano koguedhogi kama:
@@ -11895,7 +11894,7 @@ class SecondFragment : Fragment() {
                     mar lamo mokinyı bang' mos kod rwako
                     Jo- Kristo.
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1. wero wer mowinjore gi chieng'no ka ji
                     moa e migepe mopogore opogore oting'o
                     kit kothe duto kagidonjo ei kanisa.
@@ -11916,17 +11915,17 @@ class SecondFragment : Fragment() {
                     maler mondo oti tichne, wakwaye mondo
                     Oguedhwa pile ka watimo tijewa duto e yo
                     mowinjore.
-                    Padri: Ruoth keyo mondo obed kodu pile.
+                    <i>Padri</i>: Ruoth keyo mondo obed kodu pile.
                     Ji:In bende obed kodi
 
-                    Padri: Ng'wononi mosiko ber manadi A Nyasaye
+                    <i>Padri</i>: Ng'wononi mosiko ber manadi A Nyasaye
                     Tipo bwombeni ema ji yudo e konyruok
 
-                    Padri: Gichamo chiemb odi mogundho, mi
+                    <i>Padri</i>: Gichamo chiemb odi mogundho, mi
                     giyieng'
                     Ji: Kendo imiyo gimodho e aora mar berni.
 
-                    Padri: In ema ngima wuok kuomi
+                    <i>Padri</i>: In ema ngima wuok kuomi
                     Ji:Kendo ler mari ema omiyo wane-
                     no ler (Zaburi 36:7-9)
 
@@ -11941,83 +11940,83 @@ class SecondFragment : Fragment() {
                     wacho weche maji lawo (Litania)
 
                     6. WECHE MA JI LAWO (Litania)
-                    Padri: Duong' kod pak obed ni Ruoth man
+                    <i>Padri</i>: Duong' kod pak obed ni Ruoth man
                     malo chutho;
                     Ji: Mane ochueyo polo kod piny gi
                     gik moko duto man e igi.
 
-                    Padri: Nochueyo dichwo gi dhako e kido
+                    <i>Padri</i>: Nochueyo dichwo gi dhako e kido
                     machalo kode.
                     Ji: Kendo noketogi e pwoth Eden
 
-                    Padri: Kaka Adam gi Hawa wan bende wan
+                    <i>Padri</i>: Kaka Adam gi Hawa wan bende wan
                     Jorit;
                     Ji: Wan jorit nyaka gigo duto
                     mawuok e lowo
 
-                    Padri: Ng'at makayo cham kosechiek en
+                    <i>Padri</i>: Ng'at makayo cham kosechiek en
                     Ng'at mariek
                     Ji: To ng'at ma nindo aninda e ndalo
                     keyo kelo mana wichkuot Zaburi 10.5.
 
-                    Padri: Ka ruedhi onge e kul to kul ni nono
+                    <i>Padri</i>: Ka ruedhi onge e kul to kul ni nono
                     Ji:To tekre ruath miyo wayudo keyo
                     mang'eny
 
-                    Padri: Ja samuoyo ma ok pur puothe e
+                    <i>Padri</i>: Ja samuoyo ma ok pur puothe e
                     kinde nmowinjore.
                     Ji: Ok nyal yudo cham e ndalo keyo.
                     (Ngeche 20:4)
 
-                    Padri: Kaka koro wamor kendo wagoyo
+                    <i>Padri</i>: Kaka koro wamor kendo wagoyo
                     erokamano kuom keyo maber ma
                     wayudo, waparuru kuma ng'wono
                     mar Nyasaye osegolowae.
-                    Padri: An ema ne akelo kech e miechu
+                    <i>Padri</i>: An ema ne akelo kech e miechu
                     uduto
                     Ji:Mi ubedo maonge gi chiemo
 
-                    Padri: Ne amiyo koth ochue e mier moko
+                    <i>Padri</i>: Ne amiyo koth ochue e mier moko
                     Ji: To oweyo moko.
 
-                    Padri: Ne ochue e puothe moko
+                    <i>Padri</i>: Ne ochue e puothe moko
                     Ji: To puothe mane ok ochuee
                     nowang'
 
-                    Padri: Ji ne a e mier moko, kendo wuotho
+                    <i>Padri</i>: Ji ne a e mier moko, kendo wuotho
                     kool kadhi e dala moro dwaro pi.
                     Ji: To ne ok giyudo moromogi. (Amos
                     4:6-8)
 
-                    Padri: Emomiyo ne waywakni Ruoth Ny-
+                    <i>Padri</i>: Emomiyo ne waywakni Ruoth Ny-
                     asachwa
                     Ji: Duoknwa mwanduwa A Ruoth
                     mana ka aora mamol kama otwo.
 
-                    Padri: Joma chwoyo ka ywak
+                    <i>Padri</i>: Joma chwoyo ka ywak
                     Ji: Biro kayo cham gi ilo
 
-                    Padri: Joma ywak koting'o kodhi
+                    <i>Padri</i>: Joma ywak koting'o kodhi
                     Ji: Biro dok e miechgi gi cham, ka
                     mor. (Zaburi 126:5-6)
 
-                    Padri: Ruoth Nyasaye biro miyo wadhi
+                    <i>Padri</i>: Ruoth Nyasaye biro miyo wadhi
                     nyime maber,
                     Ji: Kendo pinywa biro nyago cham
                     mogundho (Zaburi 85:12)
 
-                    Padri: Ang'o ma iparo ni in-go ma ok
+                    <i>Padri</i>: Ang'o ma iparo ni in-go ma ok
                     Nyasaye ema ne omiyi?
                     Ji: Koro ere gima omiyo isungori ma-
                     na ka gima gik ma in-go ok omiyi
                     amiya. (1 Jo-Korintho 4:7)
 
-                    Padri: Chiwo kelo gueth moloyo kawo;
+                    <i>Padri</i>: Chiwo kelo gueth moloyo kawo;
                     (Tich Joote 20:35)
                     Ji: Jachiwo ma mor ema Nyasaye
                     ohero. (2 Korintho 9:7)
 
-                    Padri: Paruru Ruoth Nyasaye ma
+                    <i>Padri</i>: Paruru Ruoth Nyasaye ma
                     Nyasachu,
                     Ji:Nimar en ema omiyou teko mar
                     yudo mwandu (Rapar mar Chik 8:18)
@@ -12047,7 +12046,7 @@ class SecondFragment : Fragment() {
                     gimor ka gikelo chiwo mag-gi. Ka gise kelo
                     chiwo duto to gisiko ka gichung, kendo
                     padri lemo
-                    Padri: In ema ichiwo gik moko duto A Ruoth.
+                    <i>Padri</i>: In ema ichiwo gik moko duto A Ruoth.
                     Ji: Kendo wadwokoni mana gik moko
                     duto maisemiyowa.
 
@@ -12064,7 +12063,7 @@ class SecondFragment : Fragment() {
                     Guedh jogi e tijegi mapile, rit kendo imedgi
                     moloyo mondo gichopgo dwaroni duto kaka
                     owinjore, mondo nyingi maler omi duong'
-                    kod luor. Amina.
+                    kod luor.<b>Amina</b>.
                     13. Ji bet
                     14. LEMO MAMOKO
 
@@ -12096,7 +12095,7 @@ class SecondFragment : Fragment() {
                     Koro gueth mar Nyasaye Manyalo gik Mo-
                     ko Duto. Wuoro, Wuowi kod Roho Maler
                     obed kodu kendo osik kodu ndalo duto
-                    nyaka chieng'. Amina.
+                    nyaka chieng'.<b>Amina</b>.
 
                     17. Wer miwuokgo ei kanisa
                     
@@ -12150,13 +12149,13 @@ class SecondFragment : Fragment() {
                     mar lemoni. (lemoni nyathi ma ipidho e
                     bwo chik)
 
-                    CHENRO MAR LEMO
+                    <h4>CHENRO MAR LEMO</h4>
                     1. Wer
                     Jonyuol kod osiepegi kelo nyathi ir padri.
                     gichung' e nyım mesa mar Ruoth ka ging'iyo
                     padri
 
-                    2. Padri: Ruoth obed kodu
+                    2. <i>Padri</i>: Ruoth obed kodu
                     Ji: In bende obed kodi
                     Wasebiro ka e nyım Nyasaye mondo wari=
                     wre gi migosi kod mikayi.. N.. kuom goyo
@@ -12174,46 +12173,46 @@ class SecondFragment : Fragment() {
                     nyimi kagin gi mor maduong'. Yie lamowa
                     gi pak ka wariwre kodi kuom goyoni eroka-
                     mano kuom timbeni miwuoro. Kuom Yesu
-                    Kristo Ruodhwa. Amina.
+                    Kristo Ruodhwa.<b>Amina</b>.
 
                     2. Padri telo ni ji kowacho kiewo mokwongo
                     to ji dwoko mar ariyo.
-                    Padri: Nikech Ruoth Nyasaye ber
+                    <i>Padri</i>: Nikech Ruoth Nyasaye ber
                     Ji: Wabiro pake gi Zaburi.
 
-                    Padri: Ji duto moluoro Ruoth mondo owach
+                    <i>Padri</i>: Ji duto moluoro Ruoth mondo owach
                     niya.
                     Ji: Herane mosiko ochwere. (Zaburi
                     118: 1-4)
 
-                    Padri: Ka ok Ruoth Nyasaye ogero ot
+                    <i>Padri</i>: Ka ok Ruoth Nyasaye ogero ot
                     Ji: To tich jogedo odhi kanono.
 
-                    Padri: Bende onge tiende tiyo matek mon-
+                    <i>Padri</i>: Bende onge tiende tiyo matek mon-
                     do uyud chiemo, ka uchiewo gokinyi
                     mang'ich kendo udhi nindo molewo.
                     Ji: Ruoth Nyasaye ema miyo nindo tero
                     ng'ato mohero.
 
-                    Padri: Nyithindo gin mich moa kuom Ru-
+                    <i>Padri</i>: Nyithindo gin mich moa kuom Ru-
                     oth Nyasaye
                     Ji: Adier, gin gueth miwuoro.
 
-                    Padri: Yawuowi ma ng'ato onyuolo kapod
+                    <i>Padri</i>: Yawuowi ma ng'ato onyuolo kapod
                     otin
                     Ji: Chalo gi aserini ma ja lweny
                     oting'o e lwete.
 
-                    Padri: Ng'ato monegi gi aserini mang'eny
+                    <i>Padri</i>: Ng'ato monegi gi aserini mang'eny
                     ma kamago en jahawi
                     Ji: Oa noloye ka oromo gi wasike e
                     dhoranga jodala. (Zaburi 127)
 
-                    Padri: Duong' obed ni Wuoro ni Wuowi
+                    <i>Padri</i>: Duong' obed ni Wuoro ni Wuowi
                     kod Roho Maler
                     Ji: Kaka nobet mokwongo, kendo ka-
                     ka obet kawuono, kendo kaka biro
-                    bet nyaka chieng'. Amina.
+                    bet nyaka chieng'.<b>Amina</b>.
                     4. WER
                     5. Padri ting'o nyathi e bade kendo owacho
                     lemoni kata litania maluwo lamogi.
@@ -12237,14 +12236,14 @@ class SecondFragment : Fragment() {
                     bende. Geng'e kuom osiepe maricho.
                     To imiye osiepe mabeyo e kinde modongo.
                     Wakwayi ma kuom Yesu Kristo Ruodhwa.
-                    Amina.
+                   <b>Amina</b>.
 
                     A Nyasaye, mi jonywol nyathini opuonje
                     yor Kristo, mondo odongi ka en gi rieko,
                     kendo otegno e chunye, ka ji ma kamago
                     ema yudo gueth mar loch Nyasaye; wakwa-
                     yi ma e nying Yesu Kristo Ruodhwa kendo
-                    Jawarwa. Amina.
+                    Jawarwa.<b>Amina</b>.
 
                     6. Lamo mar nyathi mopidhie bwo chik
                     A Nyasaye Wuonwa, ma wan-go gi Winjru-
@@ -12262,33 +12261,33 @@ class SecondFragment : Fragment() {
                     idongi ka giheri kendo in bende ihergi.
                     Kaka Yesu ne en e kaka N bende biro bedo
                     gi rieko, kotegno e chunye kendo e ringre,
-                    ka Nyasaye kod ji bedo mamor kode. Amina.
+                    ka Nyasaye kod ji bedo mamor kode.<b>Amina</b>.
 
                     7. Bang'e isomo Litania
-                    Padri: Ruoth wagoyonı erokamano ikech 
+                    <i>Padri</i>: Ruoth wagoyonı erokamano ikech 
                     nyathini
                     Ji: Kuom miyo onywole maber
 
-                    Padri: Ruoth geng'ne tuoche
+                    <i>Padri</i>: Ruoth geng'ne tuoche
                     Ji: Ruoth igeng'ne
 
-                    Padri: Ruoth igeng'ne hinyruok ma apoya
+                    <i>Padri</i>: Ruoth igeng'ne hinyruok ma apoya
                     (ajali)
                     Ji: Ruoth igeng'ne
 
-                    Padri: Onego puonje kendo orite maber
+                    <i>Padri</i>: Onego puonje kendo orite maber
                     Ji: Onego obed mamor kochiemo kod
                     jonyuolne
 
-                    Padri: Onego odongi ka en gi rieko kod
+                    <i>Padri</i>: Onego odongi ka en gi rieko kod
                     teko mar chuny
                     Ji:Ka Nyasaye kod ji bedo mamor kode
 
-                    Padri: Onego odongi mobed janeno motegno
+                    <i>Padri</i>: Onego odongi mobed janeno motegno
                     mar Kristo
                     Ji: Ei kanisa kendo ni ji duto
 
-                    Padri: Ruoth mondo okonyi e chandruok
+                    <i>Padri</i>: Ruoth mondo okonyi e chandruok
                     duto manobi e ngimani
                     Ji: Mondo ibed mamor kuom mwandu
                     mar dak higni mang'eny.
@@ -12344,8 +12343,9 @@ class SecondFragment : Fragment() {
                     chiwore moloyo kaka jo Kristo kuom tije
                     madongo ma Nyasaye oluongowae kendo
                     omiyowa mondo watim.
-
-                    CHENRO MAR LEMO
+        
+                    <hr>
+                    <h4>CHENRO MAR LEMO</h4>
                     *Wer. E sa ma iwero wendni, ji ma obiro
                     goyo erokamano sudo nyime, kendo gi-
                     chung' ka ging'iyo mesa mar Ruoth.
@@ -12430,7 +12430,7 @@ class SecondFragment : Fragment() {
                     asaye luongogi mondo gitim ei kanisa kata ei
                     parish.
 
-                    Padri: Guedh jotichnigi, A Ruoth, mosebiro
+                    <i>Padri</i>: Guedh jotichnigi, A Ruoth, mosebiro
                     mondo ogoni erokamano kendo opaki
                     kuom ber ma giseyudo koa kuomi.
                     To sani gichiwore ni mondo gitini.
@@ -12440,7 +12440,7 @@ class SecondFragment : Fragment() {
                     duto, okelni ngima maler, pak kod
                     duong'. Guedhgi ka gidhi kendo ka
                     gidwogo, chakre kawuono kendo
-                    nayaka chieng'. Amina.
+                    nayaka chieng'.<b>Amina</b>.
 
                     Padri gi jakonyne yieyo lwetgi e wi ng'ato ka
                     ng'ato mochiwore ni tich Nyasaye kowacho
@@ -12448,7 +12448,7 @@ class SecondFragment : Fragment() {
                     Owali ni Ruoth. E tijeni duto, mich duto ma
                     Ruoth omiyi, to gi ngimani kaka idak. tem
                     mondo imi Nyasaye duong'. E nying Wuoro
-                    gi Wuowi kod Roho Maler. Amina.
+                    gi Wuowi kod Roho Maler.<b>Amina</b>.
 
                     Bang' mano iwero wer mowinjore ka ji dok
                     bet e kombegi.
